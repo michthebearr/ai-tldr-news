@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { getAllEditions } from "@/lib/editions";
-import EmailSignup from "@/components/EmailSignup";
+import BeehiivForm from "@/components/BeehiivForm";
 
 function formatDate(dateStr: string) {
   return new Date(dateStr).toLocaleDateString("en-US", {
@@ -37,10 +37,7 @@ export default function HomePage() {
 
           {/* Sign up form */}
           <div id="subscribe" className="max-w-lg mx-auto">
-            <EmailSignup />
-            <p className="text-xs text-zinc-600 mt-3">
-              No spam. Unsubscribe anytime. Trusted by 50,000+ readers.
-            </p>
+            <BeehiivForm />
           </div>
         </div>
       </section>
