@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import EmailSignup from "@/components/EmailSignup";
+import SubscribeForm from "@/components/SubscribeForm";
 
 export const metadata: Metadata = {
   title: "About — AI TLDR",
@@ -47,7 +47,7 @@ export default function AboutPage() {
               "Anyone who wants to stay sharp without drowning in feeds",
             ].map((item) => (
               <li key={item} className="flex items-start gap-3">
-                <span className="text-cyan-400 mt-1 shrink-0">→</span>
+                <span className="text-orange-400 mt-1 shrink-0">→</span>
                 <span>{item}</span>
               </li>
             ))}
@@ -80,12 +80,15 @@ export default function AboutPage() {
           <h2 className="text-xl font-bold text-white mb-3">
             How do I subscribe?
           </h2>
-          <p className="mb-5">
+          <p className="mb-6">
             Drop your email below and you&apos;ll get the next edition delivered
             directly to your inbox. We never share your email, and you can
             unsubscribe with one click at any time.
           </p>
-          <EmailSignup />
+          <div className="relative bg-zinc-900 border border-zinc-800 rounded-2xl p-8 text-center overflow-hidden">
+            <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-orange-500/40 to-transparent" />
+            <SubscribeForm />
+          </div>
         </section>
       </div>
     </div>

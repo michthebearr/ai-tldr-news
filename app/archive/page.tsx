@@ -42,7 +42,7 @@ export default function ArchivePage() {
               </div>
               <Link
                 href={`/editions/${edition.slug}`}
-                className="shrink-0 text-xs bg-zinc-800 hover:bg-cyan-500 hover:text-zinc-950 text-zinc-300 font-semibold px-4 py-2 rounded-md transition-colors"
+                className="shrink-0 text-xs bg-zinc-800 hover:bg-orange-500 hover:text-white text-zinc-300 font-semibold px-4 py-2 rounded-md transition-colors"
               >
                 Read
               </Link>

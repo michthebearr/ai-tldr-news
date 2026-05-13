@@ -6,6 +6,15 @@ const RSSParser = require("rss-parser");
 const fs = require("fs");
 const path = require("path");
 
+// Load .env.local if present
+const envPath = path.join(process.cwd(), ".env.local");
+if (fs.existsSync(envPath)) {
+  for (const line of fs.readFileSync(envPath, "utf-8").split("\n")) {
+    const match = line.match(/^([^#=]+)=(.*)$/);
+    if (match) process.env[match[1].trim()] = match[2].trim().replace(/^["']|["']$/g, "");
+  }
+}
+
 // ── Config ────────────────────────────────────────────────────────────────────
 
 const FEEDS = [
