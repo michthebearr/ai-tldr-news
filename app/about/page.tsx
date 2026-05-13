@@ -47,7 +47,7 @@ export default function AboutPage() {
               "Anyone who wants to stay sharp without drowning in feeds",
             ].map((item) => (
               <li key={item} className="flex items-start gap-3">
-                <span className="text-orange-400 mt-1 shrink-0">→</span>
+                <span className="text-violet-400 mt-1 shrink-0">→</span>
                 <span>{item}</span>
               </li>
             ))}
@@ -86,7 +86,7 @@ export default function AboutPage() {
             unsubscribe with one click at any time.
           </p>
           <div className="relative bg-zinc-900 border border-zinc-800 rounded-2xl p-8 text-center overflow-hidden">
-            <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-orange-500/40 to-transparent" />
+            <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-violet-500/40 to-transparent" />
             <SubscribeForm />
           </div>
         </section>

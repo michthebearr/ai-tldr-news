@@ -66,7 +66,7 @@ export default function SubscribeForm() {
           placeholder="Email Address"
           required
           disabled={status === "loading"}
-          className="flex-1 h-11 bg-white text-zinc-900 placeholder:text-zinc-400 px-4 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-orange-500 disabled:opacity-60"
+          className="flex-1 h-11 bg-white text-zinc-900 placeholder:text-zinc-400 px-4 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-violet-500 disabled:opacity-60"
         />
         <button
           type="submit"

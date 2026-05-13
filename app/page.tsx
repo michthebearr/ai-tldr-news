@@ -18,16 +18,16 @@ export default function HomePage() {
     <>
       {/* Hero */}
       <section className="relative overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-b from-orange-950/20 to-transparent pointer-events-none" />
+        <div className="absolute inset-0 bg-gradient-to-b from-violet-950/20 to-transparent pointer-events-none" />
         <div className="max-w-4xl mx-auto px-6 pt-24 pb-16 text-center">
-          <div className="inline-flex items-center gap-2 bg-zinc-800/60 border border-zinc-700/60 rounded-full px-4 py-1.5 text-xs text-orange-400 font-medium mb-8">
-            <span className="w-1.5 h-1.5 bg-orange-400 rounded-full animate-pulse" />
+          <div className="inline-flex items-center gap-2 bg-zinc-800/60 border border-zinc-700/60 rounded-full px-4 py-1.5 text-xs text-violet-400 font-medium mb-8">
+            <span className="w-1.5 h-1.5 bg-violet-400 rounded-full animate-pulse" />
             Free daily newsletter · Every weekday
           </div>
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-black tracking-tight text-white leading-[1.08] mb-6">
             AI news that actually
             <br />
-            <span className="text-orange-400">moves the needle</span>
+            <span className="text-violet-400">moves the needle</span>
           </h1>
           <p className="text-lg sm:text-xl text-zinc-400 max-w-2xl mx-auto leading-relaxed">
             Every weekday we cut through the noise and deliver the 6 most
@@ -41,11 +41,11 @@ export default function HomePage() {
       <section id="subscribe" className="max-w-2xl mx-auto px-6 pb-20">
         <div className="relative bg-zinc-900/80 border border-zinc-700/60 rounded-2xl p-8 sm:p-10 text-center overflow-hidden">
           {/* Subtle glow */}
-          <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-orange-500/40 to-transparent" />
-          <div className="absolute inset-0 bg-gradient-to-b from-orange-950/10 to-transparent pointer-events-none rounded-2xl" />
+          <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-violet-500/40 to-transparent" />
+          <div className="absolute inset-0 bg-gradient-to-b from-violet-950/10 to-transparent pointer-events-none rounded-2xl" />
 
           <div className="relative">
-            <p className="text-xs font-semibold text-orange-400 uppercase tracking-widest mb-3">
+            <p className="text-xs font-semibold text-violet-400 uppercase tracking-widest mb-3">
               Join 50,000+ readers
             </p>
             <h2 className="text-2xl sm:text-3xl font-black text-white mb-3 leading-tight">
@@ -55,19 +55,19 @@ export default function HomePage() {
 
             <div className="flex items-center justify-center gap-6 mt-6 text-xs text-zinc-500">
               <span className="flex items-center gap-1.5">
-                <svg className="w-3.5 h-3.5 text-orange-500" fill="currentColor" viewBox="0 0 20 20">
+                <svg className="w-3.5 h-3.5 text-violet-500" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                 </svg>
                 Free forever
               </span>
               <span className="flex items-center gap-1.5">
-                <svg className="w-3.5 h-3.5 text-orange-500" fill="currentColor" viewBox="0 0 20 20">
+                <svg className="w-3.5 h-3.5 text-violet-500" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                 </svg>
                 Unsubscribe anytime
               </span>
               <span className="flex items-center gap-1.5">
-                <svg className="w-3.5 h-3.5 text-orange-500" fill="currentColor" viewBox="0 0 20 20">
+                <svg className="w-3.5 h-3.5 text-violet-500" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                 </svg>
                 5 min read
@@ -86,7 +86,7 @@ export default function HomePage() {
           </div>
           <Link
             href="/archive"
-            className="text-sm text-orange-400 hover:text-orange-300 transition-colors font-medium"
+            className="text-sm text-violet-400 hover:text-violet-300 transition-colors font-medium"
           >
             View all &rarr;
           </Link>
@@ -96,18 +96,18 @@ export default function HomePage() {
             <Link
               key={edition.slug}
               href={`/editions/${edition.slug}`}
-              className="group block bg-zinc-900/60 border border-zinc-800 hover:border-orange-800/60 rounded-xl p-6 transition-all hover:bg-zinc-900"
+              className="group block bg-zinc-900/60 border border-zinc-800 hover:border-violet-800/60 rounded-xl p-6 transition-all hover:bg-zinc-900"
             >
               <time className="text-xs text-zinc-500 uppercase tracking-widest font-medium">
                 {formatDate(edition.date)}
               </time>
-              <h3 className="text-base font-bold text-white mt-2 mb-3 leading-snug group-hover:text-orange-300 transition-colors line-clamp-3">
+              <h3 className="text-base font-bold text-white mt-2 mb-3 leading-snug group-hover:text-violet-300 transition-colors line-clamp-3">
                 {edition.title}
               </h3>
               <p className="text-sm text-zinc-400 leading-relaxed line-clamp-3">
                 {edition.excerpt}
               </p>
-              <span className="inline-flex items-center gap-1 text-xs text-orange-500 mt-4 font-medium group-hover:gap-2 transition-all">
+              <span className="inline-flex items-center gap-1 text-xs text-violet-500 mt-4 font-medium group-hover:gap-2 transition-all">
                 Read edition <span>&rarr;</span>
               </span>
             </Link>

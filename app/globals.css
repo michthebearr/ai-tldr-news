@@ -42,14 +42,14 @@ body {
 }
 
 .beehiiv-wrap button[type="submit"] {
-  background-color: #18181b !important;
-  color: #f4f4f5 !important;
+  background-color: #7c3aed !important;
+  color: #ffffff !important;
   font-weight: 600 !important;
   border-radius: 0.375rem !important;
 }
 
 .beehiiv-wrap button[type="submit"]:hover {
-  background-color: #27272a !important;
+  background-color: #6d28d9 !important;
 }
 
 .prose-dark h2 {
@@ -74,7 +74,7 @@ body {
 }
 
 .prose-dark strong {
-  color: #f97316;
+  color: #8b5cf6;
   font-weight: 600;
 }
 
