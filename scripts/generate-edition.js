@@ -181,11 +181,9 @@ async function generateEdition(articles) {
 // ── Save to disk ──────────────────────────────────────────────────────────────
 
 function saveEdition(text) {
-  // Strip any preamble before the opening ---
   const start = text.indexOf("---");
   const markdown = start > 0 ? text.slice(start) : text;
 
-  // Extract the slug from frontmatter to use as the filename
   const slugMatch = markdown.match(/^slug:\s*["']?([^"'\n\r]+)["']?/m);
   const today = new Date().toISOString().slice(0, 10);
   const slug = slugMatch ? slugMatch[1].trim() : today;
@@ -197,6 +195,131 @@ function saveEdition(text) {
   fs.writeFileSync(filepath, markdown.trimEnd() + "\n", "utf-8");
 
   return filepath;
+}
+
+// ── Frontmatter parser ────────────────────────────────────────────────────────
+
+function parseFrontmatter(text) {
+  const result = {};
+  const match = text.match(/^---\n([\s\S]+?)\n---/);
+  if (!match) return result;
+  for (const line of match[1].split("\n")) {
+    const kv = line.match(/^(\w+):\s*["']?(.*?)["']?\s*$/);
+    if (kv) result[kv[1]] = kv[2].trim();
+  }
+  return result;
+}
+
+// ── Markdown → HTML email ─────────────────────────────────────────────────────
+
+function applyInline(text) {
+  return text
+    .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+    .replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2" style="color:#7c3aed;text-decoration:none;font-weight:600;">$1</a>');
+}
+
+function buildEmailHtml(markdownText, title, excerpt) {
+  const body = markdownText.replace(/^---[\s\S]*?---\n+/, "").trim();
+  const blocks = body.split(/\n{2,}/);
+
+  const htmlBlocks = blocks.map((block) => {
+    block = block.trim();
+    if (!block) return "";
+
+    if (block === "---") {
+      return '<hr style="border:none;border-top:1px solid #e5e7eb;margin:28px 0;">';
+    }
+
+    if (block.startsWith("## ")) {
+      const heading = applyInline(block.slice(3).trim());
+      return `<h2 style="font-size:20px;font-weight:800;color:#111827;margin:36px 0 10px;padding-bottom:10px;border-bottom:3px solid #7c3aed;line-height:1.3;">${heading}</h2>`;
+    }
+
+    const lines = block.split("\n");
+    if (lines.every((l) => l.startsWith("- "))) {
+      const items = lines
+        .map((l) => `<li style="margin-bottom:8px;color:#374151;line-height:1.6;">${applyInline(l.slice(2).trim())}</li>`)
+        .join("");
+      return `<ul style="padding-left:20px;margin:12px 0;">${items}</ul>`;
+    }
+
+    const para = applyInline(block.replace(/\n/g, " "));
+    return `<p style="color:#374151;font-size:16px;line-height:1.75;margin:10px 0;">${para}</p>`;
+  });
+
+  const inner = htmlBlocks.filter(Boolean).join("\n");
+
+  return `<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
+<body style="margin:0;padding:0;background:#f3f4f6;">
+  <div style="max-width:600px;margin:0 auto;padding:32px 16px;">
+    <div style="background:#ffffff;border-radius:12px;padding:40px 36px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;">
+
+      <!-- Header -->
+      <div style="margin-bottom:28px;padding-bottom:24px;border-bottom:1px solid #e5e7eb;">
+        <p style="color:#7c3aed;font-size:11px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;margin:0 0 12px;">AI TLDR</p>
+        <h1 style="font-size:26px;font-weight:800;color:#111827;margin:0 0 12px;line-height:1.25;">${title}</h1>
+        <p style="color:#6b7280;font-size:15px;margin:0;line-height:1.6;">${excerpt}</p>
+      </div>
+
+      <!-- Body -->
+      ${inner}
+
+      <!-- Footer -->
+      <div style="margin-top:40px;padding-top:24px;border-top:1px solid #e5e7eb;text-align:center;">
+        <p style="color:#9ca3af;font-size:13px;margin:0 0 6px;">You're receiving this because you subscribed to AI TLDR.</p>
+        <p style="color:#9ca3af;font-size:13px;margin:0;"><a href="{{unsubscribe}}" style="color:#9ca3af;">Unsubscribe</a></p>
+      </div>
+
+    </div>
+  </div>
+</body>
+</html>`;
+}
+
+// ── Beehiiv publish ───────────────────────────────────────────────────────────
+
+async function publishToBeehiiv(title, excerpt, htmlContent) {
+  const pubId = process.env.BEEHIIV_PUBLICATION_ID;
+  const apiKey = process.env.BEEHIIV_API_KEY;
+
+  if (!pubId || !apiKey) {
+    console.warn("\n⚠ BEEHIIV_PUBLICATION_ID or BEEHIIV_API_KEY not set — skipping publish.");
+    return;
+  }
+
+  const res = await fetch(
+    `https://api.beehiiv.com/v2/publications/${pubId}/posts`,
+    {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: `Bearer ${apiKey}`,
+      },
+      body: JSON.stringify({
+        subject_line: title,
+        preview_text: excerpt,
+        status: "confirmed",
+        schedule_for: Math.floor(Date.now() / 1000),
+        email_body_html: htmlContent,
+        web_title: title,
+        web_subtitle: excerpt,
+        audience: "free",
+        content_type: "free",
+      }),
+    }
+  );
+
+  const data = await res.json();
+
+  if (!res.ok) {
+    console.error(`  ✗ Beehiiv publish failed (${res.status}): ${JSON.stringify(data)}`);
+    return;
+  }
+
+  const postUrl = data.data?.url || data.data?.id || "unknown";
+  console.log(`  ✓ Published to Beehiiv: ${postUrl}`);
 }
 
 // ── Entry point ───────────────────────────────────────────────────────────────
@@ -224,6 +347,11 @@ async function main() {
   console.log("\nStep 3: Saving edition...");
   const filepath = saveEdition(text);
   console.log(`\n✓ Saved: ${filepath}`);
+
+  console.log("\nStep 4: Publishing to Beehiiv...");
+  const fm = parseFrontmatter(text);
+  const html = buildEmailHtml(text, fm.title || "AI TLDR", fm.excerpt || "");
+  await publishToBeehiiv(fm.title || "AI TLDR", fm.excerpt || "", html);
 }
 
 main().catch((err) => {
