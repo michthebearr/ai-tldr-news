@@ -34,6 +34,8 @@ export async function POST(req: NextRequest) {
   );
 
   if (!res.ok) {
+    const body = await res.text();
+    console.error(`Beehiiv error — status: ${res.status}, body: ${body}`);
     return NextResponse.json({ error: "Subscription failed" }, { status: 400 });
   }
 
