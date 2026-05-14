@@ -3,6 +3,7 @@
 
 const Anthropic = require("@anthropic-ai/sdk");
 const RSSParser = require("rss-parser");
+const { Resend } = require("resend");
 const fs = require("fs");
 const path = require("path");
 
@@ -26,6 +27,8 @@ const FEEDS = [
 
 const MODEL = "claude-sonnet-4-6";
 const EDITIONS_DIR = path.join(process.cwd(), "content", "editions");
+const FROM_ADDRESS = "AI Daily <newsletter@aidaily.now>";
+const TEST_RECIPIENT = "wang.michelle.yi@gmail.com";
 
 // ── RSS fetching ──────────────────────────────────────────────────────────────
 
@@ -215,7 +218,10 @@ function parseFrontmatter(text) {
 function applyInline(text) {
   return text
     .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
-    .replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2" style="color:#7c3aed;text-decoration:none;font-weight:600;">$1</a>');
+    .replace(
+      /\[(.+?)\]\((.+?)\)/g,
+      '<a href="$2" style="color:#7c3aed;text-decoration:none;font-weight:600;">$1</a>'
+    );
 }
 
 function buildEmailHtml(markdownText, title, excerpt) {
@@ -238,7 +244,10 @@ function buildEmailHtml(markdownText, title, excerpt) {
     const lines = block.split("\n");
     if (lines.every((l) => l.startsWith("- "))) {
       const items = lines
-        .map((l) => `<li style="margin-bottom:8px;color:#374151;line-height:1.6;">${applyInline(l.slice(2).trim())}</li>`)
+        .map(
+          (l) =>
+            `<li style="margin-bottom:8px;color:#374151;line-height:1.6;">${applyInline(l.slice(2).trim())}</li>`
+        )
         .join("");
       return `<ul style="padding-left:20px;margin:12px 0;">${items}</ul>`;
     }
@@ -256,20 +265,16 @@ function buildEmailHtml(markdownText, title, excerpt) {
   <div style="max-width:600px;margin:0 auto;padding:32px 16px;">
     <div style="background:#ffffff;border-radius:12px;padding:40px 36px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;">
 
-      <!-- Header -->
       <div style="margin-bottom:28px;padding-bottom:24px;border-bottom:1px solid #e5e7eb;">
         <p style="color:#7c3aed;font-size:11px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;margin:0 0 12px;">AI TLDR</p>
         <h1 style="font-size:26px;font-weight:800;color:#111827;margin:0 0 12px;line-height:1.25;">${title}</h1>
         <p style="color:#6b7280;font-size:15px;margin:0;line-height:1.6;">${excerpt}</p>
       </div>
 
-      <!-- Body -->
       ${inner}
 
-      <!-- Footer -->
       <div style="margin-top:40px;padding-top:24px;border-top:1px solid #e5e7eb;text-align:center;">
-        <p style="color:#9ca3af;font-size:13px;margin:0 0 6px;">You're receiving this because you subscribed to AI TLDR.</p>
-        <p style="color:#9ca3af;font-size:13px;margin:0;"><a href="{{unsubscribe}}" style="color:#9ca3af;">Unsubscribe</a></p>
+        <p style="color:#9ca3af;font-size:13px;margin:0;">You're receiving this because you subscribed to AI TLDR.</p>
       </div>
 
     </div>
@@ -278,49 +283,31 @@ function buildEmailHtml(markdownText, title, excerpt) {
 </html>`;
 }
 
-// ── Beehiiv publish ───────────────────────────────────────────────────────────
+// ── Resend email send ─────────────────────────────────────────────────────────
 
-async function publishToBeehiiv(title, excerpt, htmlContent) {
-  const pubId = process.env.BEEHIIV_PUBLICATION_ID;
-  const apiKey = process.env.BEEHIIV_API_KEY;
+async function sendEditionEmail(title, excerpt, htmlContent) {
+  const apiKey = process.env.RESEND_API_KEY;
 
-  if (!pubId || !apiKey) {
-    console.warn("\n⚠ BEEHIIV_PUBLICATION_ID or BEEHIIV_API_KEY not set — skipping publish.");
+  if (!apiKey) {
+    console.warn("\n⚠ RESEND_API_KEY not set — skipping email send.");
     return;
   }
 
-  const res = await fetch(
-    `https://api.beehiiv.com/v2/publications/${pubId}/posts`,
-    {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        Authorization: `Bearer ${apiKey}`,
-      },
-      body: JSON.stringify({
-        title,
-        subject_line: title,
-        preview_text: excerpt,
-        status: "confirmed",
-        schedule_for: Math.floor(Date.now() / 1000),
-        email_body_html: htmlContent,
-        web_title: title,
-        web_subtitle: excerpt,
-        audience: "free",
-        content_type: "free",
-      }),
-    }
-  );
+  const resend = new Resend(apiKey);
 
-  const data = await res.json();
+  const { data, error } = await resend.emails.send({
+    from: FROM_ADDRESS,
+    to: [TEST_RECIPIENT],
+    subject: title,
+    html: htmlContent,
+  });
 
-  if (!res.ok) {
-    console.error(`  ✗ Beehiiv publish failed (${res.status}): ${JSON.stringify(data)}`);
+  if (error) {
+    console.error(`  ✗ Resend failed: ${JSON.stringify(error)}`);
     return;
   }
 
-  const postUrl = data.data?.url || data.data?.id || "unknown";
-  console.log(`  ✓ Published to Beehiiv: ${postUrl}`);
+  console.log(`  ✓ Email sent via Resend — id: ${data.id}`);
 }
 
 // ── Entry point ───────────────────────────────────────────────────────────────
@@ -349,10 +336,10 @@ async function main() {
   const filepath = saveEdition(text);
   console.log(`\n✓ Saved: ${filepath}`);
 
-  console.log("\nStep 4: Publishing to Beehiiv...");
+  console.log("\nStep 4: Sending email via Resend...");
   const fm = parseFrontmatter(text);
   const html = buildEmailHtml(text, fm.title || "AI TLDR", fm.excerpt || "");
-  await publishToBeehiiv(fm.title || "AI TLDR", fm.excerpt || "", html);
+  await sendEditionEmail(fm.title || "AI TLDR", fm.excerpt || "", html);
 }
 
 main().catch((err) => {
