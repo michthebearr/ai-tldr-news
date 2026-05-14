@@ -24,7 +24,7 @@ const FEEDS = [
   "https://feeds.arstechnica.com/arstechnica/technology-lab",
 ];
 
-const MODEL = "claude-sonnet-4-20250514";
+const MODEL = "claude-sonnet-4-6";
 const EDITIONS_DIR = path.join(process.cwd(), "content", "editions");
 
 // ── RSS fetching ──────────────────────────────────────────────────────────────
@@ -298,6 +298,7 @@ async function publishToBeehiiv(title, excerpt, htmlContent) {
         Authorization: `Bearer ${apiKey}`,
       },
       body: JSON.stringify({
+        title,
         subject_line: title,
         preview_text: excerpt,
         status: "confirmed",
