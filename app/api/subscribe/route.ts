@@ -9,6 +9,7 @@ export async function POST(req: NextRequest) {
   }
 
   const apiKey = process.env.RESEND_API_KEY;
+  const audienceId = process.env.RESEND_AUDIENCE_ID;
 
   if (!apiKey) {
     return NextResponse.json(
@@ -19,6 +20,21 @@ export async function POST(req: NextRequest) {
 
   const resend = new Resend(apiKey);
 
+  // Save to Resend Audience
+  if (audienceId) {
+    const { error: contactError } = await resend.contacts.create({
+      audienceId,
+      email,
+      unsubscribed: false,
+    });
+    if (contactError) {
+      console.error("Resend contact create failed:", contactError);
+    }
+  } else {
+    console.warn("RESEND_AUDIENCE_ID not set — subscriber not saved to audience");
+  }
+
+  // Send welcome email
   const { error } = await resend.emails.send({
     from: "AI Daily <newsletter@aidaily.now>",
     to: [email],

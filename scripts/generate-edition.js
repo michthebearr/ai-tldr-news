@@ -29,7 +29,6 @@ const FEEDS = [
 const MODEL = "claude-sonnet-4-6";
 const EDITIONS_DIR = path.join(process.cwd(), "content", "editions");
 const FROM_ADDRESS = "AI Daily <newsletter@aidaily.now>";
-const TEST_RECIPIENT = "wang.michelle.yi@gmail.com";
 
 // ── RSS fetching ──────────────────────────────────────────────────────────────
 
@@ -286,7 +285,26 @@ function buildEmailHtml(markdownText, title, excerpt) {
 
 // ── Resend email send ─────────────────────────────────────────────────────────
 
-async function sendEditionEmail(title, excerpt, htmlContent) {
+async function getSubscribers(resend) {
+  const audienceId = process.env.RESEND_AUDIENCE_ID;
+  if (!audienceId) {
+    console.warn("  ⚠ RESEND_AUDIENCE_ID not set — no subscriber list available.");
+    return [];
+  }
+
+  const { data, error } = await resend.contacts.list({ audienceId });
+  if (error) {
+    console.error(`  ✗ Failed to fetch contacts: ${JSON.stringify(error)}`);
+    return [];
+  }
+
+  const contacts = data?.data ?? [];
+  const active = contacts.filter((c) => !c.unsubscribed);
+  console.log(`  → ${active.length} active subscriber(s) (${contacts.length - active.length} unsubscribed)`);
+  return active;
+}
+
+async function sendEditionEmail(title, htmlContent) {
   const apiKey = process.env.RESEND_API_KEY;
 
   if (!apiKey) {
@@ -296,19 +314,34 @@ async function sendEditionEmail(title, excerpt, htmlContent) {
 
   const resend = new Resend(apiKey);
 
-  const { data, error } = await resend.emails.send({
-    from: FROM_ADDRESS,
-    to: [TEST_RECIPIENT],
-    subject: title,
-    html: htmlContent,
-  });
-
-  if (error) {
-    console.error(`  ✗ Resend failed: ${JSON.stringify(error)}`);
+  const subscribers = await getSubscribers(resend);
+  if (subscribers.length === 0) {
+    console.warn("  ⚠ No subscribers to send to.");
     return;
   }
 
-  console.log(`  ✓ Email sent via Resend — id: ${data.id}`);
+  // Resend batch supports up to 100 per request — chunk if needed
+  const BATCH_SIZE = 100;
+  let totalSent = 0;
+
+  for (let i = 0; i < subscribers.length; i += BATCH_SIZE) {
+    const chunk = subscribers.slice(i, i + BATCH_SIZE);
+    const messages = chunk.map((contact) => ({
+      from: FROM_ADDRESS,
+      to: [contact.email],
+      subject: title,
+      html: htmlContent,
+    }));
+
+    const { data, error } = await resend.batch.send(messages);
+    if (error) {
+      console.error(`  ✗ Batch send failed: ${JSON.stringify(error)}`);
+      continue;
+    }
+    totalSent += data?.data?.length ?? chunk.length;
+  }
+
+  console.log(`  ✓ Sent to ${totalSent} subscriber(s) via Resend`);
 }
 
 // ── Entry point ───────────────────────────────────────────────────────────────
@@ -340,7 +373,7 @@ async function main() {
   console.log("\nStep 4: Sending email via Resend...");
   const fm = parseFrontmatter(text);
   const html = buildEmailHtml(text, fm.title || "AI TLDR", fm.excerpt || "");
-  await sendEditionEmail(fm.title || "AI TLDR", fm.excerpt || "", html);
+  await sendEditionEmail(fm.title || "AI TLDR", html);
 }
 
 main().catch((err) => {
