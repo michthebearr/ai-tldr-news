@@ -12,7 +12,19 @@
       "Bash(npm run *)",
       "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3001)",
       "Bash(curl -s -o /dev/null -w '%{http_code}' http://localhost:3000__TRACKED_VAR__)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Skill(claude-api)",
+      "Bash(node --check /Users/michellew/Desktop/ai-tldr-news/scripts/generate-edition.js)",
+      "Bash(gh repo *)",
+      "Bash(node *)",
+      "Bash(curl -s https://www.therundown.ai)",
+      "Bash(xargs kill -9)",
+      "Bash(git push *)",
+      "Bash(gh api *)",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(d.get\\('name'\\), d.get\\('path'\\)\\)\")",
+      "Bash(git pull *)",
+      "Bash(git stash *)"
     ]
   }
 }
