@@ -30,6 +30,7 @@ jobs:
       - name: Generate edition
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
         run: node scripts/generate-edition.js
 
       - name: Commit and push new edition
