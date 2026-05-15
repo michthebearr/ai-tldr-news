@@ -2,7 +2,7 @@ name: Daily Edition Generator
 
 on:
   schedule:
-    - cron: '0 14 * * *'
+    - cron: '0 14 * * *'  # 7am PDT (UTC-7); change to 0 15 * * * in winter (PST/UTC-8)
   workflow_dispatch:
 
 permissions:
