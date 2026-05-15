@@ -20,8 +20,9 @@ if (fs.existsSync(envPath)) {
 
 const FEEDS = [
   "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "https://techcrunch.com/feed/",
   "https://www.theverge.com/rss/index.xml",
-  "https://venturebeat.com/ai/feed/",
+  "https://feeds.feedburner.com/aiweekly",
   "https://feeds.arstechnica.com/arstechnica/technology-lab",
 ];
 
