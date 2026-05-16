@@ -16,6 +16,16 @@ if (fs.existsSync(envPath)) {
   }
 }
 
+// ── CLI flags ─────────────────────────────────────────────────────────────────
+
+const dateArgIdx = process.argv.indexOf("--date");
+const TARGET_DATE = dateArgIdx !== -1 ? process.argv[dateArgIdx + 1] : null;
+
+if (TARGET_DATE && !/^\d{4}-\d{2}-\d{2}$/.test(TARGET_DATE)) {
+  console.error("Error: --date must be in YYYY-MM-DD format (e.g. 2026-05-13)");
+  process.exit(1);
+}
+
 // ── Config ────────────────────────────────────────────────────────────────────
 
 const FEEDS = [
@@ -33,9 +43,8 @@ const FROM_ADDRESS = "AI Daily <newsletter@aidaily.now>";
 
 // ── RSS fetching ──────────────────────────────────────────────────────────────
 
-async function fetchArticles() {
+async function fetchArticles(cutoffStart, cutoffEnd) {
   const parser = new RSSParser();
-  const cutoff = Date.now() - 24 * 60 * 60 * 1000;
   const articles = [];
 
   for (const feedUrl of FEEDS) {
@@ -45,7 +54,7 @@ async function fetchArticles() {
       let count = 0;
       for (const item of feed.items) {
         const pubDate = item.pubDate ? new Date(item.pubDate).getTime() : 0;
-        if (pubDate >= cutoff) {
+        if (pubDate >= cutoffStart && pubDate < cutoffEnd) {
           articles.push({
             title: (item.title || "").trim(),
             description: (item.contentSnippet || item.summary || item.content || "")
@@ -59,7 +68,7 @@ async function fetchArticles() {
           count++;
         }
       }
-      console.log(`  → ${count} articles from the last 24 h`);
+      console.log(`  → ${count} article(s) in window`);
     } catch (err) {
       console.error(`  ✗ Failed to fetch ${feedUrl}: ${err.message}`);
     }
@@ -130,9 +139,8 @@ excerpt: "One compelling sentence under 180 characters that makes someone want t
 
 // ── Claude API call ───────────────────────────────────────────────────────────
 
-async function generateEdition(articles) {
+async function generateEdition(articles, today) {
   const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
-  const today = new Date().toISOString().slice(0, 10);
 
   const systemPrompt = buildSystemPrompt(today);
   const articleList = buildArticleList(articles);
@@ -184,12 +192,11 @@ async function generateEdition(articles) {
 
 // ── Save to disk ──────────────────────────────────────────────────────────────
 
-function saveEdition(text) {
+function saveEdition(text, today) {
   const start = text.indexOf("---");
   const markdown = start > 0 ? text.slice(start) : text;
 
   const slugMatch = markdown.match(/^slug:\s*["']?([^"'\n\r]+)["']?/m);
-  const today = new Date().toISOString().slice(0, 10);
   const slug = slugMatch ? slugMatch[1].trim() : today;
 
   fs.mkdirSync(EDITIONS_DIR, { recursive: true });
@@ -499,22 +506,33 @@ async function main() {
     process.exit(1);
   }
 
-  console.log("AI TLDR — Edition Generator\n");
+  const today = TARGET_DATE ?? new Date().toISOString().slice(0, 10);
+
+  let cutoffStart, cutoffEnd;
+  if (TARGET_DATE) {
+    cutoffStart = new Date(TARGET_DATE + "T00:00:00Z").getTime();
+    cutoffEnd   = cutoffStart + 24 * 60 * 60 * 1000;
+    console.log(`AI TLDR — Edition Generator (backfill: ${TARGET_DATE})\n`);
+  } else {
+    cutoffEnd   = Date.now();
+    cutoffStart = cutoffEnd - 24 * 60 * 60 * 1000;
+    console.log("AI TLDR — Edition Generator\n");
+  }
 
   console.log("Step 1: Fetching RSS feeds...");
-  const articles = await fetchArticles();
+  const articles = await fetchArticles(cutoffStart, cutoffEnd);
   console.log(`\nTotal articles found: ${articles.length}`);
 
   if (articles.length === 0) {
-    console.warn("No articles found in the last 24 hours. Exiting.");
+    console.warn("No articles found in the window. Exiting.");
     process.exit(0);
   }
 
   console.log("\nStep 2: Generating newsletter with Claude...");
-  const text = await generateEdition(articles);
+  const text = await generateEdition(articles, today);
 
   console.log("\nStep 3: Saving edition...");
-  const filepath = saveEdition(text);
+  const filepath = saveEdition(text, today);
   console.log(`\n✓ Saved: ${filepath}`);
 
   console.log("\nStep 4: Fetching story images...");
@@ -528,10 +546,14 @@ async function main() {
     console.log("  ✓ Updated frontmatter with story_images");
   }
 
-  console.log("\nStep 5: Sending email via Resend...");
-  const fm = parseFrontmatter(text);
-  const html = buildEmailHtml(text, fm.title || "AI TLDR", fm.excerpt || "", storyImages);
-  await sendEditionEmail(fm.title || "AI TLDR", html);
+  if (TARGET_DATE) {
+    console.log("\nStep 5: Skipping email send (past date backfill).");
+  } else {
+    console.log("\nStep 5: Sending email via Resend...");
+    const fm = parseFrontmatter(text);
+    const html = buildEmailHtml(text, fm.title || "AI TLDR", fm.excerpt || "", storyImages);
+    await sendEditionEmail(fm.title || "AI TLDR", html);
+  }
 }
 
 main().catch((err) => {
