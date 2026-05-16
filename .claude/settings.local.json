@@ -24,7 +24,11 @@
       "Bash(gh api *)",
       "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(d.get\\('name'\\), d.get\\('path'\\)\\)\")",
       "Bash(git pull *)",
-      "Bash(git stash *)"
+      "Bash(git stash *)",
+      "Bash(curl -s -X GET https://api.resend.com/audiences -H 'Authorization: Bearer re_TnQZSXvt_9AzcjGghK9Pivd4ZaRPSDtdn')",
+      "Bash(python3 -m json.tool)",
+      "Bash(git reset *)",
+      "Bash(grep -A 15 \"^#### \\\\`fill\\\\`\" /Users/michellew/Desktop/ai-tldr-news/node_modules/next/dist/docs/01-app/03-api-reference/02-components/image.md)"
     ]
   }
 }
