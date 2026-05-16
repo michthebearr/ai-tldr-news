@@ -96,20 +96,31 @@ export default function HomePage() {
             <Link
               key={edition.slug}
               href={`/editions/${edition.slug}`}
-              className="group block bg-zinc-900/60 border border-zinc-800 hover:border-violet-800/60 rounded-xl p-6 transition-all hover:bg-zinc-900"
+              className="group block bg-zinc-900/60 border border-zinc-800 hover:border-violet-800/60 rounded-xl overflow-hidden transition-all hover:bg-zinc-900"
             >
-              <time className="text-xs text-zinc-500 uppercase tracking-widest font-medium">
-                {formatDate(edition.date)}
-              </time>
-              <h3 className="text-base font-bold text-white mt-2 mb-3 leading-snug group-hover:text-violet-300 transition-colors line-clamp-3">
-                {edition.title}
-              </h3>
-              <p className="text-sm text-zinc-400 leading-relaxed line-clamp-3">
-                {edition.excerpt}
-              </p>
-              <span className="inline-flex items-center gap-1 text-xs text-violet-500 mt-4 font-medium group-hover:gap-2 transition-all">
-                Read edition <span>&rarr;</span>
-              </span>
+              {edition.coverImage && (
+                // eslint-disable-next-line @next/next/no-img-element
+                <img
+                  src={edition.coverImage}
+                  alt={edition.title}
+                  className="w-full object-cover"
+                  style={{ height: "200px", objectFit: "cover" }}
+                />
+              )}
+              <div className="p-6">
+                <time className="text-xs text-zinc-500 uppercase tracking-widest font-medium">
+                  {formatDate(edition.date)}
+                </time>
+                <h3 className="text-base font-bold text-white mt-2 mb-3 leading-snug group-hover:text-violet-300 transition-colors line-clamp-3">
+                  {edition.title}
+                </h3>
+                <p className="text-sm text-zinc-400 leading-relaxed line-clamp-3">
+                  {edition.excerpt}
+                </p>
+                <span className="inline-flex items-center gap-1 text-xs text-violet-500 mt-4 font-medium group-hover:gap-2 transition-all">
+                  Read edition <span>&rarr;</span>
+                </span>
+              </div>
             </Link>
           ))}
         </div>

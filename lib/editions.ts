@@ -10,6 +10,7 @@ export interface Edition {
   date: string;
   excerpt: string;
   content: string;
+  coverImage?: string;
 }
 
 export function getAllEditions(): Edition[] {
@@ -17,12 +18,14 @@ export function getAllEditions(): Edition[] {
   const editions = files.map((file) => {
     const raw = fs.readFileSync(path.join(editionsDir, file), "utf-8");
     const { data, content } = matter(raw);
+    const storyImages: string[] = Array.isArray(data.story_images) ? data.story_images : [];
     return {
       slug: data.slug as string,
       title: data.title as string,
       date: data.date as string,
       excerpt: data.excerpt as string,
       content,
+      coverImage: storyImages[0] ?? undefined,
     };
   });
   return editions.sort(
