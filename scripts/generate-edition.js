@@ -280,13 +280,13 @@ async function fetchCoverImage(url, headline) {
 
     const html = await response.text();
 
-    const ogImage = extractOgImage(html);
+    const ogImage = extractOgImage(html)?.replace(/&amp;/g, "&");
     if (ogImage && isValidImageUrl(ogImage)) return ogImage;
 
-    const twitterImage = extractTwitterImage(html);
+    const twitterImage = extractTwitterImage(html)?.replace(/&amp;/g, "&");
     if (twitterImage && isValidImageUrl(twitterImage)) return twitterImage;
 
-    const largeImg = findLargeImage(html);
+    const largeImg = findLargeImage(html)?.replace(/&amp;/g, "&");
     if (largeImg) return largeImg;
   } catch {
     // timeout or network error — fall through to Unsplash

@@ -83,7 +83,7 @@ function parseEditionContent(content: string, storyImages: string[]) {
 // ── Inline link + bold renderer ───────────────────────────────────────────────
 
 function InlineContent({ text }: { text: string }) {
-  const parts = text.split(/(\[[^\]]+\]\([^)]+\))/g);
+  const parts = text.replace(/\[\[([^\]]+)\]\(/g, "[$1](").split(/(\[[^\]]+\]\([^)]+\))/g);
   return (
     <>
       {parts.map((part, i) => {
