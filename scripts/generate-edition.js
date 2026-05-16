@@ -22,7 +22,8 @@ const FEEDS = [
   "https://techcrunch.com/category/artificial-intelligence/feed/",
   "https://techcrunch.com/feed/",
   "https://www.theverge.com/rss/index.xml",
-  "https://feeds.feedburner.com/aiweekly",
+  "https://www.artificialintelligence-news.com/feed/",
+  "https://syncedreview.com/feed/",
   "https://feeds.arstechnica.com/arstechnica/technology-lab",
 ];
 
@@ -213,6 +214,125 @@ function parseFrontmatter(text) {
   return result;
 }
 
+// ── Story image helpers ───────────────────────────────────────────────────────
+
+function isValidImageUrl(url) {
+  if (!url || !url.startsWith("https://")) return false;
+  const lower = url.toLowerCase();
+  return !["logo", "avatar", "icon", "badge", "pixel", "tracking"].some((t) =>
+    lower.includes(t)
+  );
+}
+
+function extractOgImage(html) {
+  const m =
+    html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i) ||
+    html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i);
+  return m ? m[1] : null;
+}
+
+function extractTwitterImage(html) {
+  const m =
+    html.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i) ||
+    html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']/i);
+  return m ? m[1] : null;
+}
+
+function findLargeImage(html) {
+  const imgRegex = /<img\b[^>]+>/gi;
+  let m;
+  while ((m = imgRegex.exec(html)) !== null) {
+    const tag = m[0];
+    const srcMatch = tag.match(/\bsrc=["']([^"']+)["']/i);
+    if (!srcMatch) continue;
+    const src = srcMatch[1];
+    const wMatch = tag.match(/\bwidth=["']?(\d+)/i);
+    const hMatch = tag.match(/\bheight=["']?(\d+)/i);
+    const w = wMatch ? parseInt(wMatch[1]) : 0;
+    const h = hMatch ? parseInt(hMatch[1]) : 0;
+    if ((w > 400 || h > 400) && isValidImageUrl(src)) return src;
+  }
+  return null;
+}
+
+function getUnsplashUrl(headline) {
+  const keywords = headline
+    .toLowerCase()
+    .replace(/[^a-z0-9 ]/g, "")
+    .split(" ")
+    .filter((w) => w.length > 3)
+    .slice(0, 3)
+    .join(",");
+  return `https://source.unsplash.com/800x400/?${encodeURIComponent(keywords || "artificial intelligence")}`;
+}
+
+async function fetchCoverImage(url, headline) {
+  try {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 5000);
+    const response = await fetch(url, {
+      signal: controller.signal,
+      headers: { "User-Agent": "Mozilla/5.0 (compatible; newsletter-bot/1.0)" },
+    });
+    clearTimeout(timer);
+
+    if (!response.ok) return getUnsplashUrl(headline);
+
+    const html = await response.text();
+
+    const ogImage = extractOgImage(html);
+    if (ogImage && isValidImageUrl(ogImage)) return ogImage;
+
+    const twitterImage = extractTwitterImage(html);
+    if (twitterImage && isValidImageUrl(twitterImage)) return twitterImage;
+
+    const largeImg = findLargeImage(html);
+    if (largeImg) return largeImg;
+  } catch {
+    // timeout or network error — fall through to Unsplash
+  }
+  return getUnsplashUrl(headline);
+}
+
+async function fetchAllStoryImages(markdownText) {
+  const body = markdownText.replace(/^---[\s\S]*?---\n+/, "");
+  const sections = body.split(/\n+---\n+/);
+  const storyImages = [];
+
+  for (const section of sections) {
+    const trimmed = section.trim();
+    const headlineMatch = trimmed.match(/^##\s+(.+)/m);
+    if (!headlineMatch) continue;
+    const headline = headlineMatch[1].trim();
+    if (headline === "Quick Hits") continue;
+
+    const urlMatch = trimmed.match(/\*\*Source:\*\*\s*\[[^\]]+\]\(([^)]+)\)/);
+    const url = urlMatch ? urlMatch[1] : null;
+
+    console.log(`  Fetching image for: ${headline.slice(0, 60)}`);
+    const imageUrl = url
+      ? await fetchCoverImage(url, headline)
+      : getUnsplashUrl(headline);
+    storyImages.push(imageUrl);
+  }
+
+  return storyImages;
+}
+
+function injectFrontmatterImages(markdownText, storyImages) {
+  if (!storyImages.length) return markdownText;
+  const imagesYaml = storyImages.map((url) => `  - "${url}"`).join("\n");
+  const firstDash = markdownText.indexOf("---\n");
+  if (firstDash !== 0) return markdownText;
+  const secondDash = markdownText.indexOf("\n---\n", firstDash + 3);
+  if (secondDash === -1) return markdownText;
+  return (
+    markdownText.slice(0, secondDash) +
+    `\nstory_images:\n${imagesYaml}` +
+    markdownText.slice(secondDash)
+  );
+}
+
 // ── Markdown → HTML email ─────────────────────────────────────────────────────
 
 function applyInline(text) {
@@ -224,9 +344,19 @@ function applyInline(text) {
     );
 }
 
-function buildEmailHtml(markdownText, title, excerpt) {
+function buildEmailHtml(markdownText, title, excerpt, storyImages = []) {
   const body = markdownText.replace(/^---[\s\S]*?---\n+/, "").trim();
   const blocks = body.split(/\n{2,}/);
+
+  // Pre-extract story source URLs in order so images link to the right articles
+  const storyUrls = [];
+  const sourcePattern = /\*\*Source:\*\*\s*\[[^\]]+\]\(([^)]+)\)/g;
+  let sm;
+  while ((sm = sourcePattern.exec(body)) !== null) {
+    storyUrls.push(sm[1]);
+  }
+
+  let storyIndex = 0;
 
   const htmlBlocks = blocks.map((block) => {
     block = block.trim();
@@ -237,7 +367,24 @@ function buildEmailHtml(markdownText, title, excerpt) {
     }
 
     if (block.startsWith("## ")) {
-      const heading = applyInline(block.slice(3).trim());
+      const headingText = block.slice(3).trim();
+      const isQuickHits = headingText === "Quick Hits";
+      const heading = applyInline(headingText);
+
+      if (!isQuickHits && storyIndex < storyImages.length) {
+        const imgUrl = storyImages[storyIndex];
+        const linkUrl = storyUrls[storyIndex] || "#";
+        const altText = headingText.replace(/[<>"&]/g, "");
+        storyIndex++;
+        return (
+          `<a href="${linkUrl}" style="display:block;margin:36px 0 0;text-decoration:none;">` +
+          `<img src="${imgUrl}" alt="${altText}" style="width:100%;max-height:250px;object-fit:cover;border-radius:8px;display:block;" loading="lazy">` +
+          `</a>\n` +
+          `<h2 style="font-size:20px;font-weight:800;color:#111827;margin:12px 0 10px;padding-bottom:10px;border-bottom:3px solid #7c3aed;line-height:1.3;">${heading}</h2>`
+        );
+      }
+
+      if (!isQuickHits) storyIndex++;
       return `<h2 style="font-size:20px;font-weight:800;color:#111827;margin:36px 0 10px;padding-bottom:10px;border-bottom:3px solid #7c3aed;line-height:1.3;">${heading}</h2>`;
     }
 
@@ -370,9 +517,20 @@ async function main() {
   const filepath = saveEdition(text);
   console.log(`\n✓ Saved: ${filepath}`);
 
-  console.log("\nStep 4: Sending email via Resend...");
+  console.log("\nStep 4: Fetching story images...");
+  const storyImages = await fetchAllStoryImages(text);
+  console.log(`  → ${storyImages.length} story image(s) resolved`);
+
+  if (storyImages.length > 0) {
+    const savedText = fs.readFileSync(filepath, "utf-8");
+    const updatedText = injectFrontmatterImages(savedText, storyImages);
+    fs.writeFileSync(filepath, updatedText, "utf-8");
+    console.log("  ✓ Updated frontmatter with story_images");
+  }
+
+  console.log("\nStep 5: Sending email via Resend...");
   const fm = parseFrontmatter(text);
-  const html = buildEmailHtml(text, fm.title || "AI TLDR", fm.excerpt || "");
+  const html = buildEmailHtml(text, fm.title || "AI TLDR", fm.excerpt || "", storyImages);
   await sendEditionEmail(fm.title || "AI TLDR", html);
 }
 
