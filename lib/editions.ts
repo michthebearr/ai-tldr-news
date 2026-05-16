@@ -11,6 +11,7 @@ export interface Edition {
   excerpt: string;
   content: string;
   coverImage?: string;
+  storyImages: string[];
 }
 
 export function getAllEditions(): Edition[] {
@@ -25,6 +26,7 @@ export function getAllEditions(): Edition[] {
       date: data.date as string,
       excerpt: data.excerpt as string,
       content,
+      storyImages,
       coverImage: storyImages[0] ?? undefined,
     };
   });
