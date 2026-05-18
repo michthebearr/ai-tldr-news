@@ -263,14 +263,18 @@ function findLargeImage(html) {
 }
 
 function getUnsplashUrl(headline) {
-  const keywords = headline
-    .toLowerCase()
-    .replace(/[^a-z0-9 ]/g, "")
-    .split(" ")
-    .filter((w) => w.length > 3)
-    .slice(0, 3)
-    .join(",");
-  return `https://source.unsplash.com/800x400/?${encodeURIComponent(keywords || "artificial intelligence")}`;
+  const lower = headline.toLowerCase();
+  if (/\b(ai|llm|gpt|claude|gemini|openai|anthropic|chatgpt|language model|artificial intelligence|machine learning)\b/.test(lower))
+    return "https://source.unsplash.com/800x400/?artificial-intelligence,technology";
+  if (/\b(robot|robotics|autonomous|drone|humanoid)\b/.test(lower))
+    return "https://source.unsplash.com/800x400/?robot,technology";
+  if (/\b(cyber|hack|breach|security|ransomware|malware|phishing|vulnerability)\b/.test(lower))
+    return "https://source.unsplash.com/800x400/?cybersecurity,technology";
+  if (/\b(health|medical|hospital|patient|doctor|clinical|drug|biotech)\b/.test(lower))
+    return "https://source.unsplash.com/800x400/?healthcare,technology";
+  if (/\b(fund|raise|million|billion|startup|invest|valuation|ipo|acquire|acquisition)\b/.test(lower))
+    return "https://source.unsplash.com/800x400/?business,technology";
+  return "https://source.unsplash.com/800x400/?technology,innovation";
 }
 
 async function fetchCoverImage(url, headline) {
