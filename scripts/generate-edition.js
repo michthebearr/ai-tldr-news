@@ -414,10 +414,17 @@ function buildEmailHtml(markdownText, title, excerpt, storyImages = []) {
 
   return `<!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+  @media (max-width:600px) {
+    .email-outer { padding-left:0 !important; padding-right:0 !important; }
+    .email-card  { padding-left:12px !important; padding-right:12px !important; border-radius:0 !important; }
+  }
+</style>
+</head>
 <body style="margin:0;padding:0;background:#f3f4f6;">
-  <div style="max-width:600px;margin:0 auto;padding:32px 16px;">
-    <div style="background:#ffffff;border-radius:12px;padding:40px 36px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;">
+  <div class="email-outer" style="max-width:600px;margin:0 auto;padding:32px 16px;">
+    <div class="email-card" style="background:#ffffff;border-radius:12px;padding:40px 36px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;">
 
       <div style="margin-bottom:28px;padding-bottom:24px;border-bottom:1px solid #e5e7eb;">
         <p style="color:#7c3aed;font-size:11px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;margin:0 0 12px;">AI TLDR</p>
