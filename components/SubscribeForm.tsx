@@ -58,7 +58,7 @@ export default function SubscribeForm() {
 
   return (
     <div>
-      <form onSubmit={handleSubmit} className="flex gap-2">
+      <form onSubmit={handleSubmit} className="flex flex-col gap-2 sm:flex-row">
         <input
           type="email"
           value={email}
@@ -71,7 +71,7 @@ export default function SubscribeForm() {
         <button
           type="submit"
           disabled={status === "loading"}
-          className="h-11 flex items-center gap-2 bg-zinc-950 hover:bg-zinc-800 text-white font-semibold px-5 rounded-lg text-sm transition-colors disabled:opacity-60 whitespace-nowrap border border-zinc-700"
+          className="h-11 flex items-center justify-center gap-2 bg-zinc-950 hover:bg-zinc-800 text-white font-semibold px-5 rounded-lg text-sm transition-colors disabled:opacity-60 whitespace-nowrap border border-zinc-700"
         >
           {status === "loading" ? "Subscribing…" : (
             <>
