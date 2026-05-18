@@ -418,7 +418,7 @@ function buildEmailHtml(markdownText, title, excerpt, storyImages = []) {
 <style>
   @media (max-width:600px) {
     .email-outer { padding-left:0 !important; padding-right:0 !important; }
-    .email-card  { padding-left:12px !important; padding-right:12px !important; border-radius:0 !important; }
+    .email-card  { padding-left:8px !important; padding-right:8px !important; border-radius:0 !important; }
   }
 </style>
 </head>
