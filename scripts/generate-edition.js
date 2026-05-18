@@ -77,6 +77,76 @@ async function fetchArticles(cutoffStart, cutoffEnd) {
   return articles;
 }
 
+// ── Deduplication ─────────────────────────────────────────────────────────────
+
+const STOP_WORDS = new Set([
+  "a","an","the","is","are","was","were","be","been","being",
+  "and","or","but","for","nor","so","yet","at","by","in","of",
+  "on","to","up","as","it","its","this","that","these","those",
+  "with","from","into","about","over","after","how","why","what",
+  "who","when","where","will","can","has","have","had","not","just",
+  "more","new","than","then","their","they","also","all","one","two",
+]);
+
+function titleWords(title) {
+  return new Set(
+    title.toLowerCase()
+      .replace(/[^a-z0-9 ]/g, " ")
+      .split(/\s+/)
+      .filter((w) => w.length > 1 && !STOP_WORDS.has(w))
+  );
+}
+
+function wordOverlap(titleA, titleB) {
+  const wordsA = titleWords(titleA);
+  const wordsB = titleWords(titleB);
+  if (wordsA.size === 0 || wordsB.size === 0) return 0;
+  let shared = 0;
+  for (const w of wordsA) if (wordsB.has(w)) shared++;
+  return shared / Math.max(wordsA.size, wordsB.size);
+}
+
+function loadRecentEditionData(days) {
+  const cutoff = Date.now() - days * 24 * 60 * 60 * 1000;
+  const urls = new Set();
+  const headlines = [];
+
+  if (!fs.existsSync(EDITIONS_DIR)) return { urls, headlines };
+
+  for (const file of fs.readdirSync(EDITIONS_DIR)) {
+    if (!file.endsWith(".md")) continue;
+    const dateMatch = file.match(/^(\d{4}-\d{2}-\d{2})/);
+    if (!dateMatch) continue;
+    if (new Date(dateMatch[1] + "T00:00:00Z").getTime() < cutoff) continue;
+
+    const content = fs.readFileSync(path.join(EDITIONS_DIR, file), "utf-8");
+
+    for (const m of content.matchAll(/\]\((https?:\/\/[^)]+)\)/g)) {
+      urls.add(m[1].split("?")[0]);
+    }
+    for (const m of content.matchAll(/^## (.+)$/gm)) {
+      const h = m[1].trim();
+      if (h !== "Quick Hits") headlines.push(h);
+    }
+  }
+
+  return { urls, headlines };
+}
+
+function deduplicateArticles(articles, { urls, headlines }) {
+  const before = articles.length;
+  const filtered = articles.filter((article) => {
+    if (urls.has(article.url.split("?")[0])) return false;
+    for (const h of headlines) {
+      if (wordOverlap(article.title, h) > 0.6) return false;
+    }
+    return true;
+  });
+  const removed = before - filtered.length;
+  if (removed > 0) console.log(`  → Removed ${removed} duplicate(s) seen in the last 7 days`);
+  return filtered;
+}
+
 // ── Prompt helpers ────────────────────────────────────────────────────────────
 
 function buildArticleList(articles) {
@@ -531,11 +601,21 @@ async function main() {
   }
 
   console.log("Step 1: Fetching RSS feeds...");
-  const articles = await fetchArticles(cutoffStart, cutoffEnd);
-  console.log(`\nTotal articles found: ${articles.length}`);
+  const rawArticles = await fetchArticles(cutoffStart, cutoffEnd);
+  console.log(`\nTotal articles found: ${rawArticles.length}`);
+
+  if (rawArticles.length === 0) {
+    console.warn("No articles found in the window. Exiting.");
+    process.exit(0);
+  }
+
+  console.log("\nStep 1b: Deduplicating against last 7 days...");
+  const recentData = loadRecentEditionData(7);
+  const articles = deduplicateArticles(rawArticles, recentData);
+  console.log(`  → ${articles.length} article(s) remaining after dedup`);
 
   if (articles.length === 0) {
-    console.warn("No articles found in the window. Exiting.");
+    console.warn("No new articles after deduplication. Exiting.");
     process.exit(0);
   }
 
