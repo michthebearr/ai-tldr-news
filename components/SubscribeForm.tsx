@@ -66,12 +66,12 @@ export default function SubscribeForm() {
           placeholder="Email Address"
           required
           disabled={status === "loading"}
-          className="sm:flex-1 h-11 bg-white text-zinc-900 placeholder:text-zinc-400 px-4 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-violet-500 disabled:opacity-60"
+          className="w-full py-[14px] px-5 text-base rounded-xl border border-transparent sm:flex-1 sm:h-11 sm:py-0 sm:px-4 sm:text-sm sm:rounded-lg sm:border-0 bg-white text-zinc-900 placeholder:text-zinc-400 focus:outline-none focus:ring-2 focus:ring-violet-500 disabled:opacity-60"
         />
         <button
           type="submit"
           disabled={status === "loading"}
-          className="h-11 flex items-center justify-center gap-2 bg-zinc-950 hover:bg-zinc-800 text-white font-semibold px-4 rounded-lg text-sm transition-colors disabled:opacity-60 whitespace-nowrap border border-zinc-700"
+          className="w-full py-[14px] px-5 text-base rounded-xl sm:w-auto sm:h-11 sm:py-0 sm:px-4 sm:text-sm sm:rounded-lg flex items-center justify-center gap-2 bg-zinc-950 hover:bg-zinc-800 text-white font-semibold transition-colors disabled:opacity-60 whitespace-nowrap border border-zinc-700"
         >
           {status === "loading" ? "Subscribing…" : (
             <>
