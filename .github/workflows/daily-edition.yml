@@ -34,6 +34,15 @@ jobs:
           RESEND_AUDIENCE_ID: ${{ secrets.RESEND_AUDIENCE_ID }}
         run: node scripts/generate-edition.js
 
+      - name: Read edition slug
+        id: slug
+        run: |
+          if [ -f /tmp/edition-slug.txt ]; then
+            echo "slug=$(cat /tmp/edition-slug.txt)" >> $GITHUB_OUTPUT
+          else
+            echo "slug=" >> $GITHUB_OUTPUT
+          fi
+
       - name: Commit and push new edition
         run: |
           git config user.name "github-actions[bot]"
@@ -44,3 +53,12 @@ jobs:
           git pull --rebase origin main
           git stash pop
           git push origin main
+
+      - name: Trigger Instagram generation
+        if: steps.slug.outputs.slug != ''
+        run: |
+          curl -X POST \
+            -H "Authorization: Bearer ${{ secrets.PERSONAL_ACCESS_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/${{ github.repository }}/dispatches \
+            -d "{\"event_type\":\"edition_published\",\"client_payload\":{\"edition_url\":\"https://www.aidaily.now/editions/${{ steps.slug.outputs.slug }}\"}}"

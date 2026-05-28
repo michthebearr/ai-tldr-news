@@ -274,6 +274,7 @@ function saveEdition(text, today) {
   const filename = `${slug}.md`;
   const filepath = path.join(EDITIONS_DIR, filename);
   fs.writeFileSync(filepath, markdown.trimEnd() + "\n", "utf-8");
+  fs.writeFileSync("/tmp/edition-slug.txt", slug, "utf-8");
 
   return filepath;
 }
