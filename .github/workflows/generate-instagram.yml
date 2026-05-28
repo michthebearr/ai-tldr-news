@@ -1,0 +1,67 @@
+name: Generate Instagram Posts
+
+on:
+  repository_dispatch:
+    types: [edition_published]
+  workflow_dispatch:
+    inputs:
+      edition_url:
+        description: "Edition URL (e.g. https://www.aidaily.now/editions/2026-05-26-...)"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Work Sans Bold font
+        run: |
+          mkdir -p assets/fonts
+          if [ ! -f assets/fonts/WorkSans-Bold.ttf ]; then
+            curl -sL \
+              "https://fonts.gstatic.com/s/worksans/v24/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QNig.ttf" \
+              -o assets/fonts/WorkSans-Bold.ttf
+            echo "✓ Work Sans Bold downloaded"
+          else
+            echo "✓ Work Sans Bold already present"
+          fi
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Resolve edition URL
+        id: url
+        run: |
+          if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
+            echo "value=${{ github.event.client_payload.edition_url }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "value=${{ inputs.edition_url }}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Generate Instagram posts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/instagram/generate.py --url "${{ steps.url.outputs.value }}"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add downloads/ assets/fonts/
+          git diff --staged --quiet || git commit -m \
+            "Generate Instagram posts for $(date -u +%Y-%m-%d) edition"
+          git pull --rebase origin main
+          git push origin main
