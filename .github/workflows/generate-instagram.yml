@@ -51,6 +51,41 @@ jobs:
             echo "value=${{ inputs.edition_url }}" >> "$GITHUB_OUTPUT"
           fi
 
+      - name: Wait for edition to be live
+        run: |
+          EDITION_URL="${{ steps.url.outputs.value }}"
+          echo "Polling: $EDITION_URL"
+
+          # Tier 1 — fast polling: every 10s, up to 30 attempts (5 min)
+          SUCCESS=false
+          for i in $(seq 1 30); do
+            STATUS=$(curl -s -o /dev/null -w "%{http_code}" "$EDITION_URL")
+            echo "Attempt $i/30 — HTTP $STATUS"
+            if [ "$STATUS" = "200" ]; then
+              echo "✓ Edition is live (attempt $i)"
+              SUCCESS=true
+              break
+            fi
+            sleep 10
+          done
+
+          if [ "$SUCCESS" = "true" ]; then
+            exit 0
+          fi
+
+          # Tier 2 — fallback: sleep 30 min, then one final check
+          echo "⚠ Tier 1 timed out after 30 attempts. Engaging 30-minute fallback sleep..."
+          sleep 1800
+          STATUS=$(curl -s -o /dev/null -w "%{http_code}" "$EDITION_URL")
+          echo "Final check — HTTP $STATUS"
+          if [ "$STATUS" = "200" ]; then
+            echo "✓ Edition is live after fallback sleep"
+            exit 0
+          else
+            echo "✗ Edition still not live after fallback (HTTP $STATUS). Aborting."
+            exit 1
+          fi
+
       - name: Generate Instagram posts
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
