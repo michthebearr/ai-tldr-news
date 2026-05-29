@@ -297,13 +297,7 @@ def _add_text_overlay(canvas: Image.Image, headline: str) -> Image.Image:
     overlay = Image.new("RGBA", (CANVAS_W, CANVAS_H), (0, 0, 0, 0))
     draw = ImageDraw.Draw(overlay)
 
-    # "AI  NEWS" tag at (60, H-310)
-    tag_font = load_font(24)
-    tx, ty = 60, CANVAS_H - 310
-    draw.text((tx + 2, ty + 2), "AI  NEWS", font=tag_font, fill=(0, 0, 0, 160))
-    draw.text((tx, ty), "AI  NEWS", font=tag_font, fill=(255, 255, 255, 255))
-
-    # Headline — try sizes 62→58→54→50→46, pick largest that fits in ≤3 lines
+    # Headline layout — try sizes 62→58→54→50→46, pick largest that fits in ≤3 lines
     max_w = CANVAS_W - 120
     chosen_size, chosen_lines = 46, None
     for size in [62, 58, 54, 50, 46]:
@@ -317,8 +311,18 @@ def _add_text_overlay(canvas: Image.Image, headline: str) -> Image.Image:
     font = load_font(chosen_size)
     line_h = font.getbbox("Ag")[3] + 8
     total_h = len(chosen_lines) * line_h
-    y = CANVAS_H - 60 - total_h
+    headline_top = CANVAS_H - 60 - total_h
 
+    # "AI  NEWS" tag: bottom edge always 24px above the first headline line
+    tag_font = load_font(24)
+    tag_h = tag_font.getbbox("AI  NEWS")[3]
+    tx = 60
+    ty = headline_top - 24 - tag_h
+    draw.text((tx + 2, ty + 2), "AI  NEWS", font=tag_font, fill=(0, 0, 0, 160))
+    draw.text((tx, ty), "AI  NEWS", font=tag_font, fill=(255, 255, 255, 255))
+
+    # Draw headline
+    y = headline_top
     for line in chosen_lines:
         draw.text((60 + 2, y + 2), line, font=font, fill=(0, 0, 0, 160))
         draw.text((60, y), line, font=font, fill=(255, 255, 255, 255))
