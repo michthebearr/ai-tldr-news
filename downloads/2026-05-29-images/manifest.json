@@ -1,0 +1,121 @@
+{
+  "date": "2026-05-29",
+  "edition_url": "https://www.aidaily.now/editions/2026-05-29-anthropic-965b-internet-rebuilds-for-machines",
+  "generated_at": "2026-05-29T21:06:21.053917+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_anthropic-raises-65b-and-is-now-worth-almost-a-tri",
+      "slug": "anthropic-raises-65b-and-is-now-worth-almost-a-tri",
+      "title": "Anthropic Raises $65B and Is Now Worth Almost a Trillion Dollars",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-05-29-images/01_anthropic-raises-65b-and-is-now-worth-almost-a-tri/hero.jpg",
+        "alt_1": "downloads/2026-05-29-images/01_anthropic-raises-65b-and-is-now-worth-almost-a-tri/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-05-29-images/01_anthropic-raises-65b-and-is-now-worth-almost-a-tri/cover.jpg",
+        "caption": "downloads/2026-05-29-images/01_anthropic-raises-65b-and-is-now-worth-almost-a-tri/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_aws-cloudflare-and-friends-are-rebuilding-the-inte",
+      "slug": "aws-cloudflare-and-friends-are-rebuilding-the-inte",
+      "title": "AWS, Cloudflare, and Friends Are Rebuilding the Internet for AI Agents",
+      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-05-29-images/02_aws-cloudflare-and-friends-are-rebuilding-the-inte/hero.jpg",
+        "alt_1": "downloads/2026-05-29-images/02_aws-cloudflare-and-friends-are-rebuilding-the-inte/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-05-29-images/02_aws-cloudflare-and-friends-are-rebuilding-the-inte/cover.jpg",
+        "caption": "downloads/2026-05-29-images/02_aws-cloudflare-and-friends-are-rebuilding-the-inte/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_ai-token-futures-are-coming-compute-is-becoming-a-",
+      "slug": "ai-token-futures-are-coming-compute-is-becoming-a-",
+      "title": "AI Token Futures Are Coming \u2014 Compute Is Becoming a Commodity",
+      "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-05-29-images/03_ai-token-futures-are-coming-compute-is-becoming-a-/hero.jpg",
+        "alt_1": "downloads/2026-05-29-images/03_ai-token-futures-are-coming-compute-is-becoming-a-/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-05-29-images/03_ai-token-futures-are-coming-compute-is-becoming-a-/cover.jpg",
+        "caption": "downloads/2026-05-29-images/03_ai-token-futures-are-coming-compute-is-becoming-a-/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_glean-hits-300m-arr-by-selling-ai-cost-cutting-to-",
+      "slug": "glean-hits-300m-arr-by-selling-ai-cost-cutting-to-",
+      "title": "Glean Hits $300M ARR by Selling AI Cost-Cutting to Budget-Squeezed Enterprises",
+      "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "source": "TechCrunch",
+      "image_credit": "Shauna Clinton/Sportsfile for Web Summit Qatar via Getty Images",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-05-29-images/04_glean-hits-300m-arr-by-selling-ai-cost-cutting-to-/hero.jpg",
+        "alt_1": "downloads/2026-05-29-images/04_glean-hits-300m-arr-by-selling-ai-cost-cutting-to-/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-05-29-images/04_glean-hits-300m-arr-by-selling-ai-cost-cutting-to-/cover.jpg",
+        "caption": "downloads/2026-05-29-images/04_glean-hits-300m-arr-by-selling-ai-cost-cutting-to-/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_xcena-raises-135m-betting-memory-not-compute-is-ai",
+      "slug": "xcena-raises-135m-betting-memory-not-compute-is-ai",
+      "title": "XCENA Raises $135M Betting Memory \u2014 Not Compute \u2014 Is AI's Real Constraint",
+      "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-05-29-images/05_xcena-raises-135m-betting-memory-not-compute-is-ai/hero.jpg",
+        "alt_1": "downloads/2026-05-29-images/05_xcena-raises-135m-betting-memory-not-compute-is-ai/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-05-29-images/05_xcena-raises-135m-betting-memory-not-compute-is-ai/cover.jpg",
+        "caption": "downloads/2026-05-29-images/05_xcena-raises-135m-betting-memory-not-compute-is-ai/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_devin-s-creator-says-ai-coding-agents-aren-t-here-",
+      "slug": "devin-s-creator-says-ai-coding-agents-aren-t-here-",
+      "title": "Devin's Creator Says AI Coding Agents Aren't Here to Replace Programmers",
+      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-05-29-images/06_devin-s-creator-says-ai-coding-agents-aren-t-here-/hero.jpg",
+        "alt_1": "downloads/2026-05-29-images/06_devin-s-creator-says-ai-coding-agents-aren-t-here-/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-05-29-images/06_devin-s-creator-says-ai-coding-agents-aren-t-here-/cover.jpg",
+        "caption": "downloads/2026-05-29-images/06_devin-s-creator-says-ai-coding-agents-aren-t-here-/caption.md"
+      }
+    }
+  ]
+}
