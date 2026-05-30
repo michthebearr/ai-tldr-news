@@ -1,0 +1,121 @@
+{
+  "date": "2026-05-30",
+  "edition_url": "https://www.aidaily.now/editions/2026-05-30-ai-pendants-job-losses-coding-rot-groq",
+  "generated_at": "2026-05-30T16:31:47.585826+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_meta-s-next-hardware-bet-is-a-pendant-that-talks-b",
+      "slug": "meta-s-next-hardware-bet-is-a-pendant-that-talks-b",
+      "title": "Meta's Next Hardware Bet Is a Pendant That Talks Back",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-05-30-images/01_meta-s-next-hardware-bet-is-a-pendant-that-talks-b/hero.jpg",
+        "alt_1": "downloads/2026-05-30-images/01_meta-s-next-hardware-bet-is-a-pendant-that-talks-b/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-05-30-images/01_meta-s-next-hardware-bet-is-a-pendant-that-talks-b/cover.jpg",
+        "caption": "downloads/2026-05-30-images/01_meta-s-next-hardware-bet-is-a-pendant-that-talks-b/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_google-s-gemini-spark-is-useful-so-why-does-it-exi",
+      "slug": "google-s-gemini-spark-is-useful-so-why-does-it-exi",
+      "title": "Google's Gemini Spark Is Useful \u2014 So Why Does It Exist?",
+      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-05-30-images/02_google-s-gemini-spark-is-useful-so-why-does-it-exi/hero.jpg",
+        "alt_1": "downloads/2026-05-30-images/02_google-s-gemini-spark-is-useful-so-why-does-it-exi/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-05-30-images/02_google-s-gemini-spark-is-useful-so-why-does-it-exi/cover.jpg",
+        "caption": "downloads/2026-05-30-images/02_google-s-gemini-spark-is-useful-so-why-does-it-exi/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_ai-psychosis-is-real-and-it-s-getting-people-fired",
+      "slug": "ai-psychosis-is-real-and-it-s-getting-people-fired",
+      "title": "\"AI Psychosis\" Is Real \u2014 and It's Getting People Fired",
+      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "source": "TechCrunch",
+      "image_credit": "Kimberly White/Getty Images for TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-05-30-images/03_ai-psychosis-is-real-and-it-s-getting-people-fired/hero.jpg",
+        "alt_1": "downloads/2026-05-30-images/03_ai-psychosis-is-real-and-it-s-getting-people-fired/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-05-30-images/03_ai-psychosis-is-real-and-it-s-getting-people-fired/cover.jpg",
+        "caption": "downloads/2026-05-30-images/03_ai-psychosis-is-real-and-it-s-getting-people-fired/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_coders-are-outsourcing-their-brains-to-ai-and-it-s",
+      "slug": "coders-are-outsourcing-their-brains-to-ai-and-it-s",
+      "title": "Coders Are Outsourcing Their Brains to AI \u2014 and It's Getting Risky",
+      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-05-30-images/04_coders-are-outsourcing-their-brains-to-ai-and-it-s/hero.jpg",
+        "alt_1": "downloads/2026-05-30-images/04_coders-are-outsourcing-their-brains-to-ai-and-it-s/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-05-30-images/04_coders-are-outsourcing-their-brains-to-ai-and-it-s/cover.jpg",
+        "caption": "downloads/2026-05-30-images/04_coders-are-outsourcing-their-brains-to-ai-and-it-s/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_groq-pivots-to-inference-chases-650m-raise",
+      "slug": "groq-pivots-to-inference-chases-650m-raise",
+      "title": "Groq Pivots to Inference, Chases $650M Raise",
+      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-05-30-images/05_groq-pivots-to-inference-chases-650m-raise/hero.jpg",
+        "alt_1": "downloads/2026-05-30-images/05_groq-pivots-to-inference-chases-650m-raise/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-05-30-images/05_groq-pivots-to-inference-chases-650m-raise/cover.jpg",
+        "caption": "downloads/2026-05-30-images/05_groq-pivots-to-inference-chases-650m-raise/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_vcs-are-handing-series-a-checks-to-19-year-olds-an",
+      "slug": "vcs-are-handing-series-a-checks-to-19-year-olds-an",
+      "title": "VCs Are Handing Series A Checks to 19-Year-Olds, and They Know It's Weird",
+      "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-05-30-images/06_vcs-are-handing-series-a-checks-to-19-year-olds-an/hero.jpg",
+        "alt_1": "downloads/2026-05-30-images/06_vcs-are-handing-series-a-checks-to-19-year-olds-an/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-05-30-images/06_vcs-are-handing-series-a-checks-to-19-year-olds-an/cover.jpg",
+        "caption": "downloads/2026-05-30-images/06_vcs-are-handing-series-a-checks-to-19-year-olds-an/caption.md"
+      }
+    }
+  ]
+}
