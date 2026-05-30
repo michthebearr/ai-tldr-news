@@ -176,10 +176,11 @@ def detect_face_center(img: Image.Image) -> Optional[Tuple[int, int, int, int]]:
     return (x + w // 2, y + h // 2, w, h)
 
 
-def _make_bg_cover(photo: Image.Image, y_bias: float = 0.45) -> Tuple[Image.Image, str]:
+def _make_bg_cover(photo: Image.Image, y_bias: float = 0.45, focus: Optional[Tuple[int, int]] = None) -> Tuple[Image.Image, str]:
     """
     Scale photo to fill canvas, then crop.
-    Uses face-aware crop if a face is detected; falls back to y_bias center-crop.
+    If focus (fx_pct, fy_pct) is given, crops around that point (skipping face detection).
+    Otherwise uses face-aware crop if a face is detected; falls back to y_bias center-crop.
     Returns (cropped_image, crop_description).
     """
     tw, th = CANVAS_W, CANVAS_H
@@ -188,9 +189,14 @@ def _make_bg_cover(photo: Image.Image, y_bias: float = 0.45) -> Tuple[Image.Imag
     nw, nh = int(pw * scale), int(ph * scale)
     resized = photo.resize((nw, nh), Image.LANCZOS)
 
-    face = detect_face_center(resized)
-
-    if face is not None:
+    if focus is not None:
+        fx_pct, fy_pct = focus
+        crop_x = int(nw * fx_pct / 100) - tw // 2
+        crop_y = int(nh * fy_pct / 100) - th // 2
+        crop_x = max(0, min(crop_x, nw - tw))
+        crop_y = max(0, min(crop_y, nh - th))
+        desc = f"manual focus override: cropping centered at {fx_pct}%, {fy_pct}%"
+    elif (face := detect_face_center(resized)) is not None:
         fcx, fcy, fw, fh = face
         # Eye line ≈ top 30% of bounding box
         eye_y = (fcy - fh // 2) + int(fh * 0.3)
@@ -332,7 +338,8 @@ def _add_text_overlay(canvas: Image.Image, headline: str) -> Image.Image:
 
 
 def generate_cover(
-    photo: Image.Image, headline: str, out_path: Path
+    photo: Image.Image, headline: str, out_path: Path,
+    focus: Optional[Tuple[int, int]] = None,
 ) -> Tuple[str, str]:
     """
     Build 1080×1350 Instagram cover and save as JPEG.
@@ -344,7 +351,7 @@ def generate_cover(
         image_mode = "fit-width"
         print(f"    ultra-wide source — fit-width mode")
     else:
-        bg, crop_desc = _make_bg_cover(photo, y_bias=0.45)
+        bg, crop_desc = _make_bg_cover(photo, y_bias=0.45, focus=focus)
         image_mode = "cover-crop"
         print(f"    {crop_desc}")
 

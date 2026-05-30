@@ -9,6 +9,7 @@ Examples:
     python scripts/instagram/swap_cover.py 2026-05-26-images 01_india-gig-workers alt-1
     python scripts/instagram/swap_cover.py 2026-05-26-images 03_umg-tiktok /tmp/better-photo.jpg
 """
+import argparse
 import re
 import shutil
 import sys
@@ -37,11 +38,31 @@ def _title_from_caption(caption_path: Path, folder_name: str) -> str:
 
 
 def main() -> None:
-    if len(sys.argv) < 4:
-        print(__doc__)
-        sys.exit(1)
+    parser = argparse.ArgumentParser(description="Swap hero image and regenerate cover")
+    parser.add_argument("date_folder", help="e.g. 2026-05-30-images")
+    parser.add_argument("article_folder", help="e.g. 02_google-s-gemini-spark-...")
+    parser.add_argument("source", help="alt-1, alt-2, or absolute path to image")
+    parser.add_argument(
+        "--focus", metavar="X,Y",
+        help="Manual crop center as percentages 0-100. Y defaults to 40 if omitted.",
+    )
+    args = parser.parse_args()
 
-    date_folder, article_folder, source_arg = sys.argv[1], sys.argv[2], sys.argv[3]
+    date_folder, article_folder, source_arg = args.date_folder, args.article_folder, args.source
+
+    focus = None
+    if args.focus:
+        parts = args.focus.split(",")
+        try:
+            if len(parts) == 1:
+                focus = (float(parts[0]), 40.0)
+            elif len(parts) == 2:
+                focus = (float(parts[0]), float(parts[1]))
+            else:
+                raise ValueError
+        except ValueError:
+            print("✗ --focus must be X or X,Y (e.g. --focus 70 or --focus 70,40)")
+            sys.exit(1)
 
     article_dir = REPO_ROOT / "downloads" / date_folder / article_folder
     if not article_dir.exists():
@@ -49,7 +70,9 @@ def main() -> None:
         sys.exit(1)
 
     # Resolve source image
-    if source_arg == "alt-1":
+    if source_arg == "hero":
+        src = article_dir / "hero.jpg"
+    elif source_arg == "alt-1":
         src = article_dir / "alt-1.jpg"
     elif source_arg == "alt-2":
         src = article_dir / "alt-2.jpg"
@@ -68,14 +91,17 @@ def main() -> None:
         shutil.copy2(hero_path, backup_path)
         print(f"✓ Backed up hero.jpg → hero.original.jpg")
 
-    shutil.copy2(src, hero_path)
-    print(f"✓ Replaced hero.jpg with {src.name}")
+    if src.resolve() != hero_path.resolve():
+        shutil.copy2(src, hero_path)
+        print(f"✓ Replaced hero.jpg with {src.name}")
+    else:
+        print(f"✓ Using existing hero.jpg")
 
     # Regenerate cover
     title = _title_from_caption(article_dir / "caption.md", article_folder)
     photo = Image.open(hero_path).convert("RGB")
     cover_path = article_dir / "cover.jpg"
-    logo_color, img_mode = generate_cover(photo, title, cover_path)
+    logo_color, img_mode = generate_cover(photo, title, cover_path, focus=focus)
     print(f"✓ Regenerated cover.jpg ({img_mode}, {logo_color} logo)")
     print(f"  Headline used: {title}")
 
