@@ -340,16 +340,18 @@ def _add_text_overlay(canvas: Image.Image, headline: str) -> Image.Image:
 def generate_cover(
     photo: Image.Image, headline: str, out_path: Path,
     focus: Optional[Tuple[int, int]] = None,
+    fit_width: bool = False,
 ) -> Tuple[str, str]:
     """
     Build 1080×1350 Instagram cover and save as JPEG.
     Returns (logo_color, image_mode).
     """
     pw, ph = photo.size
-    if pw / ph > 2.0:
+    if fit_width or pw / ph > 2.0:
         bg = _make_bg_fitwidth(photo, y_bias=0.28)
         image_mode = "fit-width"
-        print(f"    ultra-wide source — fit-width mode")
+        reason = "forced fit-width mode" if fit_width else "ultra-wide source — fit-width mode"
+        print(f"    {reason}")
     else:
         bg, crop_desc = _make_bg_cover(photo, y_bias=0.45, focus=focus)
         image_mode = "cover-crop"

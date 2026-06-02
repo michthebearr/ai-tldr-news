@@ -46,6 +46,10 @@ def main() -> None:
         "--focus", metavar="X,Y",
         help="Manual crop center as percentages 0-100. Y defaults to 40 if omitted.",
     )
+    parser.add_argument(
+        "--fit-width", action="store_true",
+        help="Force fit-width mode (shows full image with letterbox bars).",
+    )
     args = parser.parse_args()
 
     date_folder, article_folder, source_arg = args.date_folder, args.article_folder, args.source
@@ -101,7 +105,7 @@ def main() -> None:
     title = _title_from_caption(article_dir / "caption.md", article_folder)
     photo = Image.open(hero_path).convert("RGB")
     cover_path = article_dir / "cover.jpg"
-    logo_color, img_mode = generate_cover(photo, title, cover_path, focus=focus)
+    logo_color, img_mode = generate_cover(photo, title, cover_path, focus=focus, fit_width=args.fit_width)
     print(f"✓ Regenerated cover.jpg ({img_mode}, {logo_color} logo)")
     print(f"  Headline used: {title}")
 
