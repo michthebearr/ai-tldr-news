@@ -1,0 +1,121 @@
+{
+  "date": "2026-06-02",
+  "edition_url": "https://www.aidaily.now/editions/2026-06-02-trump-ai-order-alphabet-80b-claude-infrastructure",
+  "generated_at": "2026-06-02T17:44:23.724681+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_trump-folds-to-big-tech-on-ai-oversight-reviews-ar",
+      "slug": "trump-folds-to-big-tech-on-ai-oversight-reviews-ar",
+      "title": "Trump Folds to Big Tech on AI Oversight \u2014 Reviews Are Now Voluntary",
+      "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+      "source": "TechCrunch",
+      "image_credit": "Kent NISHIMURA / AFP via Getty Images",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-02-images/01_trump-folds-to-big-tech-on-ai-oversight-reviews-ar/hero.jpg",
+        "alt_1": "downloads/2026-06-02-images/01_trump-folds-to-big-tech-on-ai-oversight-reviews-ar/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-02-images/01_trump-folds-to-big-tech-on-ai-oversight-reviews-ar/cover.jpg",
+        "caption": "downloads/2026-06-02-images/01_trump-folds-to-big-tech-on-ai-oversight-reviews-ar/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_alphabet-is-raising-80-billion-because-it-can-t-bu",
+      "slug": "alphabet-is-raising-80-billion-because-it-can-t-bu",
+      "title": "Alphabet Is Raising $80 Billion Because It Can't Build Fast Enough",
+      "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-02-images/02_alphabet-is-raising-80-billion-because-it-can-t-bu/hero.jpg",
+        "alt_1": "downloads/2026-06-02-images/02_alphabet-is-raising-80-billion-because-it-can-t-bu/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-02-images/02_alphabet-is-raising-80-billion-because-it-can-t-bu/cover.jpg",
+        "caption": "downloads/2026-06-02-images/02_alphabet-is-raising-80-billion-because-it-can-t-bu/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_anthropic-deploys-claude-mythos-across-critical-in",
+      "slug": "anthropic-deploys-claude-mythos-across-critical-in",
+      "title": "Anthropic Deploys Claude Mythos Across Critical Infrastructure in 15 Countries",
+      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-02-images/03_anthropic-deploys-claude-mythos-across-critical-in/hero.jpg",
+        "alt_1": "downloads/2026-06-02-images/03_anthropic-deploys-claude-mythos-across-critical-in/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-02-images/03_anthropic-deploys-claude-mythos-across-critical-in/cover.jpg",
+        "caption": "downloads/2026-06-02-images/03_anthropic-deploys-claude-mythos-across-critical-in/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_microsoft-build-drops-project-solara-an-android-ba",
+      "slug": "microsoft-build-drops-project-solara-an-android-ba",
+      "title": "Microsoft Build Drops Project Solara: An Android-Based OS for AI Agent Gadgets",
+      "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
+      "source": "The Verge",
+      "image_credit": "Tom Warren / The Verge",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-02-images/04_microsoft-build-drops-project-solara-an-android-ba/hero.jpg",
+        "alt_1": "downloads/2026-06-02-images/04_microsoft-build-drops-project-solara-an-android-ba/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-02-images/04_microsoft-build-drops-project-solara-an-android-ba/cover.jpg",
+        "caption": "downloads/2026-06-02-images/04_microsoft-build-drops-project-solara-an-android-ba/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_florida-sues-openai-and-sam-altman-over-real-world",
+      "slug": "florida-sues-openai-and-sam-altman-over-real-world",
+      "title": "Florida Sues OpenAI and Sam Altman Over Real-World Violence",
+      "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "source": "TechCrunch",
+      "image_credit": "Benjamin Fanjoy/Getty Images",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-02-images/05_florida-sues-openai-and-sam-altman-over-real-world/hero.jpg",
+        "alt_1": "downloads/2026-06-02-images/05_florida-sues-openai-and-sam-altman-over-real-world/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-02-images/05_florida-sues-openai-and-sam-altman-over-real-world/cover.jpg",
+        "caption": "downloads/2026-06-02-images/05_florida-sues-openai-and-sam-altman-over-real-world/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_openai-pushes-codex-into-the-office-eyes-enterpris",
+      "slug": "openai-pushes-codex-into-the-office-eyes-enterpris",
+      "title": "OpenAI Pushes Codex Into the Office, Eyes Enterprise Market",
+      "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-02-images/06_openai-pushes-codex-into-the-office-eyes-enterpris/hero.jpg",
+        "alt_1": "downloads/2026-06-02-images/06_openai-pushes-codex-into-the-office-eyes-enterpris/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-02-images/06_openai-pushes-codex-into-the-office-eyes-enterpris/cover.jpg",
+        "caption": "downloads/2026-06-02-images/06_openai-pushes-codex-into-the-office-eyes-enterpris/caption.md"
+      }
+    }
+  ]
+}
