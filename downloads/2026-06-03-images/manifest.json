@@ -1,0 +1,121 @@
+{
+  "date": "2026-06-03",
+  "edition_url": "https://www.aidaily.now/editions/2026-06-03-microsoft-solo-suno-400m-ai-budgets",
+  "generated_at": "2026-06-03T17:52:19.868349+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_microsoft-and-openai-broke-up-now-they-re-ready-to",
+      "slug": "microsoft-and-openai-broke-up-now-they-re-ready-to",
+      "title": "Microsoft and OpenAI Broke Up \u2014 Now They're Ready to Fight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+      "source": "The Verge",
+      "image_credit": "Jennifer Pattison Tuohy / The Verge",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-03-images/01_microsoft-and-openai-broke-up-now-they-re-ready-to/hero.jpg",
+        "alt_1": "downloads/2026-06-03-images/01_microsoft-and-openai-broke-up-now-they-re-ready-to/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-03-images/01_microsoft-and-openai-broke-up-now-they-re-ready-to/cover.jpg",
+        "caption": "downloads/2026-06-03-images/01_microsoft-and-openai-broke-up-now-they-re-ready-to/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_suno-raises-400m-at-5-4b-valuation-lawsuits-be-dam",
+      "slug": "suno-raises-400m-at-5-4b-valuation-lawsuits-be-dam",
+      "title": "Suno Raises $400M at $5.4B Valuation \u2014 Lawsuits Be Damned",
+      "url": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-03-images/02_suno-raises-400m-at-5-4b-valuation-lawsuits-be-dam/hero.jpg",
+        "alt_1": "downloads/2026-06-03-images/02_suno-raises-400m-at-5-4b-valuation-lawsuits-be-dam/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-03-images/02_suno-raises-400m-at-5-4b-valuation-lawsuits-be-dam/cover.jpg",
+        "caption": "downloads/2026-06-03-images/02_suno-raises-400m-at-5-4b-valuation-lawsuits-be-dam/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_uber-and-walmart-both-hit-the-same-ai-budget-wall",
+      "slug": "uber-and-walmart-both-hit-the-same-ai-budget-wall",
+      "title": "Uber and Walmart Both Hit the Same AI Budget Wall",
+      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-03-images/03_uber-and-walmart-both-hit-the-same-ai-budget-wall/hero.jpg",
+        "alt_1": "downloads/2026-06-03-images/03_uber-and-walmart-both-hit-the-same-ai-budget-wall/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-03-images/03_uber-and-walmart-both-hit-the-same-ai-budget-wall/cover.jpg",
+        "caption": "downloads/2026-06-03-images/03_uber-and-walmart-both-hit-the-same-ai-budget-wall/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_uk-regulators-force-google-to-let-publishers-opt-o",
+      "slug": "uk-regulators-force-google-to-let-publishers-opt-o",
+      "title": "UK Regulators Force Google to Let Publishers Opt Out of AI Search",
+      "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+      "source": "TechCrunch",
+      "image_credit": "Reuters",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-03-images/04_uk-regulators-force-google-to-let-publishers-opt-o/hero.jpg",
+        "alt_1": "downloads/2026-06-03-images/04_uk-regulators-force-google-to-let-publishers-opt-o/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-03-images/04_uk-regulators-force-google-to-let-publishers-opt-o/cover.jpg",
+        "caption": "downloads/2026-06-03-images/04_uk-regulators-force-google-to-let-publishers-opt-o/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_google-s-gemini-spark-knew-things-users-never-told",
+      "slug": "google-s-gemini-spark-knew-things-users-never-told",
+      "title": "Google's Gemini Spark Knew Things Users Never Told It",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+      "source": "The Verge",
+      "image_credit": "Jennifer Pattison Tuohy / The Verge",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-03-images/05_google-s-gemini-spark-knew-things-users-never-told/hero.jpg",
+        "alt_1": "downloads/2026-06-03-images/05_google-s-gemini-spark-knew-things-users-never-told/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-03-images/05_google-s-gemini-spark-knew-things-users-never-told/cover.jpg",
+        "caption": "downloads/2026-06-03-images/05_google-s-gemini-spark-knew-things-users-never-told/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_coralogix-raises-200m-to-be-the-watchdog-for-ai-ag",
+      "slug": "coralogix-raises-200m-to-be-the-watchdog-for-ai-ag",
+      "title": "Coralogix Raises $200M to Be the Watchdog for AI Agents",
+      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-03-images/06_coralogix-raises-200m-to-be-the-watchdog-for-ai-ag/hero.jpg",
+        "alt_1": "downloads/2026-06-03-images/06_coralogix-raises-200m-to-be-the-watchdog-for-ai-ag/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-03-images/06_coralogix-raises-200m-to-be-the-watchdog-for-ai-ag/cover.jpg",
+        "caption": "downloads/2026-06-03-images/06_coralogix-raises-200m-to-be-the-watchdog-for-ai-ag/caption.md"
+      }
+    }
+  ]
+}
