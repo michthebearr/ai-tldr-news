@@ -1,0 +1,121 @@
+{
+  "date": "2026-06-05",
+  "edition_url": "https://www.aidaily.now/editions/2026-06-05-anthropic-ipo-nsa-mythos-ai-cost-crisis",
+  "generated_at": "2026-06-05T16:58:01.204157+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_anthropic-is-growing-at-a-pace-that-makes-other-st",
+      "slug": "anthropic-is-growing-at-a-pace-that-makes-other-st",
+      "title": "Anthropic Is Growing at a Pace That Makes Other Startups Look Asleep",
+      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-05-images/01_anthropic-is-growing-at-a-pace-that-makes-other-st/hero.jpg",
+        "alt_1": "downloads/2026-06-05-images/01_anthropic-is-growing-at-a-pace-that-makes-other-st/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-05-images/01_anthropic-is-growing-at-a-pace-that-makes-other-st/cover.jpg",
+        "caption": "downloads/2026-06-05-images/01_anthropic-is-growing-at-a-pace-that-makes-other-st/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_the-nsa-is-quietly-arming-itself-with-anthropic-s-",
+      "slug": "the-nsa-is-quietly-arming-itself-with-anthropic-s-",
+      "title": "The NSA Is Quietly Arming Itself With Anthropic's Mythos Model",
+      "url": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
+      "source": "TechCrunch",
+      "image_credit": "Brooks Kraft LLC/Corbis via Getty Images",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-05-images/02_the-nsa-is-quietly-arming-itself-with-anthropic-s-/hero.jpg",
+        "alt_1": "downloads/2026-06-05-images/02_the-nsa-is-quietly-arming-itself-with-anthropic-s-/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-05-images/02_the-nsa-is-quietly-arming-itself-with-anthropic-s-/cover.jpg",
+        "caption": "downloads/2026-06-05-images/02_the-nsa-is-quietly-arming-itself-with-anthropic-s-/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_the-token-bill-is-due-companies-are-drowning-in-ai",
+      "slug": "the-token-bill-is-due-companies-are-drowning-in-ai",
+      "title": "The Token Bill Is Due: Companies Are Drowning in AI Costs",
+      "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-05-images/03_the-token-bill-is-due-companies-are-drowning-in-ai/hero.jpg",
+        "alt_1": "downloads/2026-06-05-images/03_the-token-bill-is-due-companies-are-drowning-in-ai/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-05-images/03_the-token-bill-is-due-companies-are-drowning-in-ai/cover.jpg",
+        "caption": "downloads/2026-06-05-images/03_the-token-bill-is-due-companies-are-drowning-in-ai/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_new-york-just-passed-a-one-year-ban-on-new-data-ce",
+      "slug": "new-york-just-passed-a-one-year-ban-on-new-data-ce",
+      "title": "New York Just Passed a One-Year Ban on New Data Centers",
+      "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+      "source": "The Verge",
+      "image_credit": "Jennifer Pattisson Tuohy The Verge",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-05-images/04_new-york-just-passed-a-one-year-ban-on-new-data-ce/hero.jpg",
+        "alt_1": "downloads/2026-06-05-images/04_new-york-just-passed-a-one-year-ban-on-new-data-ce/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-05-images/04_new-york-just-passed-a-one-year-ban-on-new-data-ce/cover.jpg",
+        "caption": "downloads/2026-06-05-images/04_new-york-just-passed-a-one-year-ban-on-new-data-ce/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_meta-is-building-data-centers-in-tents-to-cut-cost",
+      "slug": "meta-is-building-data-centers-in-tents-to-cut-cost",
+      "title": "Meta Is Building Data Centers in Tents to Cut Costs",
+      "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-05-images/05_meta-is-building-data-centers-in-tents-to-cut-cost/hero.jpg",
+        "alt_1": "downloads/2026-06-05-images/05_meta-is-building-data-centers-in-tents-to-cut-cost/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-05-images/05_meta-is-building-data-centers-in-tents-to-cut-cost/cover.jpg",
+        "caption": "downloads/2026-06-05-images/05_meta-is-building-data-centers-in-tents-to-cut-cost/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_mira-murati-is-done-being-quiet",
+      "slug": "mira-murati-is-done-being-quiet",
+      "title": "Mira Murati Is Done Being Quiet",
+      "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-05-images/06_mira-murati-is-done-being-quiet/hero.jpg",
+        "alt_1": "downloads/2026-06-05-images/06_mira-murati-is-done-being-quiet/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-05-images/06_mira-murati-is-done-being-quiet/cover.jpg",
+        "caption": "downloads/2026-06-05-images/06_mira-murati-is-done-being-quiet/caption.md"
+      }
+    }
+  ]
+}
