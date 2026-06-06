@@ -1,0 +1,121 @@
+{
+  "date": "2026-06-06",
+  "edition_url": "https://www.aidaily.now/editions/2026-06-06-trump-openai-google-spacex-compute",
+  "generated_at": "2026-06-06T16:34:44.259316+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_the-us-government-wants-equity-in-openai",
+      "slug": "the-us-government-wants-equity-in-openai",
+      "title": "The US Government Wants Equity in OpenAI",
+      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "source": "TechCrunch",
+      "image_credit": "Mandel NGAN / AFP / Getty Images",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-06-images/01_the-us-government-wants-equity-in-openai/hero.jpg",
+        "alt_1": "downloads/2026-06-06-images/01_the-us-government-wants-equity-in-openai/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-06-images/01_the-us-government-wants-equity-in-openai/cover.jpg",
+        "caption": "downloads/2026-06-06-images/01_the-us-government-wants-equity-in-openai/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_google-is-paying-spacex-920-million-per-month-for-",
+      "slug": "google-is-paying-spacex-920-million-per-month-for-",
+      "title": "Google Is Paying SpaceX $920 Million Per Month for Compute",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-06-images/02_google-is-paying-spacex-920-million-per-month-for-/hero.jpg",
+        "alt_1": "downloads/2026-06-06-images/02_google-is-paying-spacex-920-million-per-month-for-/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-06-images/02_google-is-paying-spacex-920-million-per-month-for-/cover.jpg",
+        "caption": "downloads/2026-06-06-images/02_google-is-paying-spacex-920-million-per-month-for-/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_reid-hoffman-bails-on-microsoft-s-board-to-go-all-",
+      "slug": "reid-hoffman-bails-on-microsoft-s-board-to-go-all-",
+      "title": "Reid Hoffman Bails on Microsoft's Board to Go All-In on AI Drug Discovery",
+      "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-06-images/03_reid-hoffman-bails-on-microsoft-s-board-to-go-all-/hero.jpg",
+        "alt_1": "downloads/2026-06-06-images/03_reid-hoffman-bails-on-microsoft-s-board-to-go-all-/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-06-images/03_reid-hoffman-bails-on-microsoft-s-board-to-go-all-/cover.jpg",
+        "caption": "downloads/2026-06-06-images/03_reid-hoffman-bails-on-microsoft-s-board-to-go-all-/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_apple-is-about-to-reintroduce-siri-again",
+      "slug": "apple-is-about-to-reintroduce-siri-again",
+      "title": "Apple Is About to Reintroduce Siri. Again.",
+      "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-06-images/04_apple-is-about-to-reintroduce-siri-again/hero.jpg",
+        "alt_1": "downloads/2026-06-06-images/04_apple-is-about-to-reintroduce-siri-again/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-06-images/04_apple-is-about-to-reintroduce-siri-again/cover.jpg",
+        "caption": "downloads/2026-06-06-images/04_apple-is-about-to-reintroduce-siri-again/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_meta-built-an-ai-generated-clickbait-news-feed-and",
+      "slug": "meta-built-an-ai-generated-clickbait-news-feed-and",
+      "title": "Meta Built an AI-Generated Clickbait News Feed \u2014 And It's Already a Mess",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-06-images/05_meta-built-an-ai-generated-clickbait-news-feed-and/hero.jpg",
+        "alt_1": "downloads/2026-06-06-images/05_meta-built-an-ai-generated-clickbait-news-feed-and/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-06-images/05_meta-built-an-ai-generated-clickbait-news-feed-and/cover.jpg",
+        "caption": "downloads/2026-06-06-images/05_meta-built-an-ai-generated-clickbait-news-feed-and/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_an-indiana-town-s-data-center-fight-gets-ugly",
+      "slug": "an-indiana-town-s-data-center-fight-gets-ugly",
+      "title": "An Indiana Town's Data Center Fight Gets Ugly",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-06-images/06_an-indiana-town-s-data-center-fight-gets-ugly/hero.jpg",
+        "alt_1": "downloads/2026-06-06-images/06_an-indiana-town-s-data-center-fight-gets-ugly/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-06-images/06_an-indiana-town-s-data-center-fight-gets-ugly/cover.jpg",
+        "caption": "downloads/2026-06-06-images/06_an-indiana-town-s-data-center-fight-gets-ugly/caption.md"
+      }
+    }
+  ]
+}
