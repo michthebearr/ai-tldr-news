@@ -43,6 +43,10 @@ def main() -> None:
     parser.add_argument("article_folder", help="e.g. 02_google-s-gemini-spark-...")
     parser.add_argument("source", help="alt-1, alt-2, or absolute path to image")
     parser.add_argument(
+        "--title",
+        help="Override the headline text on the cover.",
+    )
+    parser.add_argument(
         "--focus", metavar="X,Y",
         help="Manual crop center as percentages 0-100. Y defaults to 40 if omitted.",
     )
@@ -102,7 +106,7 @@ def main() -> None:
         print(f"✓ Using existing hero.jpg")
 
     # Regenerate cover
-    title = _title_from_caption(article_dir / "caption.md", article_folder)
+    title = args.title if args.title else _title_from_caption(article_dir / "caption.md", article_folder)
     photo = Image.open(hero_path).convert("RGB")
     cover_path = article_dir / "cover.jpg"
     logo_color, img_mode = generate_cover(photo, title, cover_path, focus=focus, fit_width=args.fit_width)
