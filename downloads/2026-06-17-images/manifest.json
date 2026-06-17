@@ -1,0 +1,121 @@
+{
+  "date": "2026-06-17",
+  "edition_url": "https://www.aidaily.now/editions/2026-06-17-americans-sour-on-ai-google-anthropic-robots",
+  "generated_at": "2026-06-17T17:11:47.787413+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_only-1-in-6-americans-thinks-ai-is-good-for-societ",
+      "slug": "only-1-in-6-americans-thinks-ai-is-good-for-societ",
+      "title": "Only 1 in 6 Americans Thinks AI Is Good for Society",
+      "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "source": "TechCrunch",
+      "image_credit": "TIMOTHY A. CLARY / AFP",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-17-images/01_only-1-in-6-americans-thinks-ai-is-good-for-societ/hero.jpg",
+        "alt_1": "downloads/2026-06-17-images/01_only-1-in-6-americans-thinks-ai-is-good-for-societ/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-17-images/01_only-1-in-6-americans-thinks-ai-is-good-for-societ/cover.jpg",
+        "caption": "downloads/2026-06-17-images/01_only-1-in-6-americans-thinks-ai-is-good-for-societ/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_anthropic-s-fight-with-the-white-house-is-actually",
+      "slug": "anthropic-s-fight-with-the-white-house-is-actually",
+      "title": "Anthropic's Fight With the White House Is Actually Boosting Its Business",
+      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-17-images/02_anthropic-s-fight-with-the-white-house-is-actually/hero.jpg",
+        "alt_1": "downloads/2026-06-17-images/02_anthropic-s-fight-with-the-white-house-is-actually/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-17-images/02_anthropic-s-fight-with-the-white-house-is-actually/cover.jpg",
+        "caption": "downloads/2026-06-17-images/02_anthropic-s-fight-with-the-white-house-is-actually/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_google-kills-the-dumb-smart-speaker-with-a-99-gemi",
+      "slug": "google-kills-the-dumb-smart-speaker-with-a-99-gemi",
+      "title": "Google Kills the Dumb Smart Speaker With a $99 Gemini-Powered Home Device",
+      "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-17-images/03_google-kills-the-dumb-smart-speaker-with-a-99-gemi/hero.jpg",
+        "alt_1": "downloads/2026-06-17-images/03_google-kills-the-dumb-smart-speaker-with-a-99-gemi/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-17-images/03_google-kills-the-dumb-smart-speaker-with-a-99-gemi/cover.jpg",
+        "caption": "downloads/2026-06-17-images/03_google-kills-the-dumb-smart-speaker-with-a-99-gemi/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_the-unglamorous-data-crisis-blocking-the-robot-rev",
+      "slug": "the-unglamorous-data-crisis-blocking-the-robot-rev",
+      "title": "The Unglamorous Data Crisis Blocking the Robot Revolution",
+      "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-17-images/04_the-unglamorous-data-crisis-blocking-the-robot-rev/hero.jpg",
+        "alt_1": "downloads/2026-06-17-images/04_the-unglamorous-data-crisis-blocking-the-robot-rev/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-17-images/04_the-unglamorous-data-crisis-blocking-the-robot-rev/cover.jpg",
+        "caption": "downloads/2026-06-17-images/04_the-unglamorous-data-crisis-blocking-the-robot-rev/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_khosla-bets-27m-that-ai-needs-mathematical-proof-n",
+      "slug": "khosla-bets-27m-that-ai-needs-mathematical-proof-n",
+      "title": "Khosla Bets $27M That AI Needs Mathematical Proof, Not Just Vibes",
+      "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "fit-width",
+      "files": {
+        "hero": "downloads/2026-06-17-images/05_khosla-bets-27m-that-ai-needs-mathematical-proof-n/hero.jpg",
+        "alt_1": "downloads/2026-06-17-images/05_khosla-bets-27m-that-ai-needs-mathematical-proof-n/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-17-images/05_khosla-bets-27m-that-ai-needs-mathematical-proof-n/cover.jpg",
+        "caption": "downloads/2026-06-17-images/05_khosla-bets-27m-that-ai-needs-mathematical-proof-n/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_canadian-pension-money-is-flowing-into-india-s-dat",
+      "slug": "canadian-pension-money-is-flowing-into-india-s-dat",
+      "title": "Canadian Pension Money Is Flowing Into India's Data Center Boom",
+      "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-17-images/06_canadian-pension-money-is-flowing-into-india-s-dat/hero.jpg",
+        "alt_1": "downloads/2026-06-17-images/06_canadian-pension-money-is-flowing-into-india-s-dat/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-17-images/06_canadian-pension-money-is-flowing-into-india-s-dat/cover.jpg",
+        "caption": "downloads/2026-06-17-images/06_canadian-pension-money-is-flowing-into-india-s-dat/caption.md"
+      }
+    }
+  ]
+}
