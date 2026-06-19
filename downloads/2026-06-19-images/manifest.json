@@ -1,0 +1,121 @@
+{
+  "date": "2026-06-19",
+  "edition_url": "https://www.aidaily.now/editions/2026-06-19-anthropic-ban-openai-ipo-inference-gold-rush",
+  "generated_at": "2026-06-19T16:57:17.195303+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_the-us-government-banned-anthropic-s-newest-models",
+      "slug": "the-us-government-banned-anthropic-s-newest-models",
+      "title": "The US Government Banned Anthropic's Newest Models \u2014 and May Have Made Them More Popular",
+      "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-19-images/01_the-us-government-banned-anthropic-s-newest-models/hero.jpg",
+        "alt_1": null,
+        "alt_2": null,
+        "cover": "downloads/2026-06-19-images/01_the-us-government-banned-anthropic-s-newest-models/cover.jpg",
+        "caption": "downloads/2026-06-19-images/01_the-us-government-banned-anthropic-s-newest-models/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_openai-is-stacking-the-bench-before-its-ipo",
+      "slug": "openai-is-stacking-the-bench-before-its-ipo",
+      "title": "OpenAI Is Stacking the Bench Before Its IPO",
+      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-19-images/02_openai-is-stacking-the-bench-before-its-ipo/hero.jpg",
+        "alt_1": "downloads/2026-06-19-images/02_openai-is-stacking-the-bench-before-its-ipo/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-19-images/02_openai-is-stacking-the-bench-before-its-ipo/cover.jpg",
+        "caption": "downloads/2026-06-19-images/02_openai-is-stacking-the-bench-before-its-ipo/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_baseten-is-raising-1-5b-just-months-after-its-last",
+      "slug": "baseten-is-raising-1-5b-just-months-after-its-last",
+      "title": "Baseten Is Raising $1.5B Just Months After Its Last Mega-Round",
+      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-19-images/03_baseten-is-raising-1-5b-just-months-after-its-last/hero.jpg",
+        "alt_1": "downloads/2026-06-19-images/03_baseten-is-raising-1-5b-just-months-after-its-last/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-19-images/03_baseten-is-raising-1-5b-just-months-after-its-last/cover.jpg",
+        "caption": "downloads/2026-06-19-images/03_baseten-is-raising-1-5b-just-months-after-its-last/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_amazon-wants-to-sell-its-ai-chips-to-rival-data-ce",
+      "slug": "amazon-wants-to-sell-its-ai-chips-to-rival-data-ce",
+      "title": "Amazon Wants to Sell Its AI Chips to Rival Data Centers",
+      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+      "source": "TechCrunch",
+      "image_credit": "Randy Shropshire/Getty Images for Vox Media",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-19-images/04_amazon-wants-to-sell-its-ai-chips-to-rival-data-ce/hero.jpg",
+        "alt_1": "downloads/2026-06-19-images/04_amazon-wants-to-sell-its-ai-chips-to-rival-data-ce/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-19-images/04_amazon-wants-to-sell-its-ai-chips-to-rival-data-ce/cover.jpg",
+        "caption": "downloads/2026-06-19-images/04_amazon-wants-to-sell-its-ai-chips-to-rival-data-ce/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_mukesh-ambani-wants-to-put-ai-on-500-million-india",
+      "slug": "mukesh-ambani-wants-to-put-ai-on-500-million-india",
+      "title": "Mukesh Ambani Wants to Put AI on 500 Million Indian Phones",
+      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-19-images/05_mukesh-ambani-wants-to-put-ai-on-500-million-india/hero.jpg",
+        "alt_1": "downloads/2026-06-19-images/05_mukesh-ambani-wants-to-put-ai-on-500-million-india/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-19-images/05_mukesh-ambani-wants-to-put-ai-on-500-million-india/cover.jpg",
+        "caption": "downloads/2026-06-19-images/05_mukesh-ambani-wants-to-put-ai-on-500-million-india/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_snap-spins-out-its-ai-video-team-rather-than-pay-t",
+      "slug": "snap-spins-out-its-ai-video-team-rather-than-pay-t",
+      "title": "Snap Spins Out Its AI Video Team Rather Than Pay the Bills",
+      "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-19-images/06_snap-spins-out-its-ai-video-team-rather-than-pay-t/hero.jpg",
+        "alt_1": "downloads/2026-06-19-images/06_snap-spins-out-its-ai-video-team-rather-than-pay-t/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-19-images/06_snap-spins-out-its-ai-video-team-rather-than-pay-t/cover.jpg",
+        "caption": "downloads/2026-06-19-images/06_snap-spins-out-its-ai-video-team-rather-than-pay-t/caption.md"
+      }
+    }
+  ]
+}
