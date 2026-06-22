@@ -1,0 +1,121 @@
+{
+  "date": "2026-06-22",
+  "edition_url": "https://www.aidaily.now/editions/2026-06-22-spacex-reflection-ai-google-a24-alexa-india",
+  "generated_at": "2026-06-22T17:40:20.258673+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_reflection-ai-just-committed-1-8-billion-to-spacex",
+      "slug": "reflection-ai-just-committed-1-8-billion-to-spacex",
+      "title": "Reflection AI Just Committed $1.8 Billion to SpaceX Compute \u2014 Who Are These People?",
+      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-22-images/01_reflection-ai-just-committed-1-8-billion-to-spacex/hero.jpg",
+        "alt_1": "downloads/2026-06-22-images/01_reflection-ai-just-committed-1-8-billion-to-spacex/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-22-images/01_reflection-ai-just-committed-1-8-billion-to-spacex/cover.jpg",
+        "caption": "downloads/2026-06-22-images/01_reflection-ai-just-committed-1-8-billion-to-spacex/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_google-deepmind-is-co-creating-the-next-generation",
+      "slug": "google-deepmind-is-co-creating-the-next-generation",
+      "title": "Google DeepMind Is Co-Creating the Next Generation of Film with A24",
+      "url": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-22-images/02_google-deepmind-is-co-creating-the-next-generation/hero.jpg",
+        "alt_1": "downloads/2026-06-22-images/02_google-deepmind-is-co-creating-the-next-generation/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-22-images/02_google-deepmind-is-co-creating-the-next-generation/cover.jpg",
+        "caption": "downloads/2026-06-22-images/02_google-deepmind-is-co-creating-the-next-generation/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_amazon-takes-alexa-to-india-with-hindi-and-it-s-a-",
+      "slug": "amazon-takes-alexa-to-india-with-hindi-and-it-s-a-",
+      "title": "Amazon Takes Alexa+ to India with Hindi \u2014 and It's a Bigger Deal Than It Sounds",
+      "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-22-images/03_amazon-takes-alexa-to-india-with-hindi-and-it-s-a-/hero.jpg",
+        "alt_1": "downloads/2026-06-22-images/03_amazon-takes-alexa-to-india-with-hindi-and-it-s-a-/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-22-images/03_amazon-takes-alexa-to-india-with-hindi-and-it-s-a-/cover.jpg",
+        "caption": "downloads/2026-06-22-images/03_amazon-takes-alexa-to-india-with-hindi-and-it-s-a-/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_sakana-ai-s-fugu-wants-to-end-your-single-vendor-a",
+      "slug": "sakana-ai-s-fugu-wants-to-end-your-single-vendor-a",
+      "title": "Sakana AI's Fugu Wants to End Your Single-Vendor AI Dependency",
+      "url": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
+      "source": "AI News",
+      "image_credit": "AI News",
+      "image_source": "none",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": null,
+        "alt_1": null,
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-06-22-images/04_sakana-ai-s-fugu-wants-to-end-your-single-vendor-a/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_you-can-now-try-on-maybelline-makeup-inside-chatgp",
+      "slug": "you-can-now-try-on-maybelline-makeup-inside-chatgp",
+      "title": "You Can Now Try on Maybelline Makeup Inside ChatGPT",
+      "url": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
+      "source": "AI News",
+      "image_credit": "AI News",
+      "image_source": "none",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": null,
+        "alt_1": null,
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-06-22-images/05_you-can-now-try-on-maybelline-makeup-inside-chatgp/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_meta-bets-900m-on-india-play-puts-cred-s-kunal-sha",
+      "slug": "meta-bets-900m-on-india-play-puts-cred-s-kunal-sha",
+      "title": "Meta Bets $900M on India Play \u2014 Puts CRED's Kunal Shah in Charge of WhatsApp",
+      "url": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/",
+      "source": "TechCrunch",
+      "image_credit": "Kirill KUDRYAVTSEV / AFP / Getty Images",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-22-images/06_meta-bets-900m-on-india-play-puts-cred-s-kunal-sha/hero.jpg",
+        "alt_1": "downloads/2026-06-22-images/06_meta-bets-900m-on-india-play-puts-cred-s-kunal-sha/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-22-images/06_meta-bets-900m-on-india-play-puts-cred-s-kunal-sha/cover.jpg",
+        "caption": "downloads/2026-06-22-images/06_meta-bets-900m-on-india-play-puts-cred-s-kunal-sha/caption.md"
+      }
+    }
+  ]
+}
