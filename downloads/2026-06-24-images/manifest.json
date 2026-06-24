@@ -1,0 +1,121 @@
+{
+  "date": "2026-06-24",
+  "edition_url": "https://www.aidaily.now/editions/2026-06-24-openai-chip-anthropic-slack-agility-robotics-spac",
+  "generated_at": "2026-06-24T16:54:38.625971+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_openai-s-first-custom-chip-is-called-jalape-o-and-",
+      "slug": "openai-s-first-custom-chip-is-called-jalape-o-and-",
+      "title": "OpenAI's First Custom Chip Is Called Jalape\u00f1o and It's Built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "source": "TechCrunch",
+      "image_credit": "Reuters",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-24-images/01_openai-s-first-custom-chip-is-called-jalape-o-and-/hero.jpg",
+        "alt_1": "downloads/2026-06-24-images/01_openai-s-first-custom-chip-is-called-jalape-o-and-/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-24-images/01_openai-s-first-custom-chip-is-called-jalape-o-and-/cover.jpg",
+        "caption": "downloads/2026-06-24-images/01_openai-s-first-custom-chip-is-called-jalape-o-and-/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_anthropic-s-claude-tag-is-quietly-learning-everyth",
+      "slug": "anthropic-s-claude-tag-is-quietly-learning-everyth",
+      "title": "Anthropic's Claude Tag Is Quietly Learning Everything About Your Company",
+      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-24-images/02_anthropic-s-claude-tag-is-quietly-learning-everyth/hero.jpg",
+        "alt_1": "downloads/2026-06-24-images/02_anthropic-s-claude-tag-is-quietly-learning-everyth/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-24-images/02_anthropic-s-claude-tag-is-quietly-learning-everyth/cover.jpg",
+        "caption": "downloads/2026-06-24-images/02_anthropic-s-claude-tag-is-quietly-learning-everyth/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_agility-robotics-is-going-public-at-a-2-5b-valuati",
+      "slug": "agility-robotics-is-going-public-at-a-2-5b-valuati",
+      "title": "Agility Robotics Is Going Public at a $2.5B Valuation Via SPAC",
+      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-24-images/03_agility-robotics-is-going-public-at-a-2-5b-valuati/hero.jpg",
+        "alt_1": "downloads/2026-06-24-images/03_agility-robotics-is-going-public-at-a-2-5b-valuati/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-24-images/03_agility-robotics-is-going-public-at-a-2-5b-valuati/cover.jpg",
+        "caption": "downloads/2026-06-24-images/03_agility-robotics-is-going-public-at-a-2-5b-valuati/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_oracle-is-laying-off-21-000-people-to-fund-its-ai-",
+      "slug": "oracle-is-laying-off-21-000-people-to-fund-its-ai-",
+      "title": "Oracle Is Laying Off 21,000 People to Fund Its AI Data Center Binge",
+      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "source": "Ars Technica",
+      "image_credit": "Reuters",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-24-images/04_oracle-is-laying-off-21-000-people-to-fund-its-ai-/hero.jpg",
+        "alt_1": "downloads/2026-06-24-images/04_oracle-is-laying-off-21-000-people-to-fund-its-ai-/alt-1.jpg",
+        "alt_2": "downloads/2026-06-24-images/04_oracle-is-laying-off-21-000-people-to-fund-its-ai-/alt-2.jpg",
+        "cover": "downloads/2026-06-24-images/04_oracle-is-laying-off-21-000-people-to-fund-its-ai-/cover.jpg",
+        "caption": "downloads/2026-06-24-images/04_oracle-is-laying-off-21-000-people-to-fund-its-ai-/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_samsung-opens-up-chatgpt-enterprise-and-codex-to-a",
+      "slug": "samsung-opens-up-chatgpt-enterprise-and-codex-to-a",
+      "title": "Samsung Opens Up ChatGPT Enterprise and Codex to All Employees",
+      "url": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
+      "source": "AI News",
+      "image_credit": "AI News",
+      "image_source": "none",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": null,
+        "alt_1": null,
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-06-24-images/05_samsung-opens-up-chatgpt-enterprise-and-codex-to-a/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_menlo-ventures-raises-a-3b-fund-after-its-anthropi",
+      "slug": "menlo-ventures-raises-a-3b-fund-after-its-anthropi",
+      "title": "Menlo Ventures Raises a $3B Fund After Its Anthropic Bet Paid Off Spectacularly",
+      "url": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-24-images/06_menlo-ventures-raises-a-3b-fund-after-its-anthropi/hero.jpg",
+        "alt_1": "downloads/2026-06-24-images/06_menlo-ventures-raises-a-3b-fund-after-its-anthropi/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-24-images/06_menlo-ventures-raises-a-3b-fund-after-its-anthropi/cover.jpg",
+        "caption": "downloads/2026-06-24-images/06_menlo-ventures-raises-a-3b-fund-after-its-anthropi/caption.md"
+      }
+    }
+  ]
+}
