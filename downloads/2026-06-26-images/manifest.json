@@ -1,0 +1,121 @@
+{
+  "date": "2026-06-26",
+  "edition_url": "https://www.aidaily.now/editions/2026-06-26-white-house-gpt-56-openai-jalapeno-chip",
+  "generated_at": "2026-06-26T16:50:33.034211+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_the-white-house-just-became-an-ai-gatekeeper",
+      "slug": "the-white-house-just-became-an-ai-gatekeeper",
+      "title": "The White House Just Became an AI Gatekeeper",
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "source": "TechCrunch",
+      "image_credit": "Benjamin Fanjoy/Getty Images",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-26-images/01_the-white-house-just-became-an-ai-gatekeeper/hero.jpg",
+        "alt_1": "downloads/2026-06-26-images/01_the-white-house-just-became-an-ai-gatekeeper/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-26-images/01_the-white-house-just-became-an-ai-gatekeeper/cover.jpg",
+        "caption": "downloads/2026-06-26-images/01_the-white-house-just-became-an-ai-gatekeeper/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_anthropic-s-mythos-crisis-is-getting-messier-by-th",
+      "slug": "anthropic-s-mythos-crisis-is-getting-messier-by-th",
+      "title": "Anthropic's Mythos Crisis Is Getting Messier by the Day",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-26-images/02_anthropic-s-mythos-crisis-is-getting-messier-by-th/hero.jpg",
+        "alt_1": "downloads/2026-06-26-images/02_anthropic-s-mythos-crisis-is-getting-messier-by-th/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-26-images/02_anthropic-s-mythos-crisis-is-getting-messier-by-th/cover.jpg",
+        "caption": "downloads/2026-06-26-images/02_anthropic-s-mythos-crisis-is-getting-messier-by-th/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_openai-s-jalape-o-chip-is-big-tech-s-clearest-brea",
+      "slug": "openai-s-jalape-o-chip-is-big-tech-s-clearest-brea",
+      "title": "OpenAI's \"Jalape\u00f1o\" Chip Is Big Tech's Clearest Break from Nvidia",
+      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+      "source": "TechCrunch",
+      "image_credit": "Alex Wong/Getty Images",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-26-images/03_openai-s-jalape-o-chip-is-big-tech-s-clearest-brea/hero.jpg",
+        "alt_1": null,
+        "alt_2": null,
+        "cover": "downloads/2026-06-26-images/03_openai-s-jalape-o-chip-is-big-tech-s-clearest-brea/cover.jpg",
+        "caption": "downloads/2026-06-26-images/03_openai-s-jalape-o-chip-is-big-tech-s-clearest-brea/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_claude-is-quietly-stealing-chatgpt-s-paying-custom",
+      "slug": "claude-is-quietly-stealing-chatgpt-s-paying-custom",
+      "title": "Claude Is Quietly Stealing ChatGPT's Paying Customers",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-26-images/04_claude-is-quietly-stealing-chatgpt-s-paying-custom/hero.jpg",
+        "alt_1": "downloads/2026-06-26-images/04_claude-is-quietly-stealing-chatgpt-s-paying-custom/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-26-images/04_claude-is-quietly-stealing-chatgpt-s-paying-custom/cover.jpg",
+        "caption": "downloads/2026-06-26-images/04_claude-is-quietly-stealing-chatgpt-s-paying-custom/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_a-2-3b-bet-that-video-games-can-teach-ai-to-think-",
+      "slug": "a-2-3b-bet-that-video-games-can-teach-ai-to-think-",
+      "title": "A $2.3B Bet That Video Games Can Teach AI to Think Like Humans",
+      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "white",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-26-images/05_a-2-3b-bet-that-video-games-can-teach-ai-to-think-/hero.jpg",
+        "alt_1": "downloads/2026-06-26-images/05_a-2-3b-bet-that-video-games-can-teach-ai-to-think-/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-26-images/05_a-2-3b-bet-that-video-games-can-teach-ai-to-think-/cover.jpg",
+        "caption": "downloads/2026-06-26-images/05_a-2-3b-bet-that-video-games-can-teach-ai-to-think-/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_patronus-ai-raises-50m-to-build-crash-test-dummies",
+      "slug": "patronus-ai-raises-50m-to-build-crash-test-dummies",
+      "title": "Patronus AI Raises $50M to Build Crash-Test Dummies for AI Agents",
+      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "cover-crop",
+      "files": {
+        "hero": "downloads/2026-06-26-images/06_patronus-ai-raises-50m-to-build-crash-test-dummies/hero.jpg",
+        "alt_1": "downloads/2026-06-26-images/06_patronus-ai-raises-50m-to-build-crash-test-dummies/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-06-26-images/06_patronus-ai-raises-50m-to-build-crash-test-dummies/cover.jpg",
+        "caption": "downloads/2026-06-26-images/06_patronus-ai-raises-50m-to-build-crash-test-dummies/caption.md"
+      }
+    }
+  ]
+}
