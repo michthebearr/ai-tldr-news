@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-02",
+  "edition_url": "https://www.aidaily.now/editions/2026-07-02-openai-government-stake-microsoft-deployment-cloudflare",
+  "generated_at": "2026-07-02T16:43:53.052718+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_openai-wants-to-give-the-u-s-government-a-5-cut-of",
+      "slug": "openai-wants-to-give-the-u-s-government-a-5-cut-of",
+      "title": "OpenAI Wants to Give the U.S. Government a 5% Cut of the AI Boom",
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "source": "TechCrunch",
+      "image_credit": "Andrew Harnik/Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-02-images/01_openai-wants-to-give-the-u-s-government-a-5-cut-of/hero.jpg",
+        "alt_1": "downloads/2026-07-02-images/01_openai-wants-to-give-the-u-s-government-a-5-cut-of/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-02-images/01_openai-wants-to-give-the-u-s-government-a-5-cut-of/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_microsoft-joins-the-ai-deployment-arms-race-with-2",
+      "slug": "microsoft-joins-the-ai-deployment-arms-race-with-2",
+      "title": "Microsoft Joins the AI Deployment Arms Race With $2.5B on the Table",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "source": "TechCrunch",
+      "image_credit": "Aleksander Kalka/NurPhoto via Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-02-images/02_microsoft-joins-the-ai-deployment-arms-race-with-2/hero.jpg",
+        "alt_1": "downloads/2026-07-02-images/02_microsoft-joins-the-ai-deployment-arms-race-with-2/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-02-images/02_microsoft-joins-the-ai-deployment-arms-race-with-2/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_cloudflare-gives-ai-crawlers-until-september-15-to",
+      "slug": "cloudflare-gives-ai-crawlers-until-september-15-to",
+      "title": "Cloudflare Gives AI Crawlers Until September 15 to Pay Up or Get Blocked",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-02-images/03_cloudflare-gives-ai-crawlers-until-september-15-to/hero.jpg",
+        "alt_1": "downloads/2026-07-02-images/03_cloudflare-gives-ai-crawlers-until-september-15-to/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-02-images/03_cloudflare-gives-ai-crawlers-until-september-15-to/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_together-ai-raises-800m-valuation-more-than-double",
+      "slug": "together-ai-raises-800m-valuation-more-than-double",
+      "title": "Together AI Raises $800M, Valuation More Than Doubles to $8.3B",
+      "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "source": "TechCrunch",
+      "image_credit": "Reuters",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-02-images/04_together-ai-raises-800m-valuation-more-than-double/hero.jpg",
+        "alt_1": "downloads/2026-07-02-images/04_together-ai-raises-800m-valuation-more-than-double/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-02-images/04_together-ai-raises-800m-valuation-more-than-double/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_anthropic-s-claude-science-gets-a-biotech-brain-wi",
+      "slug": "anthropic-s-claude-science-gets-a-biotech-brain-wi",
+      "title": "Anthropic's Claude Science Gets a Biotech Brain with NVIDIA BioNeMo",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
+      "source": "AI News",
+      "image_credit": "AI News",
+      "image_source": "none",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": null,
+        "alt_1": null,
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-02-images/05_anthropic-s-claude-science-gets-a-biotech-brain-wi/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_spacex-is-building-an-ai-phone-yes-really",
+      "slug": "spacex-is-building-an-ai-phone-yes-really",
+      "title": "SpaceX Is Building an AI Phone. Yes, Really.",
+      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-02-images/06_spacex-is-building-an-ai-phone-yes-really/hero.jpg",
+        "alt_1": "downloads/2026-07-02-images/06_spacex-is-building-an-ai-phone-yes-really/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-02-images/06_spacex-is-building-an-ai-phone-yes-really/caption.md"
+      }
+    }
+  ]
+}
