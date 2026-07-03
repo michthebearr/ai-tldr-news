@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-03",
+  "edition_url": "https://www.aidaily.now/editions/2026-07-03-zuckerberg-ai-agents-anthropic-samsung-drug-discovery",
+  "generated_at": "2026-07-03T17:42:13.860445+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_zuckerberg-tells-staff-the-ai-agents-aren-t-coming",
+      "slug": "zuckerberg-tells-staff-the-ai-agents-aren-t-coming",
+      "title": "Zuckerberg Tells Staff: The AI Agents Aren't Coming Fast Enough",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "source": "TechCrunch",
+      "image_credit": "ANDREW CABALLERO-REYNOLDS / AFP",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-03-images/01_zuckerberg-tells-staff-the-ai-agents-aren-t-coming/hero.jpg",
+        "alt_1": "downloads/2026-07-03-images/01_zuckerberg-tells-staff-the-ai-agents-aren-t-coming/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-03-images/01_zuckerberg-tells-staff-the-ai-agents-aren-t-coming/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_anthropic-is-shopping-for-a-custom-chip-and-samsun",
+      "slug": "anthropic-is-shopping-for-a-custom-chip-and-samsun",
+      "title": "Anthropic Is Shopping for a Custom Chip \u2014 and Samsung Is at the Counter",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-03-images/02_anthropic-is-shopping-for-a-custom-chip-and-samsun/hero.jpg",
+        "alt_1": "downloads/2026-07-03-images/02_anthropic-is-shopping-for-a-custom-chip-and-samsun/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-03-images/02_anthropic-is-shopping-for-a-custom-chip-and-samsun/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_anthropic-also-wants-to-discover-drugs",
+      "slug": "anthropic-also-wants-to-discover-drugs",
+      "title": "Anthropic Also Wants to Discover Drugs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-03-images/03_anthropic-also-wants-to-discover-drugs/hero.jpg",
+        "alt_1": "downloads/2026-07-03-images/03_anthropic-also-wants-to-discover-drugs/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-03-images/03_anthropic-also-wants-to-discover-drugs/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_jersey-mike-s-filed-an-ipo-doc-and-it-mentioned-ai",
+      "slug": "jersey-mike-s-filed-an-ipo-doc-and-it-mentioned-ai",
+      "title": "Jersey Mike's Filed an IPO Doc and It Mentioned AI. Of Course It Did.",
+      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-03-images/04_jersey-mike-s-filed-an-ipo-doc-and-it-mentioned-ai/hero.jpg",
+        "alt_1": "downloads/2026-07-03-images/04_jersey-mike-s-filed-an-ipo-doc-and-it-mentioned-ai/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-03-images/04_jersey-mike-s-filed-an-ipo-doc-and-it-mentioned-ai/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_google-and-amazon-s-net-zero-pledges-are-getting-t",
+      "slug": "google-and-amazon-s-net-zero-pledges-are-getting-t",
+      "title": "Google and Amazon's Net-Zero Pledges Are Getting Torched by AI Data Centers",
+      "url": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-03-images/05_google-and-amazon-s-net-zero-pledges-are-getting-t/hero.jpg",
+        "alt_1": "downloads/2026-07-03-images/05_google-and-amazon-s-net-zero-pledges-are-getting-t/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-03-images/05_google-and-amazon-s-net-zero-pledges-are-getting-t/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_midjourney-s-medical-scanner-still-has-more-vibes-",
+      "slug": "midjourney-s-medical-scanner-still-has-more-vibes-",
+      "title": "Midjourney's Medical Scanner Still Has More Vibes Than Validation",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-03-images/06_midjourney-s-medical-scanner-still-has-more-vibes-/hero.jpg",
+        "alt_1": "downloads/2026-07-03-images/06_midjourney-s-medical-scanner-still-has-more-vibes-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-03-images/06_midjourney-s-medical-scanner-still-has-more-vibes-/caption.md"
+      }
+    }
+  ]
+}
