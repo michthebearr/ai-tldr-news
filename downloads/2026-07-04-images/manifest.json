@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-04",
+  "edition_url": "https://www.aidaily.now/editions/2026-07-04-alibaba-bans-claude-code-fanfic-wars",
+  "generated_at": "2026-07-04T17:14:46.405983+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_alibaba-calls-claude-code-high-risk-and-bans-it-in",
+      "slug": "alibaba-calls-claude-code-high-risk-and-bans-it-in",
+      "title": "Alibaba Calls Claude Code \"High-Risk\" and Bans It Internally",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-04-images/01_alibaba-calls-claude-code-high-risk-and-bans-it-in/hero.jpg",
+        "alt_1": "downloads/2026-07-04-images/01_alibaba-calls-claude-code-high-risk-and-bans-it-in/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-04-images/01_alibaba-calls-claude-code-high-risk-and-bans-it-in/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_fanfiction-communities-are-tearing-themselves-apar",
+      "slug": "fanfiction-communities-are-tearing-themselves-apar",
+      "title": "Fanfiction Communities Are Tearing Themselves Apart Over AI Detection",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-04-images/02_fanfiction-communities-are-tearing-themselves-apar/hero.jpg",
+        "alt_1": "downloads/2026-07-04-images/02_fanfiction-communities-are-tearing-themselves-apar/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-04-images/02_fanfiction-communities-are-tearing-themselves-apar/caption.md"
+      }
+    }
+  ]
+}
