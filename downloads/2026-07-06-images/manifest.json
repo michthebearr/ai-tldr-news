@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-06",
+  "edition_url": "https://www.aidaily.now/editions/2026-07-06-google-data-microsoft-layoffs-reddit-ai-spam",
+  "generated_at": "2026-07-06T18:17:47.015070+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_google-quietly-changed-its-privacy-settings-to-tra",
+      "slug": "google-quietly-changed-its-privacy-settings-to-tra",
+      "title": "Google Quietly Changed Its Privacy Settings to Train AI on More of Your Data",
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-06-images/01_google-quietly-changed-its-privacy-settings-to-tra/hero.jpg",
+        "alt_1": "downloads/2026-07-06-images/01_google-quietly-changed-its-privacy-settings-to-tra/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-06-images/01_google-quietly-changed-its-privacy-settings-to-tra/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_microsoft-cuts-4-800-jobs-as-its-new-financial-yea",
+      "slug": "microsoft-cuts-4-800-jobs-as-its-new-financial-yea",
+      "title": "Microsoft Cuts 4,800 Jobs as Its New Financial Year Kicks Off",
+      "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+      "source": "The Verge",
+      "image_credit": "Sven Hoppe / picture alliance via Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-06-images/02_microsoft-cuts-4-800-jobs-as-its-new-financial-yea/hero.jpg",
+        "alt_1": "downloads/2026-07-06-images/02_microsoft-cuts-4-800-jobs-as-its-new-financial-yea/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-06-images/02_microsoft-cuts-4-800-jobs-as-its-new-financial-yea/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_reddit-is-using-llms-to-kill-the-spam-that-llms-cr",
+      "slug": "reddit-is-using-llms-to-kill-the-spam-that-llms-cr",
+      "title": "Reddit Is Using LLMs to Kill the Spam That LLMs Created",
+      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-06-images/03_reddit-is-using-llms-to-kill-the-spam-that-llms-cr/hero.jpg",
+        "alt_1": "downloads/2026-07-06-images/03_reddit-is-using-llms-to-kill-the-spam-that-llms-cr/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-06-images/03_reddit-is-using-llms-to-kill-the-spam-that-llms-cr/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_china-moves-to-regulate-ai-companions-and-the-reas",
+      "slug": "china-moves-to-regulate-ai-companions-and-the-reas",
+      "title": "China Moves to Regulate AI Companions \u2014 and the Reasons Go Deeper Than You Think",
+      "url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
+      "source": "AI News",
+      "image_credit": "AI News",
+      "image_source": "none",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": null,
+        "alt_1": null,
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-06-images/04_china-moves-to-regulate-ai-companions-and-the-reas/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_station-f-is-doubling-down-on-ai-with-a-new-accele",
+      "slug": "station-f-is-doubling-down-on-ai-with-a-new-accele",
+      "title": "Station F Is Doubling Down on AI with a New Accelerator Push",
+      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-06-images/05_station-f-is-doubling-down-on-ai-with-a-new-accele/hero.jpg",
+        "alt_1": "downloads/2026-07-06-images/05_station-f-is-doubling-down-on-ai-with-a-new-accele/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-06-images/05_station-f-is-doubling-down-on-ai-with-a-new-accele/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_wealthy-parents-are-paying-six-figures-to-let-ai-t",
+      "slug": "wealthy-parents-are-paying-six-figures-to-let-ai-t",
+      "title": "Wealthy Parents Are Paying Six Figures to Let AI Teach Their Kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-06-images/06_wealthy-parents-are-paying-six-figures-to-let-ai-t/hero.jpg",
+        "alt_1": "downloads/2026-07-06-images/06_wealthy-parents-are-paying-six-figures-to-let-ai-t/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-06-images/06_wealthy-parents-are-paying-six-figures-to-let-ai-t/caption.md"
+      }
+    }
+  ]
+}
