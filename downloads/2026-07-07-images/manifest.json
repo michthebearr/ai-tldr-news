@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-07",
+  "edition_url": "https://www.aidaily.now/editions/2026-07-07-ai-agents-war-ransomware-office",
+  "generated_at": "2026-07-07T18:08:08.708717+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_claude-cowork-escapes-the-desktop-agents-are-now-a",
+      "slug": "claude-cowork-escapes-the-desktop-agents-are-now-a",
+      "title": "Claude Cowork Escapes the Desktop \u2014 Agents Are Now Ambient",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-07-images/01_claude-cowork-escapes-the-desktop-agents-are-now-a/hero.jpg",
+        "alt_1": "downloads/2026-07-07-images/01_claude-cowork-escapes-the-desktop-agents-are-now-a/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-07-images/01_claude-cowork-escapes-the-desktop-agents-are-now-a/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_that-first-ai-ransomware-attack-was-massively-over",
+      "slug": "that-first-ai-ransomware-attack-was-massively-over",
+      "title": "That \"First AI Ransomware Attack\" Was Massively Overhyped",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-07-images/02_that-first-ai-ransomware-attack-was-massively-over/hero.jpg",
+        "alt_1": "downloads/2026-07-07-images/02_that-first-ai-ransomware-attack-was-massively-over/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-07-images/02_that-first-ai-ransomware-attack-was-massively-over/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_american-self-driving-atvs-are-now-fighting-in-ukr",
+      "slug": "american-self-driving-atvs-are-now-fighting-in-ukr",
+      "title": "American Self-Driving ATVs Are Now Fighting in Ukraine",
+      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-07-images/03_american-self-driving-atvs-are-now-fighting-in-ukr/hero.jpg",
+        "alt_1": "downloads/2026-07-07-images/03_american-self-driving-atvs-are-now-fighting-in-ukr/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-07-images/03_american-self-driving-atvs-are-now-fighting-in-ukr/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_ai-law-startup-norm-hits-unicorn-status-with-120m-",
+      "slug": "ai-law-startup-norm-hits-unicorn-status-with-120m-",
+      "title": "AI Law Startup Norm Hits Unicorn Status With $120M Round",
+      "url": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-07-images/04_ai-law-startup-norm-hits-unicorn-status-with-120m-/hero.jpg",
+        "alt_1": "downloads/2026-07-07-images/04_ai-law-startup-norm-hits-unicorn-status-with-120m-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-07-images/04_ai-law-startup-norm-hits-unicorn-status-with-120m-/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_sk-hynix-is-about-to-go-public-in-the-us-thank-ai-",
+      "slug": "sk-hynix-is-about-to-go-public-in-the-us-thank-ai-",
+      "title": "SK Hynix Is About to Go Public in the US \u2014 Thank AI for That",
+      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-07-images/05_sk-hynix-is-about-to-go-public-in-the-us-thank-ai-/hero.jpg",
+        "alt_1": "downloads/2026-07-07-images/05_sk-hynix-is-about-to-go-public-in-the-us-thank-ai-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-07-images/05_sk-hynix-is-about-to-go-public-in-the-us-thank-ai-/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_an-app-raised-7m-to-stop-ai-from-tricking-you-into",
+      "slug": "an-app-raised-7m-to-stop-ai-from-tricking-you-into",
+      "title": "An App Raised $7M to Stop AI From Tricking You Into Thinking Your Kid Is Kidnapped",
+      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-07-images/06_an-app-raised-7m-to-stop-ai-from-tricking-you-into/hero.jpg",
+        "alt_1": "downloads/2026-07-07-images/06_an-app-raised-7m-to-stop-ai-from-tricking-you-into/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-07-images/06_an-app-raised-7m-to-stop-ai-from-tricking-you-into/caption.md"
+      }
+    }
+  ]
+}
