@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-08",
+  "edition_url": "https://www.aidaily.now/editions/2026-07-08-sambanova-openai-voice-meta-privacy",
+  "generated_at": "2026-07-08T17:48:46.886213+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_sambanova-raises-1b-at-11b-valuation-six-months-af",
+      "slug": "sambanova-raises-1b-at-11b-valuation-six-months-af",
+      "title": "SambaNova Raises $1B at $11B Valuation \u2014 Six Months After Intel Tried to Buy It for $1.6B",
+      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "source": "TechCrunch",
+      "image_credit": "Reuters",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-08-images/01_sambanova-raises-1b-at-11b-valuation-six-months-af/hero.jpg",
+        "alt_1": "downloads/2026-07-08-images/01_sambanova-raises-1b-at-11b-valuation-six-months-af/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-08-images/01_sambanova-raises-1b-at-11b-valuation-six-months-af/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_openai-s-new-voice-mode-finally-knows-when-to-stop",
+      "slug": "openai-s-new-voice-mode-finally-knows-when-to-stop",
+      "title": "OpenAI's New Voice Mode Finally Knows When to Stop Talking",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-08-images/02_openai-s-new-voice-mode-finally-knows-when-to-stop/hero.jpg",
+        "alt_1": "downloads/2026-07-08-images/02_openai-s-new-voice-mode-finally-knows-when-to-stop/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-08-images/02_openai-s-new-voice-mode-finally-knows-when-to-stop/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_meta-s-ai-glasses-get-a-privacy-patch-while-meta-v",
+      "slug": "meta-s-ai-glasses-get-a-privacy-patch-while-meta-v",
+      "title": "Meta's AI Glasses Get a Privacy Patch \u2014 While Meta Vacuums Up More of Your Data",
+      "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-08-images/03_meta-s-ai-glasses-get-a-privacy-patch-while-meta-v/hero.jpg",
+        "alt_1": "downloads/2026-07-08-images/03_meta-s-ai-glasses-get-a-privacy-patch-while-meta-v/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-08-images/03_meta-s-ai-glasses-get-a-privacy-patch-while-meta-v/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_prime-intellect-raises-130m-so-enterprises-can-tra",
+      "slug": "prime-intellect-raises-130m-so-enterprises-can-tra",
+      "title": "Prime Intellect Raises $130M So Enterprises Can Train AI Agents Without Begging OpenAI",
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-08-images/04_prime-intellect-raises-130m-so-enterprises-can-tra/hero.jpg",
+        "alt_1": "downloads/2026-07-08-images/04_prime-intellect-raises-130m-so-enterprises-can-tra/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-08-images/04_prime-intellect-raises-130m-so-enterprises-can-tra/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_french-startup-zml-open-sources-inference-software",
+      "slug": "french-startup-zml-open-sources-inference-software",
+      "title": "French Startup ZML Open-Sources Inference Software That Works Across Any AI Chip",
+      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-08-images/05_french-startup-zml-open-sources-inference-software/hero.jpg",
+        "alt_1": "downloads/2026-07-08-images/05_french-startup-zml-open-sources-inference-software/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-08-images/05_french-startup-zml-open-sources-inference-software/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_hackers-are-using-popular-ai-tools-to-build-botnet",
+      "slug": "hackers-are-using-popular-ai-tools-to-build-botnet",
+      "title": "Hackers Are Using Popular AI Tools to Build Botnets via \"HalluSquatting\"",
+      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "source": "Ars Technica",
+      "image_credit": "Ars Technica",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-08-images/06_hackers-are-using-popular-ai-tools-to-build-botnet/hero.jpg",
+        "alt_1": "downloads/2026-07-08-images/06_hackers-are-using-popular-ai-tools-to-build-botnet/alt-1.jpg",
+        "alt_2": "downloads/2026-07-08-images/06_hackers-are-using-popular-ai-tools-to-build-botnet/alt-2.jpg",
+        "cover": null,
+        "caption": "downloads/2026-07-08-images/06_hackers-are-using-popular-ai-tools-to-build-botnet/caption.md"
+      }
+    }
+  ]
+}
