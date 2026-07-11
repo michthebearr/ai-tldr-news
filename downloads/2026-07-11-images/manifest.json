@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-11",
+  "edition_url": "https://www.aidaily.now/editions/2026-07-11-apple-sues-openai-meta-deepfake-chatgpt-families",
+  "generated_at": "2026-07-11T17:06:24.186959+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_apple-fires-a-legal-missile-at-openai-for-trade-se",
+      "slug": "apple-fires-a-legal-missile-at-openai-for-trade-se",
+      "title": "Apple Fires a Legal Missile at OpenAI for Trade Secret Theft",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-11-images/01_apple-fires-a-legal-missile-at-openai-for-trade-se/hero.jpg",
+        "alt_1": "downloads/2026-07-11-images/01_apple-fires-a-legal-missile-at-openai-for-trade-se/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-11-images/01_apple-fires-a-legal-missile-at-openai-for-trade-se/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_meta-pulls-instagram-s-ai-deepfake-feature-after-m",
+      "slug": "meta-pulls-instagram-s-ai-deepfake-feature-after-m",
+      "title": "Meta Pulls Instagram's AI Deepfake Feature After Mass Outrage",
+      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-11-images/02_meta-pulls-instagram-s-ai-deepfake-feature-after-m/hero.jpg",
+        "alt_1": "downloads/2026-07-11-images/02_meta-pulls-instagram-s-ai-deepfake-feature-after-m/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-11-images/02_meta-pulls-instagram-s-ai-deepfake-feature-after-m/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_openai-wants-chatgpt-to-become-your-family-s-ai",
+      "slug": "openai-wants-chatgpt-to-become-your-family-s-ai",
+      "title": "OpenAI Wants ChatGPT to Become Your Family's AI",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-11-images/03_openai-wants-chatgpt-to-become-your-family-s-ai/hero.jpg",
+        "alt_1": "downloads/2026-07-11-images/03_openai-wants-chatgpt-to-become-your-family-s-ai/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-11-images/03_openai-wants-chatgpt-to-become-your-family-s-ai/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_hugging-face-s-ceo-says-open-source-ai-has-won-the",
+      "slug": "hugging-face-s-ceo-says-open-source-ai-has-won-the",
+      "title": "Hugging Face's CEO Says Open Source AI Has Won the Enterprise Argument",
+      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-11-images/04_hugging-face-s-ceo-says-open-source-ai-has-won-the/hero.jpg",
+        "alt_1": "downloads/2026-07-11-images/04_hugging-face-s-ceo-says-open-source-ai-has-won-the/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-11-images/04_hugging-face-s-ceo-says-open-source-ai-has-won-the/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_cisa-was-writing-its-incident-playbook-during-the-",
+      "slug": "cisa-was-writing-its-incident-playbook-during-the-",
+      "title": "CISA Was Writing Its Incident Playbook *During* the Incident",
+      "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-11-images/05_cisa-was-writing-its-incident-playbook-during-the-/hero.jpg",
+        "alt_1": "downloads/2026-07-11-images/05_cisa-was-writing-its-incident-playbook-during-the-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-11-images/05_cisa-was-writing-its-incident-playbook-during-the-/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_ai-shopping-startup-phia-accused-of-faking-its-own",
+      "slug": "ai-shopping-startup-phia-accused-of-faking-its-own",
+      "title": "AI Shopping Startup Phia Accused of Faking Its Own Success",
+      "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+      "source": "TechCrunch",
+      "image_credit": "Kimberly White/Getty Images for TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-11-images/06_ai-shopping-startup-phia-accused-of-faking-its-own/hero.jpg",
+        "alt_1": "downloads/2026-07-11-images/06_ai-shopping-startup-phia-accused-of-faking-its-own/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-11-images/06_ai-shopping-startup-phia-accused-of-faking-its-own/caption.md"
+      }
+    }
+  ]
+}
