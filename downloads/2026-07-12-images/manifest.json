@@ -1,0 +1,102 @@
+{
+  "date": "2026-07-12",
+  "edition_url": "https://www.aidaily.now/editions/2026-07-12-apple-ai-chips-robotaxi-data-center-fight",
+  "generated_at": "2026-07-12T17:09:07.201021+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_apple-s-self-driving-car-failure-was-actually-an-a",
+      "slug": "apple-s-self-driving-car-failure-was-actually-an-a",
+      "title": "Apple's Self-Driving Car Failure Was Actually an AI Chip Masterclass",
+      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-12-images/01_apple-s-self-driving-car-failure-was-actually-an-a/hero.jpg",
+        "alt_1": "downloads/2026-07-12-images/01_apple-s-self-driving-car-failure-was-actually-an-a/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-12-images/01_apple-s-self-driving-car-failure-was-actually-an-a/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_robotaxi-companies-are-getting-an-ultimatum",
+      "slug": "robotaxi-companies-are-getting-an-ultimatum",
+      "title": "Robotaxi Companies Are Getting an Ultimatum",
+      "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+      "source": "TechCrunch",
+      "image_credit": "Heather Diehl/Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-12-images/02_robotaxi-companies-are-getting-an-ultimatum/hero.jpg",
+        "alt_1": "downloads/2026-07-12-images/02_robotaxi-companies-are-getting-an-ultimatum/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-12-images/02_robotaxi-companies-are-getting-an-ultimatum/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_communities-are-fighting-back-against-ai-data-cent",
+      "slug": "communities-are-fighting-back-against-ai-data-cent",
+      "title": "Communities Are Fighting Back Against AI Data Centers \u2014 and Getting Organized",
+      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-12-images/03_communities-are-fighting-back-against-ai-data-cent/hero.jpg",
+        "alt_1": "downloads/2026-07-12-images/03_communities-are-fighting-back-against-ai-data-cent/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-12-images/03_communities-are-fighting-back-against-ai-data-cent/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_camera-free-smart-glasses-bet-privacy-sells-better",
+      "slug": "camera-free-smart-glasses-bet-privacy-sells-better",
+      "title": "Camera-Free Smart Glasses Bet Privacy Sells Better Than Features",
+      "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-12-images/04_camera-free-smart-glasses-bet-privacy-sells-better/hero.jpg",
+        "alt_1": "downloads/2026-07-12-images/04_camera-free-smart-glasses-bet-privacy-sells-better/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-12-images/04_camera-free-smart-glasses-bet-privacy-sells-better/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_reed-jobs-is-using-ai-to-accelerate-biotech-s-pate",
+      "slug": "reed-jobs-is-using-ai-to-accelerate-biotech-s-pate",
+      "title": "Reed Jobs Is Using AI to Accelerate Biotech's Patent Cliff Opportunity",
+      "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+      "source": "TechCrunch",
+      "image_credit": "Kimberly White/Getty Images for TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-12-images/05_reed-jobs-is-using-ai-to-accelerate-biotech-s-pate/hero.jpg",
+        "alt_1": "downloads/2026-07-12-images/05_reed-jobs-is-using-ai-to-accelerate-biotech-s-pate/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-12-images/05_reed-jobs-is-using-ai-to-accelerate-biotech-s-pate/caption.md"
+      }
+    }
+  ]
+}
