@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-13",
+  "edition_url": "https://www.aidaily.now/editions/2026-07-13-apple-sues-openai-altman-trash-talk-ai-ethics",
+  "generated_at": "2026-07-13T18:02:03.302332+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_apple-s-openai-lawsuit-is-a-corporate-espionage-th",
+      "slug": "apple-s-openai-lawsuit-is-a-corporate-espionage-th",
+      "title": "Apple's OpenAI Lawsuit Is a Corporate Espionage Thriller",
+      "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-13-images/01_apple-s-openai-lawsuit-is-a-corporate-espionage-th/hero.jpg",
+        "alt_1": "downloads/2026-07-13-images/01_apple-s-openai-lawsuit-is-a-corporate-espionage-th/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-13-images/01_apple-s-openai-lawsuit-is-a-corporate-espionage-th/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_sam-altman-dunks-on-space-data-centers-and-experts",
+      "slug": "sam-altman-dunks-on-space-data-centers-and-experts",
+      "title": "Sam Altman Dunks on Space Data Centers \u2014 and Experts Agree With Him",
+      "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-13-images/02_sam-altman-dunks-on-space-data-centers-and-experts/hero.jpg",
+        "alt_1": "downloads/2026-07-13-images/02_sam-altman-dunks-on-space-data-centers-and-experts/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-13-images/02_sam-altman-dunks-on-space-data-centers-and-experts/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_anthropic-localizes-claude-pricing-for-india-its-s",
+      "slug": "anthropic-localizes-claude-pricing-for-india-its-s",
+      "title": "Anthropic Localizes Claude Pricing for India \u2014 Its Second-Biggest Market",
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-13-images/03_anthropic-localizes-claude-pricing-for-india-its-s/hero.jpg",
+        "alt_1": "downloads/2026-07-13-images/03_anthropic-localizes-claude-pricing-for-india-its-s/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-13-images/03_anthropic-localizes-claude-pricing-for-india-its-s/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_defenders-are-now-using-prompt-injection-against-a",
+      "slug": "defenders-are-now-using-prompt-injection-against-a",
+      "title": "Defenders Are Now Using Prompt Injection Against Attackers",
+      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "source": "Ars Technica",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-13-images/04_defenders-are-now-using-prompt-injection-against-a/hero.jpg",
+        "alt_1": "downloads/2026-07-13-images/04_defenders-are-now-using-prompt-injection-against-a/alt-1.jpg",
+        "alt_2": "downloads/2026-07-13-images/04_defenders-are-now-using-prompt-injection-against-a/alt-2.jpg",
+        "cover": null,
+        "caption": "downloads/2026-07-13-images/04_defenders-are-now-using-prompt-injection-against-a/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_should-ai-help-you-get-away-with-murder-seriously",
+      "slug": "should-ai-help-you-get-away-with-murder-seriously",
+      "title": "Should AI Help You Get Away With Murder? Seriously.",
+      "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-13-images/05_should-ai-help-you-get-away-with-murder-seriously/hero.jpg",
+        "alt_1": "downloads/2026-07-13-images/05_should-ai-help-you-get-away-with-murder-seriously/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-13-images/05_should-ai-help-you-get-away-with-murder-seriously/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_cloudflare-s-bot-crackdown-forces-ai-agents-to-ask",
+      "slug": "cloudflare-s-bot-crackdown-forces-ai-agents-to-ask",
+      "title": "Cloudflare's Bot Crackdown Forces AI Agents to Ask Permission First",
+      "url": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
+      "source": "AI News",
+      "image_credit": "AI News",
+      "image_source": "none",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": null,
+        "alt_1": null,
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-13-images/06_cloudflare-s-bot-crackdown-forces-ai-agents-to-ask/caption.md"
+      }
+    }
+  ]
+}
