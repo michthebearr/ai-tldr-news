@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-21",
+  "edition_url": "https://www.aidaily.now/editions/2026-07-21-anthropic-settlement-google-gemini-china-sanctions",
+  "generated_at": "2026-07-21T17:38:14.497797+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_anthropic-writes-a-1-5b-check-and-the-copyright-wa",
+      "slug": "anthropic-writes-a-1-5b-check-and-the-copyright-wa",
+      "title": "Anthropic Writes a $1.5B Check \u2014 and the Copyright War Rages On",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+      "source": "The Verge",
+      "image_credit": "Reuters",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-21-images/01_anthropic-writes-a-1-5b-check-and-the-copyright-wa/hero.jpg",
+        "alt_1": "downloads/2026-07-21-images/01_anthropic-writes-a-1-5b-check-and-the-copyright-wa/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-21-images/01_anthropic-writes-a-1-5b-check-and-the-copyright-wa/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_google-drops-three-gemini-models-just-not-the-one-",
+      "slug": "google-drops-three-gemini-models-just-not-the-one-",
+      "title": "Google Drops Three Gemini Models \u2014 Just Not the One Anyone Wanted",
+      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-21-images/02_google-drops-three-gemini-models-just-not-the-one-/hero.jpg",
+        "alt_1": "downloads/2026-07-21-images/02_google-drops-three-gemini-models-just-not-the-one-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-21-images/02_google-drops-three-gemini-models-just-not-the-one-/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_washington-floats-sanctions-on-chinese-ai-models-o",
+      "slug": "washington-floats-sanctions-on-chinese-ai-models-o",
+      "title": "Washington Floats Sanctions on Chinese AI Models Over IP Theft",
+      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-21-images/03_washington-floats-sanctions-on-chinese-ai-models-o/hero.jpg",
+        "alt_1": "downloads/2026-07-21-images/03_washington-floats-sanctions-on-chinese-ai-models-o/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-21-images/03_washington-floats-sanctions-on-chinese-ai-models-o/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_more-than-half-of-deezer-s-daily-uploads-are-now-a",
+      "slug": "more-than-half-of-deezer-s-daily-uploads-are-now-a",
+      "title": "More Than Half of Deezer's Daily Uploads Are Now AI-Generated",
+      "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-21-images/04_more-than-half-of-deezer-s-daily-uploads-are-now-a/hero.jpg",
+        "alt_1": "downloads/2026-07-21-images/04_more-than-half-of-deezer-s-daily-uploads-are-now-a/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-21-images/04_more-than-half-of-deezer-s-daily-uploads-are-now-a/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_trump-s-ai-czar-seat-is-a-revolving-door-nobody-wa",
+      "slug": "trump-s-ai-czar-seat-is-a-revolving-door-nobody-wa",
+      "title": "Trump's AI Czar Seat Is a Revolving Door Nobody Wants to Sit In",
+      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-21-images/05_trump-s-ai-czar-seat-is-a-revolving-door-nobody-wa/hero.jpg",
+        "alt_1": "downloads/2026-07-21-images/05_trump-s-ai-czar-seat-is-a-revolving-door-nobody-wa/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-21-images/05_trump-s-ai-czar-seat-is-a-revolving-door-nobody-wa/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_suno-data-breach-hits-55-million-users",
+      "slug": "suno-data-breach-hits-55-million-users",
+      "title": "Suno Data Breach Hits 55 Million Users",
+      "url": "https://techcrunch.com/2026/07/21/ai-music-generator-suno-breach-affects-55m-users-per-have-i-been-pwned/",
+      "source": "TechCrunch",
+      "image_credit": "Barry Chin/The Boston Globe via Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-21-images/06_suno-data-breach-hits-55-million-users/hero.jpg",
+        "alt_1": "downloads/2026-07-21-images/06_suno-data-breach-hits-55-million-users/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-21-images/06_suno-data-breach-hits-55-million-users/caption.md"
+      }
+    }
+  ]
+}
