@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-22",
+  "edition_url": "https://www.aidaily.now/editions/2026-07-22-openai-750b-amd-anthropic-hugging-face-breach",
+  "generated_at": "2026-07-22T17:27:52.183810+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_openai-is-spending-750-billion-with-a-b-on-ai-infr",
+      "slug": "openai-is-spending-750-billion-with-a-b-on-ai-infr",
+      "title": "OpenAI Is Spending $750 Billion \u2014 With a B \u2014 on AI Infrastructure",
+      "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-22-images/01_openai-is-spending-750-billion-with-a-b-on-ai-infr/hero.jpg",
+        "alt_1": "downloads/2026-07-22-images/01_openai-is-spending-750-billion-with-a-b-on-ai-infr/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-22-images/01_openai-is-spending-750-billion-with-a-b-on-ai-infr/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_amd-just-bet-5-billion-on-anthropic",
+      "slug": "amd-just-bet-5-billion-on-anthropic",
+      "title": "AMD Just Bet $5 Billion on Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-22-images/02_amd-just-bet-5-billion-on-anthropic/hero.jpg",
+        "alt_1": "downloads/2026-07-22-images/02_amd-just-bet-5-billion-on-anthropic/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-22-images/02_amd-just-bet-5-billion-on-anthropic/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_openai-s-pre-release-models-somehow-breached-huggi",
+      "slug": "openai-s-pre-release-models-somehow-breached-huggi",
+      "title": "OpenAI's Pre-Release Models Somehow Breached Hugging Face",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-22-images/03_openai-s-pre-release-models-somehow-breached-huggi/hero.jpg",
+        "alt_1": "downloads/2026-07-22-images/03_openai-s-pre-release-models-somehow-breached-huggi/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-22-images/03_openai-s-pre-release-models-somehow-breached-huggi/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_a-us-ai-lab-says-chinese-models-aren-t-the-threat-",
+      "slug": "a-us-ai-lab-says-chinese-models-aren-t-the-threat-",
+      "title": "A US AI Lab Says Chinese Models Aren't the Threat Washington Thinks They Are",
+      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-22-images/04_a-us-ai-lab-says-chinese-models-aren-t-the-threat-/hero.jpg",
+        "alt_1": "downloads/2026-07-22-images/04_a-us-ai-lab-says-chinese-models-aren-t-the-threat-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-22-images/04_a-us-ai-lab-says-chinese-models-aren-t-the-threat-/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_jack-dorsey-wants-to-build-the-chat-app-where-huma",
+      "slug": "jack-dorsey-wants-to-build-the-chat-app-where-huma",
+      "title": "Jack Dorsey Wants to Build the Chat App Where Humans and AI Agents Work Together",
+      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-22-images/05_jack-dorsey-wants-to-build-the-chat-app-where-huma/hero.jpg",
+        "alt_1": "downloads/2026-07-22-images/05_jack-dorsey-wants-to-build-the-chat-app-where-huma/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-22-images/05_jack-dorsey-wants-to-build-the-chat-app-where-huma/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_substack-now-lets-readers-see-how-much-of-a-newsle",
+      "slug": "substack-now-lets-readers-see-how-much-of-a-newsle",
+      "title": "Substack Now Lets Readers See How Much of a Newsletter Was Written by AI",
+      "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-22-images/06_substack-now-lets-readers-see-how-much-of-a-newsle/hero.jpg",
+        "alt_1": "downloads/2026-07-22-images/06_substack-now-lets-readers-see-how-much-of-a-newsle/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-22-images/06_substack-now-lets-readers-see-how-much-of-a-newsle/caption.md"
+      }
+    }
+  ]
+}
