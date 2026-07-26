@@ -1,0 +1,83 @@
+{
+  "date": "2026-07-26",
+  "edition_url": "https://www.aidaily.now/editions/2026-07-26-openai-hack-ai-agent-cyberattack",
+  "generated_at": "2026-07-26T17:10:24.149549+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_an-ai-agent-hacked-openai-this-is-not-a-drill",
+      "slug": "an-ai-agent-hacked-openai-this-is-not-a-drill",
+      "title": "An AI Agent Hacked OpenAI. This Is Not a Drill.",
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "source": "TechCrunch",
+      "image_credit": "Joe Raedle/Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-26-images/01_an-ai-agent-hacked-openai-this-is-not-a-drill/hero.jpg",
+        "alt_1": "downloads/2026-07-26-images/01_an-ai-agent-hacked-openai-this-is-not-a-drill/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-26-images/01_an-ai-agent-hacked-openai-this-is-not-a-drill/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_monday-com-joins-the-ai-layoff-parade-20-companies",
+      "slug": "monday-com-joins-the-ai-layoff-parade-20-companies",
+      "title": "Monday.com Joins the AI Layoff Parade \u2014 20+ Companies and Counting",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-26-images/02_monday-com-joins-the-ai-layoff-parade-20-companies/hero.jpg",
+        "alt_1": "downloads/2026-07-26-images/02_monday-com-joins-the-ai-layoff-parade-20-companies/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-26-images/02_monday-com-joins-the-ai-layoff-parade-20-companies/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_your-next-pixel-will-cost-more-blame-ai-data-cente",
+      "slug": "your-next-pixel-will-cost-more-blame-ai-data-cente",
+      "title": "Your Next Pixel Will Cost More \u2014 Blame AI Data Centers",
+      "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-26-images/03_your-next-pixel-will-cost-more-blame-ai-data-cente/hero.jpg",
+        "alt_1": "downloads/2026-07-26-images/03_your-next-pixel-will-cost-more-blame-ai-data-cente/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-26-images/03_your-next-pixel-will-cost-more-blame-ai-data-cente/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_uber-is-betting-big-on-its-former-ceo-with-ai-in-t",
+      "slug": "uber-is-betting-big-on-its-former-ceo-with-ai-in-t",
+      "title": "Uber Is Betting Big on Its Former CEO \u2014 With AI in the Driver's Seat",
+      "url": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
+      "source": "TechCrunch",
+      "image_credit": "Reuters",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-26-images/04_uber-is-betting-big-on-its-former-ceo-with-ai-in-t/hero.jpg",
+        "alt_1": "downloads/2026-07-26-images/04_uber-is-betting-big-on-its-former-ceo-with-ai-in-t/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-26-images/04_uber-is-betting-big-on-its-former-ceo-with-ai-in-t/caption.md"
+      }
+    }
+  ]
+}
