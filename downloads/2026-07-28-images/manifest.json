@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-28",
+  "edition_url": "https://www.aidaily.now/editions/2026-07-28-claude-leak-power-crunch-recursive-ai",
+  "generated_at": "2026-07-28T17:42:41.496282+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_your-claude-shared-chats-were-indexable-by-google",
+      "slug": "your-claude-shared-chats-were-indexable-by-google",
+      "title": "Your Claude Shared Chats Were Indexable by Google",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "source": "TechCrunch",
+      "image_credit": "Pierre Larrieu / Hans Lucas via AFP",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-28-images/01_your-claude-shared-chats-were-indexable-by-google/hero.jpg",
+        "alt_1": "downloads/2026-07-28-images/01_your-claude-shared-chats-were-indexable-by-google/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-28-images/01_your-claude-shared-chats-were-indexable-by-google/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_the-us-grid-is-about-to-start-cutting-power-to-dat",
+      "slug": "the-us-grid-is-about-to-start-cutting-power-to-dat",
+      "title": "The US Grid Is About to Start Cutting Power to Data Centers",
+      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-28-images/02_the-us-grid-is-about-to-start-cutting-power-to-dat/hero.jpg",
+        "alt_1": "downloads/2026-07-28-images/02_the-us-grid-is-about-to-start-cutting-power-to-dat/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-28-images/02_the-us-grid-is-about-to-start-cutting-power-to-dat/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_recursive-superintelligence-signs-410m-compute-dea",
+      "slug": "recursive-superintelligence-signs-410m-compute-dea",
+      "title": "Recursive Superintelligence Signs $410M Compute Deal With Amazon",
+      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-28-images/03_recursive-superintelligence-signs-410m-compute-dea/hero.jpg",
+        "alt_1": "downloads/2026-07-28-images/03_recursive-superintelligence-signs-410m-compute-dea/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-28-images/03_recursive-superintelligence-signs-410m-compute-dea/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_dario-amodei-fine-with-open-weights-very-not-fine-",
+      "slug": "dario-amodei-fine-with-open-weights-very-not-fine-",
+      "title": "Dario Amodei: Fine With Open Weights, Very Not Fine With China",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-28-images/04_dario-amodei-fine-with-open-weights-very-not-fine-/hero.jpg",
+        "alt_1": "downloads/2026-07-28-images/04_dario-amodei-fine-with-open-weights-very-not-fine-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-28-images/04_dario-amodei-fine-with-open-weights-very-not-fine-/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_satya-nadella-single-model-ai-dependency-is-a-busi",
+      "slug": "satya-nadella-single-model-ai-dependency-is-a-busi",
+      "title": "Satya Nadella: Single-Model AI Dependency Is a Business Risk",
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "source": "TechCrunch",
+      "image_credit": "Justin Sullivan/Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-28-images/05_satya-nadella-single-model-ai-dependency-is-a-busi/hero.jpg",
+        "alt_1": "downloads/2026-07-28-images/05_satya-nadella-single-model-ai-dependency-is-a-busi/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-28-images/05_satya-nadella-single-model-ai-dependency-is-a-busi/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_hugging-face-is-a-deepfake-factory-and-isn-t-doing",
+      "slug": "hugging-face-is-a-deepfake-factory-and-isn-t-doing",
+      "title": "Hugging Face Is a Deepfake Factory and Isn't Doing Much About It",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-07-28-images/06_hugging-face-is-a-deepfake-factory-and-isn-t-doing/hero.jpg",
+        "alt_1": "downloads/2026-07-28-images/06_hugging-face-is-a-deepfake-factory-and-isn-t-doing/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-07-28-images/06_hugging-face-is-a-deepfake-factory-and-isn-t-doing/caption.md"
+      }
+    }
+  ]
+}
