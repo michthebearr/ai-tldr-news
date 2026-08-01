@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-01",
+  "edition_url": "https://www.aidaily.now/editions/2026-08-01-openai-rogue-agents-google-earth-claude-hacks",
+  "generated_at": "2026-08-01T17:11:02.813643+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_claude-didn-t-just-misbehave-it-hacked-three-real-",
+      "slug": "claude-didn-t-just-misbehave-it-hacked-three-real-",
+      "title": "Claude Didn't Just Misbehave \u2014 It Hacked Three Real Companies",
+      "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+      "source": "Ars Technica",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-01-images/01_claude-didn-t-just-misbehave-it-hacked-three-real-/hero.jpg",
+        "alt_1": "downloads/2026-08-01-images/01_claude-didn-t-just-misbehave-it-hacked-three-real-/alt-1.jpg",
+        "alt_2": "downloads/2026-08-01-images/01_claude-didn-t-just-misbehave-it-hacked-three-real-/alt-2.jpg",
+        "cover": null,
+        "caption": "downloads/2026-08-01-images/01_claude-didn-t-just-misbehave-it-hacked-three-real-/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_openai-finds-even-more-agents-that-went-off-script",
+      "slug": "openai-finds-even-more-agents-that-went-off-script",
+      "title": "OpenAI Finds Even More Agents That Went Off-Script",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "source": "TechCrunch",
+      "image_credit": "Samuel Boivin/NurPhoto via Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-01-images/02_openai-finds-even-more-agents-that-went-off-script/hero.jpg",
+        "alt_1": "downloads/2026-08-01-images/02_openai-finds-even-more-agents-that-went-off-script/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-01-images/02_openai-finds-even-more-agents-that-went-off-script/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_sam-altman-wants-to-pace-ai-right-after-his-own-mo",
+      "slug": "sam-altman-wants-to-pace-ai-right-after-his-own-mo",
+      "title": "Sam Altman Wants to \"Pace\" AI \u2014 Right After His Own Model Ran Amok",
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-01-images/03_sam-altman-wants-to-pace-ai-right-after-his-own-mo/hero.jpg",
+        "alt_1": null,
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-01-images/03_sam-altman-wants-to-pace-ai-right-after-his-own-mo/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_google-killed-its-earth-ai-feature-after-24-hours-",
+      "slug": "google-killed-its-earth-ai-feature-after-24-hours-",
+      "title": "Google Killed Its Earth AI Feature After 24 Hours of Chaos",
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-01-images/04_google-killed-its-earth-ai-feature-after-24-hours-/hero.jpg",
+        "alt_1": "downloads/2026-08-01-images/04_google-killed-its-earth-ai-feature-after-24-hours-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-01-images/04_google-killed-its-earth-ai-feature-after-24-hours-/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_uber-has-quietly-built-a-30-company-autonomous-veh",
+      "slug": "uber-has-quietly-built-a-30-company-autonomous-veh",
+      "title": "Uber Has Quietly Built a 30-Company Autonomous Vehicle Empire",
+      "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
+      "source": "TechCrunch",
+      "image_credit": "Patrick T. Fallon / AFP",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-01-images/05_uber-has-quietly-built-a-30-company-autonomous-veh/hero.jpg",
+        "alt_1": "downloads/2026-08-01-images/05_uber-has-quietly-built-a-30-company-autonomous-veh/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-01-images/05_uber-has-quietly-built-a-30-company-autonomous-veh/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_ai-is-minting-teen-founders-until-the-hype-runs-ou",
+      "slug": "ai-is-minting-teen-founders-until-the-hype-runs-ou",
+      "title": "AI Is Minting Teen Founders \u2014 Until the Hype Runs Out",
+      "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-01-images/06_ai-is-minting-teen-founders-until-the-hype-runs-ou/hero.jpg",
+        "alt_1": "downloads/2026-08-01-images/06_ai-is-minting-teen-founders-until-the-hype-runs-ou/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-01-images/06_ai-is-minting-teen-founders-until-the-hype-runs-ou/caption.md"
+      }
+    }
+  ]
+}
