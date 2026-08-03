@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-03",
+  "edition_url": "https://www.aidaily.now/editions/2026-08-03-alibaba-altman-decel-congress-chatgpt",
+  "generated_at": "2026-08-03T17:59:32.046525+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_alibaba-just-dropped-its-biggest-model-and-claimed",
+      "slug": "alibaba-just-dropped-its-biggest-model-and-claimed",
+      "title": "Alibaba Just Dropped Its Biggest Model and Claimed It Rivals OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-03-images/01_alibaba-just-dropped-its-biggest-model-and-claimed/hero.jpg",
+        "alt_1": "downloads/2026-08-03-images/01_alibaba-just-dropped-its-biggest-model-and-claimed/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-03-images/01_alibaba-just-dropped-its-biggest-model-and-claimed/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_sam-altman-is-suddenly-talking-about-slowing-down-",
+      "slug": "sam-altman-is-suddenly-talking-about-slowing-down-",
+      "title": "Sam Altman Is Suddenly Talking About Slowing Down AI",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-03-images/02_sam-altman-is-suddenly-talking-about-slowing-down-/hero.jpg",
+        "alt_1": "downloads/2026-08-03-images/02_sam-altman-is-suddenly-talking-about-slowing-down-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-03-images/02_sam-altman-is-suddenly-talking-about-slowing-down-/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_congress-runs-on-chatgpt-and-the-receipts-are-publ",
+      "slug": "congress-runs-on-chatgpt-and-the-receipts-are-publ",
+      "title": "Congress Runs on ChatGPT \u2014 and the Receipts Are Public",
+      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "source": "TechCrunch",
+      "image_credit": "Samuel Boivin/NurPhoto via Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-03-images/03_congress-runs-on-chatgpt-and-the-receipts-are-publ/hero.jpg",
+        "alt_1": "downloads/2026-08-03-images/03_congress-runs-on-chatgpt-and-the-receipts-are-publ/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-03-images/03_congress-runs-on-chatgpt-and-the-receipts-are-publ/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_the-eu-s-ai-transparency-rules-are-now-live",
+      "slug": "the-eu-s-ai-transparency-rules-are-now-live",
+      "title": "The EU's AI Transparency Rules Are Now Live",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-03-images/04_the-eu-s-ai-transparency-rules-are-now-live/hero.jpg",
+        "alt_1": "downloads/2026-08-03-images/04_the-eu-s-ai-transparency-rules-are-now-live/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-03-images/04_the-eu-s-ai-transparency-rules-are-now-live/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_ai-cybersecurity-startup-horizon3-hits-2b-valuatio",
+      "slug": "ai-cybersecurity-startup-horizon3-hits-2b-valuatio",
+      "title": "AI Cybersecurity Startup Horizon3 Hits $2B Valuation",
+      "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-03-images/05_ai-cybersecurity-startup-horizon3-hits-2b-valuatio/hero.jpg",
+        "alt_1": "downloads/2026-08-03-images/05_ai-cybersecurity-startup-horizon3-hits-2b-valuatio/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-03-images/05_ai-cybersecurity-startup-horizon3-hits-2b-valuatio/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_benioff-backed-june-wants-to-fix-why-most-ai-proje",
+      "slug": "benioff-backed-june-wants-to-fix-why-most-ai-proje",
+      "title": "Benioff-Backed June Wants to Fix Why Most AI Projects Fail",
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-03-images/06_benioff-backed-june-wants-to-fix-why-most-ai-proje/hero.jpg",
+        "alt_1": "downloads/2026-08-03-images/06_benioff-backed-june-wants-to-fix-why-most-ai-proje/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-03-images/06_benioff-backed-june-wants-to-fix-why-most-ai-proje/caption.md"
+      }
+    }
+  ]
+}
