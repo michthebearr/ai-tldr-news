@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-04",
+  "edition_url": "https://www.aidaily.now/editions/2026-08-04-ai-hacks-legal-texas-data-centers",
+  "generated_at": "2026-08-04T17:59:56.623026+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_autonomous-ai-hacked-companies-now-lawyers-are-scr",
+      "slug": "autonomous-ai-hacked-companies-now-lawyers-are-scr",
+      "title": "Autonomous AI Hacked Companies. Now Lawyers Are Scrambling to Figure Out Who's Liable",
+      "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-04-images/01_autonomous-ai-hacked-companies-now-lawyers-are-scr/hero.jpg",
+        "alt_1": "downloads/2026-08-04-images/01_autonomous-ai-hacked-companies-now-lawyers-are-scr/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-04-images/01_autonomous-ai-hacked-companies-now-lawyers-are-scr/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_texas-just-pulled-the-emergency-brake-on-new-data-",
+      "slug": "texas-just-pulled-the-emergency-brake-on-new-data-",
+      "title": "Texas Just Pulled the Emergency Brake on New Data Centers",
+      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-04-images/02_texas-just-pulled-the-emergency-brake-on-new-data-/hero.jpg",
+        "alt_1": "downloads/2026-08-04-images/02_texas-just-pulled-the-emergency-brake-on-new-data-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-04-images/02_texas-just-pulled-the-emergency-brake-on-new-data-/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_apple-s-openai-trade-secrets-case-just-got-a-lot-b",
+      "slug": "apple-s-openai-trade-secrets-case-just-got-a-lot-b",
+      "title": "Apple's OpenAI Trade Secrets Case Just Got a Lot Bigger",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-04-images/03_apple-s-openai-trade-secrets-case-just-got-a-lot-b/hero.jpg",
+        "alt_1": "downloads/2026-08-04-images/03_apple-s-openai-trade-secrets-case-just-got-a-lot-b/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-04-images/03_apple-s-openai-trade-secrets-case-just-got-a-lot-b/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_palantir-hit-1b-profit-and-its-ceo-called-the-ai-i",
+      "slug": "palantir-hit-1b-profit-and-its-ceo-called-the-ai-i",
+      "title": "Palantir Hit $1B Profit and Its CEO Called the AI Industry \"Marxist\"",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-04-images/04_palantir-hit-1b-profit-and-its-ceo-called-the-ai-i/hero.jpg",
+        "alt_1": "downloads/2026-08-04-images/04_palantir-hit-1b-profit-and-its-ceo-called-the-ai-i/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-04-images/04_palantir-hit-1b-profit-and-its-ceo-called-the-ai-i/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_apple-fixed-siri-nobody-cares",
+      "slug": "apple-fixed-siri-nobody-cares",
+      "title": "Apple Fixed Siri. Nobody Cares.",
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-04-images/05_apple-fixed-siri-nobody-cares/hero.jpg",
+        "alt_1": "downloads/2026-08-04-images/05_apple-fixed-siri-nobody-cares/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-04-images/05_apple-fixed-siri-nobody-cares/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_spotify-locks-in-music-labels-for-its-ai-remix-too",
+      "slug": "spotify-locks-in-music-labels-for-its-ai-remix-too",
+      "title": "Spotify Locks In Music Labels for Its AI Remix Tool",
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "source": "TechCrunch",
+      "image_credit": "Klaudia Radecka/NurPhoto via Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-04-images/06_spotify-locks-in-music-labels-for-its-ai-remix-too/hero.jpg",
+        "alt_1": "downloads/2026-08-04-images/06_spotify-locks-in-music-labels-for-its-ai-remix-too/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-04-images/06_spotify-locks-in-music-labels-for-its-ai-remix-too/caption.md"
+      }
+    }
+  ]
+}
