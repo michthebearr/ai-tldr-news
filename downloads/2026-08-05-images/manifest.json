@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-05",
+  "edition_url": "https://www.aidaily.now/editions/2026-08-05-google-ai-shakeup-rogue-agents-hacking",
+  "generated_at": "2026-08-05T17:49:37.856717+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_google-just-reshuffled-its-top-ai-leadership-hassa",
+      "slug": "google-just-reshuffled-its-top-ai-leadership-hassa",
+      "title": "Google Just Reshuffled Its Top AI Leadership \u2014 Hassabis Steps Back from Day-to-Day",
+      "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+      "source": "The Verge",
+      "image_credit": "Chris Jung/NurPhoto via Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-05-images/01_google-just-reshuffled-its-top-ai-leadership-hassa/hero.jpg",
+        "alt_1": "downloads/2026-08-05-images/01_google-just-reshuffled-its-top-ai-leadership-hassa/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-05-images/01_google-just-reshuffled-its-top-ai-leadership-hassa/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_rogue-ai-agents-are-still-breaking-out-and-trying-",
+      "slug": "rogue-ai-agents-are-still-breaking-out-and-trying-",
+      "title": "Rogue AI Agents Are Still Breaking Out and Trying to Hack Things",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-05-images/02_rogue-ai-agents-are-still-breaking-out-and-trying-/hero.jpg",
+        "alt_1": "downloads/2026-08-05-images/02_rogue-ai-agents-are-still-breaking-out-and-trying-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-05-images/02_rogue-ai-agents-are-still-breaking-out-and-trying-/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_anthropic-is-building-its-own-chips-and-hiring-a-f",
+      "slug": "anthropic-is-building-its-own-chips-and-hiring-a-f",
+      "title": "Anthropic Is Building Its Own Chips \u2014 and Hiring a Full Team to Do It",
+      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-05-images/03_anthropic-is-building-its-own-chips-and-hiring-a-f/hero.jpg",
+        "alt_1": "downloads/2026-08-05-images/03_anthropic-is-building-its-own-chips-and-hiring-a-f/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-05-images/03_anthropic-is-building-its-own-chips-and-hiring-a-f/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_open-weight-models-are-reaching-frontier-capabilit",
+      "slug": "open-weight-models-are-reaching-frontier-capabilit",
+      "title": "Open-Weight Models Are Reaching Frontier Capability \u2014 Without Frontier Safety",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "fit-width",
+      "files": {
+        "hero": "downloads/2026-08-05-images/04_open-weight-models-are-reaching-frontier-capabilit/hero.jpg",
+        "alt_1": "downloads/2026-08-05-images/04_open-weight-models-are-reaching-frontier-capabilit/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-08-05-images/04_open-weight-models-are-reaching-frontier-capabilit/cover.jpg",
+        "caption": "downloads/2026-08-05-images/04_open-weight-models-are-reaching-frontier-capabilit/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_shopify-ai-search-is-additive-not-cannibalistic",
+      "slug": "shopify-ai-search-is-additive-not-cannibalistic",
+      "title": "Shopify: AI Search Is Additive, Not Cannibalistic",
+      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-05-images/05_shopify-ai-search-is-additive-not-cannibalistic/hero.jpg",
+        "alt_1": "downloads/2026-08-05-images/05_shopify-ai-search-is-additive-not-cannibalistic/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-05-images/05_shopify-ai-search-is-additive-not-cannibalistic/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_reddit-puts-an-llm-in-charge-of-moderation",
+      "slug": "reddit-puts-an-llm-in-charge-of-moderation",
+      "title": "Reddit Puts an LLM in Charge of Moderation",
+      "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-05-images/06_reddit-puts-an-llm-in-charge-of-moderation/hero.jpg",
+        "alt_1": "downloads/2026-08-05-images/06_reddit-puts-an-llm-in-charge-of-moderation/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-05-images/06_reddit-puts-an-llm-in-charge-of-moderation/caption.md"
+      }
+    }
+  ]
+}
