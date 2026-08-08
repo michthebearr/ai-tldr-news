@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-08",
+  "edition_url": "https://www.aidaily.now/editions/2026-08-08-openai-astra-pause-ai-cyberattacks",
+  "generated_at": "2026-08-08T16:43:03.075851+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_openai-built-a-model-so-dangerous-it-had-to-stop",
+      "slug": "openai-built-a-model-so-dangerous-it-had-to-stop",
+      "title": "OpenAI Built a Model So Dangerous It Had to Stop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-08-images/01_openai-built-a-model-so-dangerous-it-had-to-stop/hero.jpg",
+        "alt_1": "downloads/2026-08-08-images/01_openai-built-a-model-so-dangerous-it-had-to-stop/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-08-images/01_openai-built-a-model-so-dangerous-it-had-to-stop/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_rippling-burned-millions-on-ai-then-built-a-tool-t",
+      "slug": "rippling-burned-millions-on-ai-then-built-a-tool-t",
+      "title": "Rippling Burned Millions on AI, Then Built a Tool to Stop You From Doing the Same",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-08-images/02_rippling-burned-millions-on-ai-then-built-a-tool-t/hero.jpg",
+        "alt_1": "downloads/2026-08-08-images/02_rippling-burned-millions-on-ai-then-built-a-tool-t/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-08-images/02_rippling-burned-millions-on-ai-then-built-a-tool-t/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_roku-launched-an-ai-content-channel-and-it-s-exact",
+      "slug": "roku-launched-an-ai-content-channel-and-it-s-exact",
+      "title": "Roku Launched an AI Content Channel and It's Exactly as Bad as It Sounds",
+      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-08-images/03_roku-launched-an-ai-content-channel-and-it-s-exact/hero.jpg",
+        "alt_1": "downloads/2026-08-08-images/03_roku-launched-an-ai-content-channel-and-it-s-exact/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-08-images/03_roku-launched-an-ai-content-channel-and-it-s-exact/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_disney-plus-is-testing-ai-powered-search-that-actu",
+      "slug": "disney-plus-is-testing-ai-powered-search-that-actu",
+      "title": "Disney Plus Is Testing AI-Powered Search That Actually Understands You",
+      "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-08-images/04_disney-plus-is-testing-ai-powered-search-that-actu/hero.jpg",
+        "alt_1": "downloads/2026-08-08-images/04_disney-plus-is-testing-ai-powered-search-that-actu/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-08-images/04_disney-plus-is-testing-ai-powered-search-that-actu/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_la-rapper-fenix-flexin-basically-admits-his-song-w",
+      "slug": "la-rapper-fenix-flexin-basically-admits-his-song-w",
+      "title": "LA Rapper Fenix Flexin Basically Admits His Song Was AI-Made",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-08-images/05_la-rapper-fenix-flexin-basically-admits-his-song-w/hero.jpg",
+        "alt_1": "downloads/2026-08-08-images/05_la-rapper-fenix-flexin-basically-admits-his-song-w/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-08-images/05_la-rapper-fenix-flexin-basically-admits-his-song-w/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_google-s-hacker-naming-system-got-an-overhaul-here",
+      "slug": "google-s-hacker-naming-system-got-an-overhaul-here",
+      "title": "Google's Hacker Naming System Got an Overhaul \u2014 Here's Why It Matters",
+      "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-08-images/06_google-s-hacker-naming-system-got-an-overhaul-here/hero.jpg",
+        "alt_1": "downloads/2026-08-08-images/06_google-s-hacker-naming-system-got-an-overhaul-here/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-08-images/06_google-s-hacker-naming-system-got-an-overhaul-here/caption.md"
+      }
+    }
+  ]
+}
