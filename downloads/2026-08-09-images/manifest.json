@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-09",
+  "edition_url": "https://www.aidaily.now/editions/2026-08-09-ai-safety-tests-failing-amazon-climate-bomb",
+  "generated_at": "2026-08-09T16:45:02.390648+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_ai-safety-testing-is-producing-the-very-risks-it-s",
+      "slug": "ai-safety-testing-is-producing-the-very-risks-it-s",
+      "title": "AI Safety Testing Is Producing the Very Risks It's Meant to Prevent",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-09-images/01_ai-safety-testing-is-producing-the-very-risks-it-s/hero.jpg",
+        "alt_1": "downloads/2026-08-09-images/01_ai-safety-testing-is-producing-the-very-risks-it-s/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-09-images/01_ai-safety-testing-is-producing-the-very-risks-it-s/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_amazon-is-building-what-could-be-the-most-pollutin",
+      "slug": "amazon-is-building-what-could-be-the-most-pollutin",
+      "title": "Amazon Is Building What Could Be the Most Polluting Power Plant in America",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-09-images/02_amazon-is-building-what-could-be-the-most-pollutin/hero.jpg",
+        "alt_1": "downloads/2026-08-09-images/02_amazon-is-building-what-could-be-the-most-pollutin/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-09-images/02_amazon-is-building-what-could-be-the-most-pollutin/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_openai-acquires-presentation-startup-nextslide",
+      "slug": "openai-acquires-presentation-startup-nextslide",
+      "title": "OpenAI Acquires Presentation Startup NextSlide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-09-images/03_openai-acquires-presentation-startup-nextslide/hero.jpg",
+        "alt_1": "downloads/2026-08-09-images/03_openai-acquires-presentation-startup-nextslide/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-09-images/03_openai-acquires-presentation-startup-nextslide/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_ai-detectors-are-making-everyone-a-suspect",
+      "slug": "ai-detectors-are-making-everyone-a-suspect",
+      "title": "AI Detectors Are Making Everyone a Suspect",
+      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-09-images/04_ai-detectors-are-making-everyone-a-suspect/hero.jpg",
+        "alt_1": "downloads/2026-08-09-images/04_ai-detectors-are-making-everyone-a-suspect/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-09-images/04_ai-detectors-are-making-everyone-a-suspect/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_49ers-coach-says-tesla-autopilot-was-active-during",
+      "slug": "49ers-coach-says-tesla-autopilot-was-active-during",
+      "title": "49ers Coach Says Tesla Autopilot Was Active During His Crash",
+      "url": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
+      "source": "The Verge",
+      "image_credit": "Michael Zagaris/San Francisco 49ers/Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-09-images/05_49ers-coach-says-tesla-autopilot-was-active-during/hero.jpg",
+        "alt_1": "downloads/2026-08-09-images/05_49ers-coach-says-tesla-autopilot-was-active-during/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-09-images/05_49ers-coach-says-tesla-autopilot-was-active-during/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_adversarial-patterns-can-make-you-invisible-to-sur",
+      "slug": "adversarial-patterns-can-make-you-invisible-to-sur",
+      "title": "Adversarial Patterns Can Make You Invisible to Surveillance Cameras",
+      "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-09-images/06_adversarial-patterns-can-make-you-invisible-to-sur/hero.jpg",
+        "alt_1": "downloads/2026-08-09-images/06_adversarial-patterns-can-make-you-invisible-to-sur/alt-1.jpg",
+        "alt_2": "downloads/2026-08-09-images/06_adversarial-patterns-can-make-you-invisible-to-sur/alt-2.jpg",
+        "cover": null,
+        "caption": "downloads/2026-08-09-images/06_adversarial-patterns-can-make-you-invisible-to-sur/caption.md"
+      }
+    }
+  ]
+}
