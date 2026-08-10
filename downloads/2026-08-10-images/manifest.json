@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-10",
+  "edition_url": "https://www.aidaily.now/editions/2026-08-10-meta-glimmer-anthropic-auto-mode-chip-bets",
+  "generated_at": "2026-08-10T17:06:00.746055+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_meta-just-released-a-30b-ai-model-anyone-can-run-l",
+      "slug": "meta-just-released-a-30b-ai-model-anyone-can-run-l",
+      "title": "Meta Just Released a 30B AI Model Anyone Can Run Locally",
+      "url": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+      "source": "AI News",
+      "image_credit": "AI News",
+      "image_source": "none",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": null,
+        "alt_1": null,
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-10-images/01_meta-just-released-a-30b-ai-model-anyone-can-run-l/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_anthropic-flips-claude-code-to-full-autopilot-by-d",
+      "slug": "anthropic-flips-claude-code-to-full-autopilot-by-d",
+      "title": "Anthropic Flips Claude Code to Full Autopilot by Default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-10-images/02_anthropic-flips-claude-code-to-full-autopilot-by-d/hero.jpg",
+        "alt_1": "downloads/2026-08-10-images/02_anthropic-flips-claude-code-to-full-autopilot-by-d/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-10-images/02_anthropic-flips-claude-code-to-full-autopilot-by-d/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_embattled-hedge-fund-still-writing-nine-figure-che",
+      "slug": "embattled-hedge-fund-still-writing-nine-figure-che",
+      "title": "Embattled Hedge Fund Still Writing Nine-Figure Checks",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-10-images/03_embattled-hedge-fund-still-writing-nine-figure-che/hero.jpg",
+        "alt_1": "downloads/2026-08-10-images/03_embattled-hedge-fund-still-writing-nine-figure-che/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-10-images/03_embattled-hedge-fund-still-writing-nine-figure-che/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_this-startup-is-using-ai-to-find-materials-that-ke",
+      "slug": "this-startup-is-using-ai-to-find-materials-that-ke",
+      "title": "This Startup Is Using AI to Find Materials That Keep Chips from Cooking",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-10-images/04_this-startup-is-using-ai-to-find-materials-that-ke/hero.jpg",
+        "alt_1": "downloads/2026-08-10-images/04_this-startup-is-using-ai-to-find-materials-that-ke/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-10-images/04_this-startup-is-using-ai-to-find-materials-that-ke/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_siemens-physics-ai-is-1-000x-faster-but-it-still-c",
+      "slug": "siemens-physics-ai-is-1-000x-faster-but-it-still-c",
+      "title": "Siemens: Physics AI Is 1,000x Faster, But It Still Can't Sign Off on Safety",
+      "url": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
+      "source": "AI News",
+      "image_credit": "AI News",
+      "image_source": "none",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": null,
+        "alt_1": null,
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-10-images/05_siemens-physics-ai-is-1-000x-faster-but-it-still-c/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_pentagon-loans-1-4b-to-battery-startup-to-feed-ai-",
+      "slug": "pentagon-loans-1-4b-to-battery-startup-to-feed-ai-",
+      "title": "Pentagon Loans $1.4B to Battery Startup to Feed AI's Power Hunger",
+      "url": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-10-images/06_pentagon-loans-1-4b-to-battery-startup-to-feed-ai-/hero.jpg",
+        "alt_1": "downloads/2026-08-10-images/06_pentagon-loans-1-4b-to-battery-startup-to-feed-ai-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-10-images/06_pentagon-loans-1-4b-to-battery-startup-to-feed-ai-/caption.md"
+      }
+    }
+  ]
+}
