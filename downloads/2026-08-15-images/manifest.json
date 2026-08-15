@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-15",
+  "edition_url": "https://www.aidaily.now/editions/2026-08-15-spacex-cursor-autonomous-trucks-ai-hype",
+  "generated_at": "2026-08-15T16:33:43.842629+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_spacex-just-became-an-ai-coding-company",
+      "slug": "spacex-just-became-an-ai-coding-company",
+      "title": "SpaceX Just Became an AI Coding Company",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-15-images/01_spacex-just-became-an-ai-coding-company/hero.jpg",
+        "alt_1": "downloads/2026-08-15-images/01_spacex-just-became-an-ai-coding-company/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-15-images/01_spacex-just-became-an-ai-coding-company/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_self-driving-trucks-are-now-legally-testing-on-cal",
+      "slug": "self-driving-trucks-are-now-legally-testing-on-cal",
+      "title": "Self-Driving Trucks Are Now Legally Testing on California Highways",
+      "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-15-images/02_self-driving-trucks-are-now-legally-testing-on-cal/hero.jpg",
+        "alt_1": "downloads/2026-08-15-images/02_self-driving-trucks-are-now-legally-testing-on-cal/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-15-images/02_self-driving-trucks-are-now-legally-testing-on-cal/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_a-top-vc-just-called-out-silicon-valley-s-ai-delus",
+      "slug": "a-top-vc-just-called-out-silicon-valley-s-ai-delus",
+      "title": "A Top VC Just Called Out Silicon Valley's AI Delusion",
+      "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+      "source": "TechCrunch",
+      "image_credit": "Jemal Countess/Getty Images for Fortune Media",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-15-images/03_a-top-vc-just-called-out-silicon-valley-s-ai-delus/hero.jpg",
+        "alt_1": "downloads/2026-08-15-images/03_a-top-vc-just-called-out-silicon-valley-s-ai-delus/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-15-images/03_a-top-vc-just-called-out-silicon-valley-s-ai-delus/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_a-mac-screen-sharing-bug-is-being-actively-exploit",
+      "slug": "a-mac-screen-sharing-bug-is-being-actively-exploit",
+      "title": "A Mac Screen-Sharing Bug Is Being Actively Exploited Right Now",
+      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+      "source": "Ars Technica",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-15-images/04_a-mac-screen-sharing-bug-is-being-actively-exploit/hero.jpg",
+        "alt_1": "downloads/2026-08-15-images/04_a-mac-screen-sharing-bug-is-being-actively-exploit/alt-1.jpg",
+        "alt_2": "downloads/2026-08-15-images/04_a-mac-screen-sharing-bug-is-being-actively-exploit/alt-2.jpg",
+        "cover": null,
+        "caption": "downloads/2026-08-15-images/04_a-mac-screen-sharing-bug-is-being-actively-exploit/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_iranian-hackers-are-breaking-into-us-water-plants",
+      "slug": "iranian-hackers-are-breaking-into-us-water-plants",
+      "title": "Iranian Hackers Are Breaking Into US Water Plants",
+      "url": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-15-images/05_iranian-hackers-are-breaking-into-us-water-plants/hero.jpg",
+        "alt_1": "downloads/2026-08-15-images/05_iranian-hackers-are-breaking-into-us-water-plants/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-15-images/05_iranian-hackers-are-breaking-into-us-water-plants/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_your-ai-platform-accounts-are-a-hacking-target-her",
+      "slug": "your-ai-platform-accounts-are-a-hacking-target-her",
+      "title": "Your AI Platform Accounts Are a Hacking Target \u2014 Here's How to Check",
+      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-15-images/06_your-ai-platform-accounts-are-a-hacking-target-her/hero.jpg",
+        "alt_1": "downloads/2026-08-15-images/06_your-ai-platform-accounts-are-a-hacking-target-her/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-15-images/06_your-ai-platform-accounts-are-a-hacking-target-her/caption.md"
+      }
+    }
+  ]
+}
