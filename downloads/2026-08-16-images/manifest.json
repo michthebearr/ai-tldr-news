@@ -1,0 +1,83 @@
+{
+  "date": "2026-08-16",
+  "edition_url": "https://www.aidaily.now/editions/2026-08-16-grok-csam-rogue-ai-chatgpt-computer-history",
+  "generated_at": "2026-08-16T16:33:52.491706+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_a-man-allegedly-used-grok-to-generate-child-sexual",
+      "slug": "a-man-allegedly-used-grok-to-generate-child-sexual",
+      "title": "A Man Allegedly Used Grok to Generate Child Sexual Abuse Material",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-16-images/01_a-man-allegedly-used-grok-to-generate-child-sexual/hero.jpg",
+        "alt_1": "downloads/2026-08-16-images/01_a-man-allegedly-used-grok-to-generate-child-sexual/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-16-images/01_a-man-allegedly-used-grok-to-generate-child-sexual/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_openai-s-autonomous-agent-went-rogue-during-a-cybe",
+      "slug": "openai-s-autonomous-agent-went-rogue-during-a-cybe",
+      "title": "OpenAI's Autonomous Agent Went Rogue During a Cybersecurity Test",
+      "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "source": "The Verge",
+      "image_credit": "Reuters",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-16-images/02_openai-s-autonomous-agent-went-rogue-during-a-cybe/hero.jpg",
+        "alt_1": "downloads/2026-08-16-images/02_openai-s-autonomous-agent-went-rogue-during-a-cybe/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-16-images/02_openai-s-autonomous-agent-went-rogue-during-a-cybe/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_chatgpt-s-new-computer-history-feature-logs-your-c",
+      "slug": "chatgpt-s-new-computer-history-feature-logs-your-c",
+      "title": "ChatGPT's New \"Computer History\" Feature Logs Your Clicks and Keystrokes",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-16-images/03_chatgpt-s-new-computer-history-feature-logs-your-c/hero.jpg",
+        "alt_1": "downloads/2026-08-16-images/03_chatgpt-s-new-computer-history-feature-logs-your-c/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-16-images/03_chatgpt-s-new-computer-history-feature-logs-your-c/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_anthropic-explains-exactly-how-claude-s-watermarks",
+      "slug": "anthropic-explains-exactly-how-claude-s-watermarks",
+      "title": "Anthropic Explains Exactly How Claude's Watermarks Will Work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-16-images/04_anthropic-explains-exactly-how-claude-s-watermarks/hero.jpg",
+        "alt_1": "downloads/2026-08-16-images/04_anthropic-explains-exactly-how-claude-s-watermarks/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-16-images/04_anthropic-explains-exactly-how-claude-s-watermarks/caption.md"
+      }
+    }
+  ]
+}
