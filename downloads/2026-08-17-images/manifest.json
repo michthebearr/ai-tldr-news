@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-17",
+  "edition_url": "https://www.aidaily.now/editions/2026-08-17-groq-pivot-stripe-openrouter-openai-safety",
+  "generated_at": "2026-08-17T16:37:22.761746+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_groq-gives-up-on-chips-raises-350m-to-become-yet-a",
+      "slug": "groq-gives-up-on-chips-raises-350m-to-become-yet-a",
+      "title": "Groq Gives Up on Chips, Raises $350M to Become Yet Another Cloud Provider",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-17-images/01_groq-gives-up-on-chips-raises-350m-to-become-yet-a/hero.jpg",
+        "alt_1": "downloads/2026-08-17-images/01_groq-gives-up-on-chips-raises-350m-to-become-yet-a/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-17-images/01_groq-gives-up-on-chips-raises-350m-to-become-yet-a/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_stripe-is-reportedly-buying-openrouter-for-7b",
+      "slug": "stripe-is-reportedly-buying-openrouter-for-7b",
+      "title": "Stripe Is Reportedly Buying OpenRouter for $7B+",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-17-images/02_stripe-is-reportedly-buying-openrouter-for-7b/hero.jpg",
+        "alt_1": "downloads/2026-08-17-images/02_stripe-is-reportedly-buying-openrouter-for-7b/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-17-images/02_stripe-is-reportedly-buying-openrouter-for-7b/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_openai-quietly-disbanded-its-preparedness-team",
+      "slug": "openai-quietly-disbanded-its-preparedness-team",
+      "title": "OpenAI Quietly Disbanded Its Preparedness Team",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-17-images/03_openai-quietly-disbanded-its-preparedness-team/hero.jpg",
+        "alt_1": "downloads/2026-08-17-images/03_openai-quietly-disbanded-its-preparedness-team/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-17-images/03_openai-quietly-disbanded-its-preparedness-team/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_nvidia-just-disclosed-a-21b-stake-in-spacex",
+      "slug": "nvidia-just-disclosed-a-21b-stake-in-spacex",
+      "title": "Nvidia Just Disclosed a $21B Stake in SpaceX",
+      "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+      "source": "Ars Technica",
+      "image_credit": "Ars Technica",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-17-images/04_nvidia-just-disclosed-a-21b-stake-in-spacex/hero.jpg",
+        "alt_1": "downloads/2026-08-17-images/04_nvidia-just-disclosed-a-21b-stake-in-spacex/alt-1.jpg",
+        "alt_2": "downloads/2026-08-17-images/04_nvidia-just-disclosed-a-21b-stake-in-spacex/alt-2.jpg",
+        "cover": null,
+        "caption": "downloads/2026-08-17-images/04_nvidia-just-disclosed-a-21b-stake-in-spacex/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_nvidia-is-also-pumping-1-5b-into-softbank-s-data-c",
+      "slug": "nvidia-is-also-pumping-1-5b-into-softbank-s-data-c",
+      "title": "Nvidia Is Also Pumping $1.5B Into SoftBank's Data Center Arm",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source": "TechCrunch",
+      "image_credit": "Chesnot/Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-17-images/05_nvidia-is-also-pumping-1-5b-into-softbank-s-data-c/hero.jpg",
+        "alt_1": "downloads/2026-08-17-images/05_nvidia-is-also-pumping-1-5b-into-softbank-s-data-c/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-17-images/05_nvidia-is-also-pumping-1-5b-into-softbank-s-data-c/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_dario-amodei-says-the-ai-backlash-is-a-trust-probl",
+      "slug": "dario-amodei-says-the-ai-backlash-is-a-trust-probl",
+      "title": "Dario Amodei Says the AI Backlash Is a Trust Problem, Not a Doom Problem",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-17-images/06_dario-amodei-says-the-ai-backlash-is-a-trust-probl/hero.jpg",
+        "alt_1": "downloads/2026-08-17-images/06_dario-amodei-says-the-ai-backlash-is-a-trust-probl/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-17-images/06_dario-amodei-says-the-ai-backlash-is-a-trust-probl/caption.md"
+      }
+    }
+  ]
+}
