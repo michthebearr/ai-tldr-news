@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-19",
+  "edition_url": "https://www.aidaily.now/editions/2026-08-19-openai-safeguards-etched-valuation-cursor-github",
+  "generated_at": "2026-08-19T16:40:12.650155+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_openai-locks-down-after-the-hugging-face-breach",
+      "slug": "openai-locks-down-after-the-hugging-face-breach",
+      "title": "OpenAI Locks Down After the Hugging Face Breach",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "source": "TechCrunch",
+      "image_credit": "Samuel Boivin/NurPhoto via Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-19-images/01_openai-locks-down-after-the-hugging-face-breach/hero.jpg",
+        "alt_1": "downloads/2026-08-19-images/01_openai-locks-down-after-the-hugging-face-breach/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-19-images/01_openai-locks-down-after-the-hugging-face-breach/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_etched-s-valuation-doubles-to-21b-in-30-days",
+      "slug": "etched-s-valuation-doubles-to-21b-in-30-days",
+      "title": "Etched's Valuation Doubles to $21B in 30 Days",
+      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-19-images/02_etched-s-valuation-doubles-to-21b-in-30-days/hero.jpg",
+        "alt_1": "downloads/2026-08-19-images/02_etched-s-valuation-doubles-to-21b-in-30-days/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-19-images/02_etched-s-valuation-doubles-to-21b-in-30-days/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_cursor-wants-to-replace-github-not-just-your-code-",
+      "slug": "cursor-wants-to-replace-github-not-just-your-code-",
+      "title": "Cursor Wants to Replace GitHub, Not Just Your Code Editor",
+      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-19-images/03_cursor-wants-to-replace-github-not-just-your-code-/hero.jpg",
+        "alt_1": "downloads/2026-08-19-images/03_cursor-wants-to-replace-github-not-just-your-code-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-19-images/03_cursor-wants-to-replace-github-not-just-your-code-/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_amazon-makes-alexa-free-for-every-fire-tv-user",
+      "slug": "amazon-makes-alexa-free-for-every-fire-tv-user",
+      "title": "Amazon Makes Alexa+ Free for Every Fire TV User",
+      "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-19-images/04_amazon-makes-alexa-free-for-every-fire-tv-user/hero.jpg",
+        "alt_1": "downloads/2026-08-19-images/04_amazon-makes-alexa-free-for-every-fire-tv-user/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-19-images/04_amazon-makes-alexa-free-for-every-fire-tv-user/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_a-startup-says-the-real-barrier-to-ai-curing-cance",
+      "slug": "a-startup-says-the-real-barrier-to-ai-curing-cance",
+      "title": "A Startup Says the Real Barrier to AI Curing Cancer Is Data",
+      "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-19-images/05_a-startup-says-the-real-barrier-to-ai-curing-cance/hero.jpg",
+        "alt_1": "downloads/2026-08-19-images/05_a-startup-says-the-real-barrier-to-ai-curing-cance/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-19-images/05_a-startup-says-the-real-barrier-to-ai-curing-cance/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_terrapower-s-nuclear-play-has-a-hidden-edge-for-da",
+      "slug": "terrapower-s-nuclear-play-has-a-hidden-edge-for-da",
+      "title": "TerraPower's Nuclear Play Has a Hidden Edge for Data Centers",
+      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-19-images/06_terrapower-s-nuclear-play-has-a-hidden-edge-for-da/hero.jpg",
+        "alt_1": "downloads/2026-08-19-images/06_terrapower-s-nuclear-play-has-a-hidden-edge-for-da/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-19-images/06_terrapower-s-nuclear-play-has-a-hidden-edge-for-da/caption.md"
+      }
+    }
+  ]
+}
