@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-20",
+  "edition_url": "https://www.aidaily.now/editions/2026-08-20-brockman-openai-stripe-openrouter-ai-trust",
+  "generated_at": "2026-08-20T16:43:41.827147+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_greg-brockman-is-now-running-the-show-at-openai",
+      "slug": "greg-brockman-is-now-running-the-show-at-openai",
+      "title": "Greg Brockman Is Now Running the Show at OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-20-images/01_greg-brockman-is-now-running-the-show-at-openai/hero.jpg",
+        "alt_1": "downloads/2026-08-20-images/01_greg-brockman-is-now-running-the-show-at-openai/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-20-images/01_greg-brockman-is-now-running-the-show-at-openai/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_stripe-bought-openrouter-and-it-s-not-about-the-si",
+      "slug": "stripe-bought-openrouter-and-it-s-not-about-the-si",
+      "title": "Stripe Bought OpenRouter \u2014 and It's Not About the \"Singularity\"",
+      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-20-images/02_stripe-bought-openrouter-and-it-s-not-about-the-si/hero.jpg",
+        "alt_1": "downloads/2026-08-20-images/02_stripe-bought-openrouter-and-it-s-not-about-the-si/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-20-images/02_stripe-bought-openrouter-and-it-s-not-about-the-si/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_openai-and-anthropic-are-now-fighting-over-enterpr",
+      "slug": "openai-and-anthropic-are-now-fighting-over-enterpr",
+      "title": "OpenAI and Anthropic Are Now Fighting Over Enterprise Privacy",
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-20-images/03_openai-and-anthropic-are-now-fighting-over-enterpr/hero.jpg",
+        "alt_1": "downloads/2026-08-20-images/03_openai-and-anthropic-are-now-fighting-over-enterpr/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-20-images/03_openai-and-anthropic-are-now-fighting-over-enterpr/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_consumers-still-don-t-trust-ai-and-more-exposure-i",
+      "slug": "consumers-still-don-t-trust-ai-and-more-exposure-i",
+      "title": "Consumers Still Don't Trust AI \u2014 and More Exposure Isn't Fixing It",
+      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-20-images/04_consumers-still-don-t-trust-ai-and-more-exposure-i/hero.jpg",
+        "alt_1": "downloads/2026-08-20-images/04_consumers-still-don-t-trust-ai-and-more-exposure-i/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-20-images/04_consumers-still-don-t-trust-ai-and-more-exposure-i/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_binance-lets-ai-agents-trade-crypto-guardrails-opt",
+      "slug": "binance-lets-ai-agents-trade-crypto-guardrails-opt",
+      "title": "Binance Lets AI Agents Trade Crypto \u2014 Guardrails Optional",
+      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "source": "TechCrunch",
+      "image_credit": "Daniel Harvey Gonzalez/In Pictures via Getty Images",
+      "image_source": "img-wide",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-20-images/05_binance-lets-ai-agents-trade-crypto-guardrails-opt/hero.jpg",
+        "alt_1": null,
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-20-images/05_binance-lets-ai-agents-trade-crypto-guardrails-opt/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_grok-has-a-new-jailbreak-problem-encrypted-malicio",
+      "slug": "grok-has-a-new-jailbreak-problem-encrypted-malicio",
+      "title": "Grok Has a New Jailbreak Problem: Encrypted Malicious Instructions",
+      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "source": "Ars Technica",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-20-images/06_grok-has-a-new-jailbreak-problem-encrypted-malicio/hero.jpg",
+        "alt_1": "downloads/2026-08-20-images/06_grok-has-a-new-jailbreak-problem-encrypted-malicio/alt-1.jpg",
+        "alt_2": "downloads/2026-08-20-images/06_grok-has-a-new-jailbreak-problem-encrypted-malicio/alt-2.jpg",
+        "cover": null,
+        "caption": "downloads/2026-08-20-images/06_grok-has-a-new-jailbreak-problem-encrypted-malicio/caption.md"
+      }
+    }
+  ]
+}
