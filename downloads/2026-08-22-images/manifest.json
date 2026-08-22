@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-22",
+  "edition_url": "https://www.aidaily.now/editions/2026-08-22-openai-flips-safety-bill-rogue-ai-no-plan",
+  "generated_at": "2026-08-22T16:33:36.448278+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_openai-did-a-180-on-california-s-ai-safety-bill",
+      "slug": "openai-did-a-180-on-california-s-ai-safety-bill",
+      "title": "OpenAI Did a 180 on California's AI Safety Bill",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-22-images/01_openai-did-a-180-on-california-s-ai-safety-bill/hero.jpg",
+        "alt_1": "downloads/2026-08-22-images/01_openai-did-a-180-on-california-s-ai-safety-bill/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-22-images/01_openai-did-a-180-on-california-s-ai-safety-bill/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_frontier-ai-labs-have-no-public-plan-for-containin",
+      "slug": "frontier-ai-labs-have-no-public-plan-for-containin",
+      "title": "Frontier AI Labs Have No Public Plan for Containing a Rogue Model",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-22-images/02_frontier-ai-labs-have-no-public-plan-for-containin/hero.jpg",
+        "alt_1": "downloads/2026-08-22-images/02_frontier-ai-labs-have-no-public-plan-for-containin/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-22-images/02_frontier-ai-labs-have-no-public-plan-for-containin/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_claude-s-content-filters-are-basically-decorative",
+      "slug": "claude-s-content-filters-are-basically-decorative",
+      "title": "Claude's Content Filters Are Basically Decorative",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-22-images/03_claude-s-content-filters-are-basically-decorative/hero.jpg",
+        "alt_1": "downloads/2026-08-22-images/03_claude-s-content-filters-are-basically-decorative/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-22-images/03_claude-s-content-filters-are-basically-decorative/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_the-agent-harness-matters-more-than-the-model",
+      "slug": "the-agent-harness-matters-more-than-the-model",
+      "title": "The Agent Harness Matters More Than the Model",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-22-images/04_the-agent-harness-matters-more-than-the-model/hero.jpg",
+        "alt_1": "downloads/2026-08-22-images/04_the-agent-harness-matters-more-than-the-model/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-22-images/04_the-agent-harness-matters-more-than-the-model/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_ai-accounting-startup-rillet-hit-unicorn-status-in",
+      "slug": "ai-accounting-startup-rillet-hit-unicorn-status-in",
+      "title": "AI Accounting Startup Rillet Hit Unicorn Status in 48 Hours Without Trying",
+      "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-22-images/05_ai-accounting-startup-rillet-hit-unicorn-status-in/hero.jpg",
+        "alt_1": "downloads/2026-08-22-images/05_ai-accounting-startup-rillet-hit-unicorn-status-in/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-22-images/05_ai-accounting-startup-rillet-hit-unicorn-status-in/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_apple-cuts-hundreds-of-jobs-from-siri-and-vision-p",
+      "slug": "apple-cuts-hundreds-of-jobs-from-siri-and-vision-p",
+      "title": "Apple Cuts Hundreds of Jobs From Siri and Vision Pro Teams",
+      "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
+      "source": "The Verge",
+      "image_credit": "Amelia Holowaty Krales / The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-22-images/06_apple-cuts-hundreds-of-jobs-from-siri-and-vision-p/hero.jpg",
+        "alt_1": "downloads/2026-08-22-images/06_apple-cuts-hundreds-of-jobs-from-siri-and-vision-p/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-22-images/06_apple-cuts-hundreds-of-jobs-from-siri-and-vision-p/caption.md"
+      }
+    }
+  ]
+}
