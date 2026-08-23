@@ -1,0 +1,102 @@
+{
+  "date": "2026-08-23",
+  "edition_url": "https://www.aidaily.now/editions/2026-08-23-deepmind-faraday-waymo-chips-copyright",
+  "generated_at": "2026-08-23T16:34:52.164828+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_deepmind-alumni-built-an-ai-that-beats-openai-and-",
+      "slug": "deepmind-alumni-built-an-ai-that-beats-openai-and-",
+      "title": "DeepMind Alumni Built an AI That Beats OpenAI and Anthropic at Science",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-23-images/01_deepmind-alumni-built-an-ai-that-beats-openai-and-/hero.jpg",
+        "alt_1": "downloads/2026-08-23-images/01_deepmind-alumni-built-an-ai-that-beats-openai-and-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-23-images/01_deepmind-alumni-built-an-ai-that-beats-openai-and-/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_waymo-is-building-custom-silicon-to-power-its-robo",
+      "slug": "waymo-is-building-custom-silicon-to-power-its-robo",
+      "title": "Waymo Is Building Custom Silicon to Power Its Robotaxi Fleet",
+      "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+      "source": "TechCrunch",
+      "image_credit": "Reuters",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-23-images/02_waymo-is-building-custom-silicon-to-power-its-robo/hero.jpg",
+        "alt_1": "downloads/2026-08-23-images/02_waymo-is-building-custom-silicon-to-power-its-robo/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-23-images/02_waymo-is-building-custom-silicon-to-power-its-robo/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_training-ai-on-copyrighted-books-still-technically",
+      "slug": "training-ai-on-copyrighted-books-still-technically",
+      "title": "Training AI on Copyrighted Books: Still Technically a Legal Gray Zone",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-23-images/03_training-ai-on-copyrighted-books-still-technically/hero.jpg",
+        "alt_1": "downloads/2026-08-23-images/03_training-ai-on-copyrighted-books-still-technically/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-23-images/03_training-ai-on-copyrighted-books-still-technically/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_flock-safety-s-ceo-wants-compromise-critics-want-a",
+      "slug": "flock-safety-s-ceo-wants-compromise-critics-want-a",
+      "title": "Flock Safety's CEO Wants \"Compromise\" \u2014 Critics Want Accountability",
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-23-images/04_flock-safety-s-ceo-wants-compromise-critics-want-a/hero.jpg",
+        "alt_1": "downloads/2026-08-23-images/04_flock-safety-s-ceo-wants-compromise-critics-want-a/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-23-images/04_flock-safety-s-ceo-wants-compromise-critics-want-a/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_harvard-is-selling-access-to-ai-clones-of-its-busi",
+      "slug": "harvard-is-selling-access-to-ai-clones-of-its-busi",
+      "title": "Harvard Is Selling Access to AI Clones of Its Business School Professors",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-23-images/05_harvard-is-selling-access-to-ai-clones-of-its-busi/hero.jpg",
+        "alt_1": "downloads/2026-08-23-images/05_harvard-is-selling-access-to-ai-clones-of-its-busi/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-23-images/05_harvard-is-selling-access-to-ai-clones-of-its-busi/caption.md"
+      }
+    }
+  ]
+}
