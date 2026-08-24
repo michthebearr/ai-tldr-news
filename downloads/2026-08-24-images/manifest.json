@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-24",
+  "edition_url": "https://www.aidaily.now/editions/2026-08-24-hugging-face-acquisition-humanoid-robots-ai-agents",
+  "generated_at": "2026-08-24T16:48:00.821573+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_hugging-face-is-fielding-13b-acquisition-offers-bu",
+      "slug": "hugging-face-is-fielding-13b-acquisition-offers-bu",
+      "title": "Hugging Face Is Fielding $13B Acquisition Offers \u2014 But Its Founders May Say No",
+      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-24-images/01_hugging-face-is-fielding-13b-acquisition-offers-bu/hero.jpg",
+        "alt_1": "downloads/2026-08-24-images/01_hugging-face-is-fielding-13b-acquisition-offers-bu/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-24-images/01_hugging-face-is-fielding-13b-acquisition-offers-bu/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_openai-wants-to-build-an-ai-agent-for-every-task-b",
+      "slug": "openai-wants-to-build-an-ai-agent-for-every-task-b",
+      "title": "OpenAI Wants to Build an AI Agent for Every Task \u2014 But Mass Adoption Is Unproven",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "fit-width",
+      "files": {
+        "hero": "downloads/2026-08-24-images/02_openai-wants-to-build-an-ai-agent-for-every-task-b/hero.jpg",
+        "alt_1": "downloads/2026-08-24-images/02_openai-wants-to-build-an-ai-agent-for-every-task-b/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-08-24-images/02_openai-wants-to-build-an-ai-agent-for-every-task-b/cover.jpg",
+        "caption": "downloads/2026-08-24-images/02_openai-wants-to-build-an-ai-agent-for-every-task-b/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_humanoid-robots-just-beat-usain-bolt-s-100-meter-w",
+      "slug": "humanoid-robots-just-beat-usain-bolt-s-100-meter-w",
+      "title": "Humanoid Robots Just Beat Usain Bolt's 100-Meter World Record",
+      "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-24-images/03_humanoid-robots-just-beat-usain-bolt-s-100-meter-w/hero.jpg",
+        "alt_1": "downloads/2026-08-24-images/03_humanoid-robots-just-beat-usain-bolt-s-100-meter-w/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-24-images/03_humanoid-robots-just-beat-usain-bolt-s-100-meter-w/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_general-intuition-targets-6b-valuation-as-spatial-",
+      "slug": "general-intuition-targets-6b-valuation-as-spatial-",
+      "title": "General Intuition Targets $6B Valuation as Spatial AI Meets Robotics",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-24-images/04_general-intuition-targets-6b-valuation-as-spatial-/hero.jpg",
+        "alt_1": "downloads/2026-08-24-images/04_general-intuition-targets-6b-valuation-as-spatial-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-24-images/04_general-intuition-targets-6b-valuation-as-spatial-/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_xpeng-raises-900m-for-its-iron-humanoid-robot-at-a",
+      "slug": "xpeng-raises-900m-for-its-iron-humanoid-robot-at-a",
+      "title": "XPENG Raises $900M for Its IRON Humanoid Robot at a $6.3B Valuation",
+      "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
+      "source": "AI News",
+      "image_credit": "AI News",
+      "image_source": "none",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": null,
+        "alt_1": null,
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-24-images/05_xpeng-raises-900m-for-its-iron-humanoid-robot-at-a/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_mystery-model-ox-alpha-is-sending-the-ai-internet-",
+      "slug": "mystery-model-ox-alpha-is-sending-the-ai-internet-",
+      "title": "Mystery Model \"Ox Alpha\" Is Sending the AI Internet Into a Frenzy",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-24-images/06_mystery-model-ox-alpha-is-sending-the-ai-internet-/hero.jpg",
+        "alt_1": "downloads/2026-08-24-images/06_mystery-model-ox-alpha-is-sending-the-ai-internet-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-24-images/06_mystery-model-ox-alpha-is-sending-the-ai-internet-/caption.md"
+      }
+    }
+  ]
+}
