@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-26",
+  "edition_url": "https://www.aidaily.now/editions/2026-08-26-mystery-model-openai-exodus-robot-brains",
+  "generated_at": "2026-08-26T17:00:15.898279+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_the-mystery-benchmark-topper-has-a-name-z-ai-s-ox-",
+      "slug": "the-mystery-benchmark-topper-has-a-name-z-ai-s-ox-",
+      "title": "The Mystery Benchmark-Topper Has a Name: Z.ai's Ox Alpha",
+      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-26-images/01_the-mystery-benchmark-topper-has-a-name-z-ai-s-ox-/hero.jpg",
+        "alt_1": "downloads/2026-08-26-images/01_the-mystery-benchmark-topper-has-a-name-z-ai-s-ox-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-26-images/01_the-mystery-benchmark-topper-has-a-name-z-ai-s-ox-/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_openai-s-talent-drain-hits-the-infrastructure-team",
+      "slug": "openai-s-talent-drain-hits-the-infrastructure-team",
+      "title": "OpenAI's Talent Drain Hits the Infrastructure Team",
+      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-26-images/02_openai-s-talent-drain-hits-the-infrastructure-team/hero.jpg",
+        "alt_1": "downloads/2026-08-26-images/02_openai-s-talent-drain-hits-the-infrastructure-team/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-26-images/02_openai-s-talent-drain-hits-the-infrastructure-team/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_robot-brains-are-finally-getting-a-upgrade",
+      "slug": "robot-brains-are-finally-getting-a-upgrade",
+      "title": "Robot Brains Are Finally Getting a Upgrade",
+      "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-26-images/03_robot-brains-are-finally-getting-a-upgrade/hero.jpg",
+        "alt_1": "downloads/2026-08-26-images/03_robot-brains-are-finally-getting-a-upgrade/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-26-images/03_robot-brains-are-finally-getting-a-upgrade/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_bill-gates-wants-robots-taxed-and-some-jobs-left-f",
+      "slug": "bill-gates-wants-robots-taxed-and-some-jobs-left-f",
+      "title": "Bill Gates Wants Robots Taxed and Some Jobs Left for Humans",
+      "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-26-images/04_bill-gates-wants-robots-taxed-and-some-jobs-left-f/hero.jpg",
+        "alt_1": "downloads/2026-08-26-images/04_bill-gates-wants-robots-taxed-and-some-jobs-left-f/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-26-images/04_bill-gates-wants-robots-taxed-and-some-jobs-left-f/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_claude-now-remembers-what-you-said-yesterday",
+      "slug": "claude-now-remembers-what-you-said-yesterday",
+      "title": "Claude Now Remembers What You Said Yesterday",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-26-images/05_claude-now-remembers-what-you-said-yesterday/hero.jpg",
+        "alt_1": "downloads/2026-08-26-images/05_claude-now-remembers-what-you-said-yesterday/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-26-images/05_claude-now-remembers-what-you-said-yesterday/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_stability-ai-raises-76m-and-lives-to-fight-another",
+      "slug": "stability-ai-raises-76m-and-lives-to-fight-another",
+      "title": "Stability AI Raises $76M and Lives to Fight Another Day",
+      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-26-images/06_stability-ai-raises-76m-and-lives-to-fight-another/hero.jpg",
+        "alt_1": "downloads/2026-08-26-images/06_stability-ai-raises-76m-and-lives-to-fight-another/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-26-images/06_stability-ai-raises-76m-and-lives-to-fight-another/caption.md"
+      }
+    }
+  ]
+}
