@@ -1,0 +1,102 @@
+{
+  "date": "2026-08-29",
+  "edition_url": "https://www.aidaily.now/editions/2026-08-29-music-giants-sue-anthropic-nvidia-beyond-gpu",
+  "generated_at": "2026-08-29T19:22:51.248384+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_sony-and-warner-just-dropped-a-multi-billion-dolla",
+      "slug": "sony-and-warner-just-dropped-a-multi-billion-dolla",
+      "title": "Sony and Warner Just Dropped a Multi-Billion Dollar Bomb on Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "source": "The Verge",
+      "image_credit": "Reuters",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-29-images/01_sony-and-warner-just-dropped-a-multi-billion-dolla/hero.jpg",
+        "alt_1": "downloads/2026-08-29-images/01_sony-and-warner-just-dropped-a-multi-billion-dolla/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-29-images/01_sony-and-warner-just-dropped-a-multi-billion-dolla/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_nvidia-s-moat-is-no-longer-just-about-making-the-f",
+      "slug": "nvidia-s-moat-is-no-longer-just-about-making-the-f",
+      "title": "Nvidia's Moat Is No Longer Just About Making the Fastest Chips",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-29-images/02_nvidia-s-moat-is-no-longer-just-about-making-the-f/hero.jpg",
+        "alt_1": "downloads/2026-08-29-images/02_nvidia-s-moat-is-no-longer-just-about-making-the-f/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-29-images/02_nvidia-s-moat-is-no-longer-just-about-making-the-f/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_musicians-are-hunting-down-ai-grifters-who-steal-t",
+      "slug": "musicians-are-hunting-down-ai-grifters-who-steal-t",
+      "title": "Musicians Are Hunting Down AI Grifters Who Steal Their Sound",
+      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-29-images/03_musicians-are-hunting-down-ai-grifters-who-steal-t/hero.jpg",
+        "alt_1": "downloads/2026-08-29-images/03_musicians-are-hunting-down-ai-grifters-who-steal-t/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-29-images/03_musicians-are-hunting-down-ai-grifters-who-steal-t/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_the-a16z-biotech-legend-going-small-and-betting-bi",
+      "slug": "the-a16z-biotech-legend-going-small-and-betting-bi",
+      "title": "The a16z Biotech Legend Going Small and Betting Big on AI + Biology",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-29-images/04_the-a16z-biotech-legend-going-small-and-betting-bi/hero.jpg",
+        "alt_1": "downloads/2026-08-29-images/04_the-a16z-biotech-legend-going-small-and-betting-bi/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-29-images/04_the-a16z-biotech-legend-going-small-and-betting-bi/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_europe-s-ai-scene-has-one-question-it-can-t-stop-a",
+      "slug": "europe-s-ai-scene-has-one-question-it-can-t-stop-a",
+      "title": "Europe's AI Scene Has One Question It Can't Stop Asking: Who's in Charge?",
+      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-08-29-images/05_europe-s-ai-scene-has-one-question-it-can-t-stop-a/hero.jpg",
+        "alt_1": "downloads/2026-08-29-images/05_europe-s-ai-scene-has-one-question-it-can-t-stop-a/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-08-29-images/05_europe-s-ai-scene-has-one-question-it-can-t-stop-a/caption.md"
+      }
+    }
+  ]
+}
