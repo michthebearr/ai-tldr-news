@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-01",
+  "edition_url": "https://www.aidaily.now/editions/2026-09-01-chatgpt-clinic-apple-openai-waymo-expansion",
+  "generated_at": "2026-09-01T19:21:40.591101+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_chatgpt-can-now-pull-up-your-patient-chart",
+      "slug": "chatgpt-can-now-pull-up-your-patient-chart",
+      "title": "ChatGPT Can Now Pull Up Your Patient Chart",
+      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "source": "TechCrunch",
+      "image_credit": "Silas Stein/picture alliance via Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-01-images/01_chatgpt-can-now-pull-up-your-patient-chart/hero.jpg",
+        "alt_1": "downloads/2026-09-01-images/01_chatgpt-can-now-pull-up-your-patient-chart/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-01-images/01_chatgpt-can-now-pull-up-your-patient-chart/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_apple-says-openai-s-side-destroyed-evidence-and-ha",
+      "slug": "apple-says-openai-s-side-destroyed-evidence-and-ha",
+      "title": "Apple Says OpenAI's Side Destroyed Evidence \u2014 and Has the MacBook to Prove It",
+      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-01-images/02_apple-says-openai-s-side-destroyed-evidence-and-ha/hero.jpg",
+        "alt_1": "downloads/2026-09-01-images/02_apple-says-openai-s-side-destroyed-evidence-and-ha/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-01-images/02_apple-says-openai-s-side-destroyed-evidence-and-ha/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_waymo-goes-offense-on-two-fronts-three-new-cities-",
+      "slug": "waymo-goes-offense-on-two-fronts-three-new-cities-",
+      "title": "Waymo Goes Offense on Two Fronts: Three New Cities and a Shot at Tesla",
+      "url": "https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-01-images/03_waymo-goes-offense-on-two-fronts-three-new-cities-/hero.jpg",
+        "alt_1": "downloads/2026-09-01-images/03_waymo-goes-offense-on-two-fronts-three-new-cities-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-01-images/03_waymo-goes-offense-on-two-fronts-three-new-cities-/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_google-pics-wants-to-kill-canva-with-a-prompt-box",
+      "slug": "google-pics-wants-to-kill-canva-with-a-prompt-box",
+      "title": "Google Pics Wants to Kill Canva With a Prompt Box",
+      "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-01-images/04_google-pics-wants-to-kill-canva-with-a-prompt-box/hero.jpg",
+        "alt_1": "downloads/2026-09-01-images/04_google-pics-wants-to-kill-canva-with-a-prompt-box/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-01-images/04_google-pics-wants-to-kill-canva-with-a-prompt-box/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_50m-raised-to-be-the-security-guard-for-your-ai-ag",
+      "slug": "50m-raised-to-be-the-security-guard-for-your-ai-ag",
+      "title": "$50M Raised to Be the Security Guard for Your AI Agents",
+      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "source": "TechCrunch",
+      "image_credit": "Reuters",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-01-images/05_50m-raised-to-be-the-security-guard-for-your-ai-ag/hero.jpg",
+        "alt_1": "downloads/2026-09-01-images/05_50m-raised-to-be-the-security-guard-for-your-ai-ag/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-01-images/05_50m-raised-to-be-the-security-guard-for-your-ai-ag/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_alexa-s-new-feature-is-basically-an-ai-shopping-st",
+      "slug": "alexa-s-new-feature-is-basically-an-ai-shopping-st",
+      "title": "Alexa's New Feature Is Basically an AI Shopping Stalker (But Make It Polite)",
+      "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-01-images/06_alexa-s-new-feature-is-basically-an-ai-shopping-st/hero.jpg",
+        "alt_1": "downloads/2026-09-01-images/06_alexa-s-new-feature-is-basically-an-ai-shopping-st/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-01-images/06_alexa-s-new-feature-is-basically-an-ai-shopping-st/caption.md"
+      }
+    }
+  ]
+}
