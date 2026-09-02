@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-02",
+  "edition_url": "https://www.aidaily.now/editions/2026-09-02-openai-astra-copyright-ai-security",
+  "generated_at": "2026-09-02T19:21:49.961421+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_openai-s-new-model-can-break-into-computer-systems",
+      "slug": "openai-s-new-model-can-break-into-computer-systems",
+      "title": "OpenAI's New Model Can Break Into Computer Systems \u2014 And It's Almost Out",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-02-images/01_openai-s-new-model-can-break-into-computer-systems/hero.jpg",
+        "alt_1": "downloads/2026-09-02-images/01_openai-s-new-model-can-break-into-computer-systems/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-02-images/01_openai-s-new-model-can-break-into-computer-systems/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_the-us-government-just-sided-with-openai-against-t",
+      "slug": "the-us-government-just-sided-with-openai-against-t",
+      "title": "The US Government Just Sided With OpenAI Against the New York Times",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-02-images/02_the-us-government-just-sided-with-openai-against-t/hero.jpg",
+        "alt_1": "downloads/2026-09-02-images/02_the-us-government-just-sided-with-openai-against-t/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-02-images/02_the-us-government-just-sided-with-openai-against-t/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_afterquery-goes-from-300m-to-3-2b-in-five-months-f",
+      "slug": "afterquery-goes-from-300m-to-3-2b-in-five-months-f",
+      "title": "AfterQuery Goes from $300M to $3.2B in Five Months Flat",
+      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-02-images/03_afterquery-goes-from-300m-to-3-2b-in-five-months-f/hero.jpg",
+        "alt_1": "downloads/2026-09-02-images/03_afterquery-goes-from-300m-to-3-2b-in-five-months-f/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-02-images/03_afterquery-goes-from-300m-to-3-2b-in-five-months-f/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_hiddenlayer-raises-100m-because-nobody-knows-how-t",
+      "slug": "hiddenlayer-raises-100m-because-nobody-knows-how-t",
+      "title": "HiddenLayer Raises $100M Because Nobody Knows How to Secure Their AI Agents",
+      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "source": "TechCrunch",
+      "image_credit": "Reuters",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-02-images/04_hiddenlayer-raises-100m-because-nobody-knows-how-t/hero.jpg",
+        "alt_1": "downloads/2026-09-02-images/04_hiddenlayer-raises-100m-because-nobody-knows-how-t/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-02-images/04_hiddenlayer-raises-100m-because-nobody-knows-how-t/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_openai-faces-30-new-lawsuits-over-the-tumbler-ridg",
+      "slug": "openai-faces-30-new-lawsuits-over-the-tumbler-ridg",
+      "title": "OpenAI Faces 30 New Lawsuits Over the Tumbler Ridge Shooting",
+      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-02-images/05_openai-faces-30-new-lawsuits-over-the-tumbler-ridg/hero.jpg",
+        "alt_1": "downloads/2026-09-02-images/05_openai-faces-30-new-lawsuits-over-the-tumbler-ridg/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-02-images/05_openai-faces-30-new-lawsuits-over-the-tumbler-ridg/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_pangram-s-ceo-we-re-dangerously-close-to-dead-inte",
+      "slug": "pangram-s-ceo-we-re-dangerously-close-to-dead-inte",
+      "title": "Pangram's CEO: We're \"Dangerously Close\" to Dead Internet Theory",
+      "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-02-images/06_pangram-s-ceo-we-re-dangerously-close-to-dead-inte/hero.jpg",
+        "alt_1": "downloads/2026-09-02-images/06_pangram-s-ceo-we-re-dangerously-close-to-dead-inte/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-02-images/06_pangram-s-ceo-we-re-dangerously-close-to-dead-inte/caption.md"
+      }
+    }
+  ]
+}
