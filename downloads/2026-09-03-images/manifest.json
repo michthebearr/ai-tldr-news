@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-03",
+  "edition_url": "https://www.aidaily.now/editions/2026-09-03-nvidia-hugging-face-openai-astra-safety",
+  "generated_at": "2026-09-03T19:16:07.574858+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_nvidia-drops-12-9b-to-own-the-ai-model-hub",
+      "slug": "nvidia-drops-12-9b-to-own-the-ai-model-hub",
+      "title": "Nvidia Drops $12.9B to Own the AI Model Hub",
+      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-03-images/01_nvidia-drops-12-9b-to-own-the-ai-model-hub/hero.jpg",
+        "alt_1": "downloads/2026-09-03-images/01_nvidia-drops-12-9b-to-own-the-ai-model-hub/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-03-images/01_nvidia-drops-12-9b-to-own-the-ai-model-hub/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_openai-ships-astra-and-its-own-safety-team-is-nerv",
+      "slug": "openai-ships-astra-and-its-own-safety-team-is-nerv",
+      "title": "OpenAI Ships Astra \u2014 and Its Own Safety Team Is Nervous",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-03-images/02_openai-ships-astra-and-its-own-safety-team-is-nerv/hero.jpg",
+        "alt_1": "downloads/2026-09-03-images/02_openai-ships-astra-and-its-own-safety-team-is-nerv/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-03-images/02_openai-ships-astra-and-its-own-safety-team-is-nerv/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_a-startup-is-selling-guardrail-free-ai-as-a-cybers",
+      "slug": "a-startup-is-selling-guardrail-free-ai-as-a-cybers",
+      "title": "A Startup Is Selling Guardrail-Free AI as a Cybersecurity Product",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-03-images/03_a-startup-is-selling-guardrail-free-ai-as-a-cybers/hero.jpg",
+        "alt_1": "downloads/2026-09-03-images/03_a-startup-is-selling-guardrail-free-ai-as-a-cybers/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-03-images/03_a-startup-is-selling-guardrail-free-ai-as-a-cybers/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_meta-offers-95-discount-if-you-let-it-watch-you-us",
+      "slug": "meta-offers-95-discount-if-you-let-it-watch-you-us",
+      "title": "Meta Offers 95% Discount If You Let It Watch You Use AI",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-03-images/04_meta-offers-95-discount-if-you-let-it-watch-you-us/hero.jpg",
+        "alt_1": "downloads/2026-09-03-images/04_meta-offers-95-discount-if-you-let-it-watch-you-us/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-03-images/04_meta-offers-95-discount-if-you-let-it-watch-you-us/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_google-s-weathernext-3-is-now-powering-forecasts-i",
+      "slug": "google-s-weathernext-3-is-now-powering-forecasts-i",
+      "title": "Google's WeatherNext 3 Is Now Powering Forecasts in Search, Maps, and Gemini",
+      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-03-images/05_google-s-weathernext-3-is-now-powering-forecasts-i/hero.jpg",
+        "alt_1": "downloads/2026-09-03-images/05_google-s-weathernext-3-is-now-powering-forecasts-i/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-03-images/05_google-s-weathernext-3-is-now-powering-forecasts-i/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_privacy-first-ai-assistant-ollie-bets-families-wil",
+      "slug": "privacy-first-ai-assistant-ollie-bets-families-wil",
+      "title": "Privacy-First AI Assistant Ollie Bets Families Will Pay to Keep Their Data",
+      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-03-images/06_privacy-first-ai-assistant-ollie-bets-families-wil/hero.jpg",
+        "alt_1": "downloads/2026-09-03-images/06_privacy-first-ai-assistant-ollie-bets-families-wil/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-03-images/06_privacy-first-ai-assistant-ollie-bets-families-wil/caption.md"
+      }
+    }
+  ]
+}
