@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-06",
+  "edition_url": "https://www.aidaily.now/editions/2026-09-06-gemini-hikers-openai-lawsuits-robotaxi",
+  "generated_at": "2026-09-06T18:12:48.686520+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_google-gemini-gave-hikers-bad-advice-they-nearly-d",
+      "slug": "google-gemini-gave-hikers-bad-advice-they-nearly-d",
+      "title": "Google Gemini Gave Hikers Bad Advice. They Nearly Died.",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-06-images/01_google-gemini-gave-hikers-bad-advice-they-nearly-d/hero.jpg",
+        "alt_1": "downloads/2026-09-06-images/01_google-gemini-gave-hikers-bad-advice-they-nearly-d/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-06-images/01_google-gemini-gave-hikers-bad-advice-they-nearly-d/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_the-media-vs-openai-war-has-two-new-combatants",
+      "slug": "the-media-vs-openai-war-has-two-new-combatants",
+      "title": "The Media vs. OpenAI War Has Two New Combatants",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-06-images/02_the-media-vs-openai-war-has-two-new-combatants/hero.jpg",
+        "alt_1": "downloads/2026-09-06-images/02_the-media-vs-openai-war-has-two-new-combatants/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-06-images/02_the-media-vs-openai-war-has-two-new-combatants/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_travis-kalanick-wants-back-into-the-robotaxi-game",
+      "slug": "travis-kalanick-wants-back-into-the-robotaxi-game",
+      "title": "Travis Kalanick Wants Back Into the Robotaxi Game",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-06-images/03_travis-kalanick-wants-back-into-the-robotaxi-game/hero.jpg",
+        "alt_1": "downloads/2026-09-06-images/03_travis-kalanick-wants-back-into-the-robotaxi-game/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-06-images/03_travis-kalanick-wants-back-into-the-robotaxi-game/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_tesla-s-cybercab-is-on-the-road-with-problems",
+      "slug": "tesla-s-cybercab-is-on-the-road-with-problems",
+      "title": "Tesla's Cybercab Is on the Road \u2014 With Problems",
+      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "source": "TechCrunch",
+      "image_credit": "Michael Yanow/NurPhoto via Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-06-images/04_tesla-s-cybercab-is-on-the-road-with-problems/hero.jpg",
+        "alt_1": "downloads/2026-09-06-images/04_tesla-s-cybercab-is-on-the-road-with-problems/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-06-images/04_tesla-s-cybercab-is-on-the-road-with-problems/caption.md"
+      }
+    }
+  ]
+}
