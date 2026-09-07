@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-07",
+  "edition_url": "https://www.aidaily.now/editions/2026-09-07-anthropic-settlement-openai-sued-logistics-ai",
+  "generated_at": "2026-09-07T19:50:06.291770+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_authors-are-fighting-publishers-over-anthropic-s-s",
+      "slug": "authors-are-fighting-publishers-over-anthropic-s-s",
+      "title": "Authors Are Fighting Publishers Over Anthropic's Settlement Money",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-07-images/01_authors-are-fighting-publishers-over-anthropic-s-s/hero.jpg",
+        "alt_1": "downloads/2026-09-07-images/01_authors-are-fighting-publishers-over-anthropic-s-s/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-07-images/01_authors-are-fighting-publishers-over-anthropic-s-s/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_the-seattle-times-and-newsday-just-sued-openai-and",
+      "slug": "the-seattle-times-and-newsday-just-sued-openai-and",
+      "title": "The Seattle Times and Newsday Just Sued OpenAI and Microsoft",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "source": "The Verge",
+      "image_credit": "Samuel Boivin/NurPhoto via Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-07-images/02_the-seattle-times-and-newsday-just-sued-openai-and/hero.jpg",
+        "alt_1": "downloads/2026-09-07-images/02_the-seattle-times-and-newsday-just-sued-openai-and/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-07-images/02_the-seattle-times-and-newsday-just-sued-openai-and/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_mg-ship-deploys-ai-route-optimization-as-logistics",
+      "slug": "mg-ship-deploys-ai-route-optimization-as-logistics",
+      "title": "MG Ship Deploys AI Route Optimization as Logistics ROI Gets Real",
+      "url": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
+      "source": "AI News",
+      "image_credit": "AI News",
+      "image_source": "none",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": null,
+        "alt_1": null,
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-07-images/03_mg-ship-deploys-ai-route-optimization-as-logistics/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_opaque-recurrence-techcrunch-drops-an-ai-jargon-gl",
+      "slug": "opaque-recurrence-techcrunch-drops-an-ai-jargon-gl",
+      "title": "\"Opaque Recurrence\" \u2014 TechCrunch Drops an AI Jargon Glossary",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-07-images/04_opaque-recurrence-techcrunch-drops-an-ai-jargon-gl/hero.jpg",
+        "alt_1": "downloads/2026-09-07-images/04_opaque-recurrence-techcrunch-drops-an-ai-jargon-gl/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-07-images/04_opaque-recurrence-techcrunch-drops-an-ai-jargon-gl/caption.md"
+      }
+    }
+  ]
+}
