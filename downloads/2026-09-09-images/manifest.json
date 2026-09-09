@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-09",
+  "edition_url": "https://www.aidaily.now/editions/2026-09-09-anthropic-quits-apple-ai-spending-slump",
+  "generated_at": "2026-09-09T19:14:19.021060+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_an-anthropic-researcher-just-quit-over-ai-extincti",
+      "slug": "an-anthropic-researcher-just-quit-over-ai-extincti",
+      "title": "An Anthropic Researcher Just Quit Over AI Extinction Fears",
+      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-09-images/01_an-anthropic-researcher-just-quit-over-ai-extincti/hero.jpg",
+        "alt_1": "downloads/2026-09-09-images/01_an-anthropic-researcher-just-quit-over-ai-extincti/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-09-images/01_an-anthropic-researcher-just-quit-over-ai-extincti/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_apple-s-entire-fall-event-was-basically-an-ai-prod",
+      "slug": "apple-s-entire-fall-event-was-basically-an-ai-prod",
+      "title": "Apple's Entire Fall Event Was Basically an AI Product Launch",
+      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-09-images/02_apple-s-entire-fall-event-was-basically-an-ai-prod/hero.jpg",
+        "alt_1": "downloads/2026-09-09-images/02_apple-s-entire-fall-event-was-basically-an-ai-prod/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-09-images/02_apple-s-entire-fall-event-was-basically-an-ai-prod/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_corporate-ai-spend-per-employee-dropped-in-august",
+      "slug": "corporate-ai-spend-per-employee-dropped-in-august",
+      "title": "Corporate AI Spend Per Employee Dropped in August",
+      "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "img-wide",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-09-images/03_corporate-ai-spend-per-employee-dropped-in-august/hero.jpg",
+        "alt_1": null,
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-09-images/03_corporate-ai-spend-per-employee-dropped-in-august/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_cognition-hits-48b-valuation-as-ai-coding-stays-cr",
+      "slug": "cognition-hits-48b-valuation-as-ai-coding-stays-cr",
+      "title": "Cognition Hits $48B Valuation as AI Coding Stays Crowded",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-09-images/04_cognition-hits-48b-valuation-as-ai-coding-stays-cr/hero.jpg",
+        "alt_1": "downloads/2026-09-09-images/04_cognition-hits-48b-valuation-as-ai-coding-stays-cr/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-09-images/04_cognition-hits-48b-valuation-as-ai-coding-stays-cr/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_suno-rebuilds-its-model-from-scratch-on-licensed-m",
+      "slug": "suno-rebuilds-its-model-from-scratch-on-licensed-m",
+      "title": "Suno Rebuilds Its Model From Scratch on Licensed Music",
+      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-09-images/05_suno-rebuilds-its-model-from-scratch-on-licensed-m/hero.jpg",
+        "alt_1": "downloads/2026-09-09-images/05_suno-rebuilds-its-model-from-scratch-on-licensed-m/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-09-images/05_suno-rebuilds-its-model-from-scratch-on-licensed-m/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_ai-agent-gets-its-own-email-address-and-that-shoul",
+      "slug": "ai-agent-gets-its-own-email-address-and-that-shoul",
+      "title": "AI Agent Gets Its Own Email Address \u2014 and That Should Make You Think",
+      "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-09-images/06_ai-agent-gets-its-own-email-address-and-that-shoul/hero.jpg",
+        "alt_1": "downloads/2026-09-09-images/06_ai-agent-gets-its-own-email-address-and-that-shoul/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-09-images/06_ai-agent-gets-its-own-email-address-and-that-shoul/caption.md"
+      }
+    }
+  ]
+}
