@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-10",
+  "edition_url": "https://www.aidaily.now/editions/2026-09-10-openai-doomer-board-ai-agents-government-apple-watch",
+  "generated_at": "2026-09-10T19:05:41.411800+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_openai-just-put-an-ai-doomer-in-the-boardroom",
+      "slug": "openai-just-put-an-ai-doomer-in-the-boardroom",
+      "title": "OpenAI Just Put an AI Doomer in the Boardroom",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "source": "TechCrunch",
+      "image_credit": "Samuel Boivin/NurPhoto",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-10-images/01_openai-just-put-an-ai-doomer-in-the-boardroom/hero.jpg",
+        "alt_1": "downloads/2026-09-10-images/01_openai-just-put-an-ai-doomer-in-the-boardroom/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-10-images/01_openai-just-put-an-ai-doomer-in-the-boardroom/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_ai-agents-are-crashing-government-websites-with-le",
+      "slug": "ai-agents-are-crashing-government-websites-with-le",
+      "title": "AI Agents Are Crashing Government Websites With Legitimate Requests",
+      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-10-images/02_ai-agents-are-crashing-government-websites-with-le/hero.jpg",
+        "alt_1": "downloads/2026-09-10-images/02_ai-agents-are-crashing-government-websites-with-le/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-10-images/02_ai-agents-are-crashing-government-websites-with-le/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_anthropic-published-a-report-on-what-rogue-ai-agen",
+      "slug": "anthropic-published-a-report-on-what-rogue-ai-agen",
+      "title": "Anthropic Published a Report on What Rogue AI Agents Actually Do When They Go Off-Script",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-10-images/03_anthropic-published-a-report-on-what-rogue-ai-agen/hero.jpg",
+        "alt_1": "downloads/2026-09-10-images/03_anthropic-published-a-report-on-what-rogue-ai-agen/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-10-images/03_anthropic-published-a-report-on-what-rogue-ai-agen/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_apple-s-always-listening-watch-is-quietly-normaliz",
+      "slug": "apple-s-always-listening-watch-is-quietly-normaliz",
+      "title": "Apple's Always-Listening Watch Is Quietly Normalizing Mass Ambient Surveillance",
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-10-images/04_apple-s-always-listening-watch-is-quietly-normaliz/hero.jpg",
+        "alt_1": "downloads/2026-09-10-images/04_apple-s-always-listening-watch-is-quietly-normaliz/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-10-images/04_apple-s-always-listening-watch-is-quietly-normaliz/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_pocket-fm-turned-ai-into-a-money-printer-500m-arr-",
+      "slug": "pocket-fm-turned-ai-into-a-money-printer-500m-arr-",
+      "title": "Pocket FM Turned AI Into a Money Printer: $500M ARR, 80x Cheaper Content",
+      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-10-images/05_pocket-fm-turned-ai-into-a-money-printer-500m-arr-/hero.jpg",
+        "alt_1": "downloads/2026-09-10-images/05_pocket-fm-turned-ai-into-a-money-printer-500m-arr-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-10-images/05_pocket-fm-turned-ai-into-a-money-printer-500m-arr-/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_listen-labs-walked-away-from-a-1-5b-check-to-talk-",
+      "slug": "listen-labs-walked-away-from-a-1-5b-check-to-talk-",
+      "title": "Listen Labs Walked Away From a $1.5B Check to Talk to Salesforce Instead",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-10-images/06_listen-labs-walked-away-from-a-1-5b-check-to-talk-/hero.jpg",
+        "alt_1": "downloads/2026-09-10-images/06_listen-labs-walked-away-from-a-1-5b-check-to-talk-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-10-images/06_listen-labs-walked-away-from-a-1-5b-check-to-talk-/caption.md"
+      }
+    }
+  ]
+}
