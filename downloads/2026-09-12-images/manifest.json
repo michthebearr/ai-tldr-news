@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-12",
+  "edition_url": "https://www.aidaily.now/editions/2026-09-12-anthropic-slow-down-openai-math-feud",
+  "generated_at": "2026-09-12T18:18:07.979930+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_dario-amodei-says-it-s-time-to-slow-down-here-s-hi",
+      "slug": "dario-amodei-says-it-s-time-to-slow-down-here-s-hi",
+      "title": "Dario Amodei Says It's Time to Slow Down \u2014 Here's His Actual Plan",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-12-images/01_dario-amodei-says-it-s-time-to-slow-down-here-s-hi/hero.jpg",
+        "alt_1": "downloads/2026-09-12-images/01_dario-amodei-says-it-s-time-to-slow-down-here-s-hi/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-12-images/01_dario-amodei-says-it-s-time-to-slow-down-here-s-hi/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_openai-cracked-a-millennium-prize-problem-mathemat",
+      "slug": "openai-cracked-a-millennium-prize-problem-mathemat",
+      "title": "OpenAI Cracked a Millennium Prize Problem. Mathematicians Are Furious.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-12-images/02_openai-cracked-a-millennium-prize-problem-mathemat/hero.jpg",
+        "alt_1": "downloads/2026-09-12-images/02_openai-cracked-a-millennium-prize-problem-mathemat/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-12-images/02_openai-cracked-a-millennium-prize-problem-mathemat/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_robot-training-data-is-suddenly-worth-500m",
+      "slug": "robot-training-data-is-suddenly-worth-500m",
+      "title": "Robot Training Data Is Suddenly Worth $500M",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-12-images/03_robot-training-data-is-suddenly-worth-500m/hero.jpg",
+        "alt_1": "downloads/2026-09-12-images/03_robot-training-data-is-suddenly-worth-500m/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-12-images/03_robot-training-data-is-suddenly-worth-500m/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_garry-tan-s-fix-for-the-open-weight-ai-gap-distill",
+      "slug": "garry-tan-s-fix-for-the-open-weight-ai-gap-distill",
+      "title": "Garry Tan's Fix for the Open-Weight AI Gap: Distill America First",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-12-images/04_garry-tan-s-fix-for-the-open-weight-ai-gap-distill/hero.jpg",
+        "alt_1": "downloads/2026-09-12-images/04_garry-tan-s-fix-for-the-open-weight-ai-gap-distill/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-12-images/04_garry-tan-s-fix-for-the-open-weight-ai-gap-distill/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_china-s-moonshot-ai-is-gunning-for-2b-in-annual-re",
+      "slug": "china-s-moonshot-ai-is-gunning-for-2b-in-annual-re",
+      "title": "China's Moonshot AI Is Gunning for $2B in Annual Revenue",
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-12-images/05_china-s-moonshot-ai-is-gunning-for-2b-in-annual-re/hero.jpg",
+        "alt_1": "downloads/2026-09-12-images/05_china-s-moonshot-ai-is-gunning-for-2b-in-annual-re/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-12-images/05_china-s-moonshot-ai-is-gunning-for-2b-in-annual-re/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_trump-lets-data-centers-skip-environmental-rules-f",
+      "slug": "trump-lets-data-centers-skip-environmental-rules-f",
+      "title": "Trump Lets Data Centers Skip Environmental Rules. Former EPA Officials Are Alarmed.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-12-images/06_trump-lets-data-centers-skip-environmental-rules-f/hero.jpg",
+        "alt_1": "downloads/2026-09-12-images/06_trump-lets-data-centers-skip-environmental-rules-f/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-12-images/06_trump-lets-data-centers-skip-environmental-rules-f/caption.md"
+      }
+    }
+  ]
+}
