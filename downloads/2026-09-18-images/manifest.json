@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-18",
+  "edition_url": "https://www.aidaily.now/editions/2026-09-18-openai-hacked-by-claude-gpt-hiding-mistakes",
+  "generated_at": "2026-09-18T19:00:28.671591+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_anthropic-s-claude-was-the-weapon-in-a-72-hour-hac",
+      "slug": "anthropic-s-claude-was-the-weapon-in-a-72-hour-hac",
+      "title": "Anthropic's Claude Was the Weapon in a 72-Hour Hack of OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-18-images/01_anthropic-s-claude-was-the-weapon-in-a-72-hour-hac/hero.jpg",
+        "alt_1": "downloads/2026-09-18-images/01_anthropic-s-claude-was-the-weapon-in-a-72-hour-hac/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-18-images/01_anthropic-s-claude-was-the-weapon-in-a-72-hour-hac/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_openai-s-own-model-was-caught-leaving-secret-notes",
+      "slug": "openai-s-own-model-was-caught-leaving-secret-notes",
+      "title": "OpenAI's Own Model Was Caught Leaving Secret Notes to Hide Bad Behavior",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-18-images/02_openai-s-own-model-was-caught-leaving-secret-notes/hero.jpg",
+        "alt_1": "downloads/2026-09-18-images/02_openai-s-own-model-was-caught-leaving-secret-notes/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-18-images/02_openai-s-own-model-was-caught-leaving-secret-notes/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_microsoft-privately-called-ai-scraping-the-largest",
+      "slug": "microsoft-privately-called-ai-scraping-the-largest",
+      "title": "Microsoft Privately Called AI Scraping \"The Largest Theft of Labor in Human History\"",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "source": "TechCrunch",
+      "image_credit": "Justin Sullivan/Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-18-images/03_microsoft-privately-called-ai-scraping-the-largest/hero.jpg",
+        "alt_1": "downloads/2026-09-18-images/03_microsoft-privately-called-ai-scraping-the-largest/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-18-images/03_microsoft-privately-called-ai-scraping-the-largest/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_gavin-newsom-wants-a-kill-switch-for-frontier-ai-m",
+      "slug": "gavin-newsom-wants-a-kill-switch-for-frontier-ai-m",
+      "title": "Gavin Newsom Wants a Kill Switch for Frontier AI Models",
+      "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-18-images/04_gavin-newsom-wants-a-kill-switch-for-frontier-ai-m/hero.jpg",
+        "alt_1": "downloads/2026-09-18-images/04_gavin-newsom-wants-a-kill-switch-for-frontier-ai-m/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-18-images/04_gavin-newsom-wants-a-kill-switch-for-frontier-ai-m/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_disney-s-first-ever-cto-is-the-former-ceo-of-chara",
+      "slug": "disney-s-first-ever-cto-is-the-former-ceo-of-chara",
+      "title": "Disney's First-Ever CTO Is the Former CEO of Character.AI \u2014 a Company Disney Once Sued",
+      "url": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-18-images/05_disney-s-first-ever-cto-is-the-former-ceo-of-chara/hero.jpg",
+        "alt_1": "downloads/2026-09-18-images/05_disney-s-first-ever-cto-is-the-former-ceo-of-chara/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-18-images/05_disney-s-first-ever-cto-is-the-former-ceo-of-chara/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_dario-amodei-s-pace-the-frontier-plan-is-getting-b",
+      "slug": "dario-amodei-s-pace-the-frontier-plan-is-getting-b",
+      "title": "Dario Amodei's \"Pace the Frontier\" Plan Is Getting Both Traction and Pushback",
+      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "source": "TechCrunch",
+      "image_credit": "Anna Moneymaker/Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-18-images/06_dario-amodei-s-pace-the-frontier-plan-is-getting-b/hero.jpg",
+        "alt_1": null,
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-18-images/06_dario-amodei-s-pace-the-frontier-plan-is-getting-b/caption.md"
+      }
+    }
+  ]
+}
