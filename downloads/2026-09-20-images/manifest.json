@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-20",
+  "edition_url": "https://www.aidaily.now/editions/2026-09-20-trump-ai-force-meta-muse-ai-hardware",
+  "generated_at": "2026-09-20T18:42:03.305342+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_trump-wants-to-rebrand-ai-create-an-ai-force-and-a",
+      "slug": "trump-wants-to-rebrand-ai-create-an-ai-force-and-a",
+      "title": "Trump Wants to Rebrand AI, Create an \"AI Force,\" and Appoint an AI Czar",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-20-images/01_trump-wants-to-rebrand-ai-create-an-ai-force-and-a/hero.jpg",
+        "alt_1": "downloads/2026-09-20-images/01_trump-wants-to-rebrand-ai-create-an-ai-force-and-a/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-20-images/01_trump-wants-to-rebrand-ai-create-an-ai-force-and-a/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_meta-s-muse-is-useful-unsettling-and-can-t-explain",
+      "slug": "meta-s-muse-is-useful-unsettling-and-can-t-explain",
+      "title": "Meta's Muse Is Useful, Unsettling, and Can't Explain What It Is",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-20-images/02_meta-s-muse-is-useful-unsettling-and-can-t-explain/hero.jpg",
+        "alt_1": "downloads/2026-09-20-images/02_meta-s-muse-is-useful-unsettling-and-can-t-explain/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-20-images/02_meta-s-muse-is-useful-unsettling-and-can-t-explain/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_a-249-smart-ring-wants-to-be-your-ai-meeting-notes",
+      "slug": "a-249-smart-ring-wants-to-be-your-ai-meeting-notes",
+      "title": "A $249 Smart Ring Wants to Be Your AI Meeting Notes Taker",
+      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-20-images/03_a-249-smart-ring-wants-to-be-your-ai-meeting-notes/hero.jpg",
+        "alt_1": "downloads/2026-09-20-images/03_a-249-smart-ring-wants-to-be-your-ai-meeting-notes/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-20-images/03_a-249-smart-ring-wants-to-be-your-ai-meeting-notes/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_humans-are-still-the-biggest-cybersecurity-threat-",
+      "slug": "humans-are-still-the-biggest-cybersecurity-threat-",
+      "title": "Humans Are Still the Biggest Cybersecurity Threat to Energy Grids \u2014 AI Just Makes It Worse",
+      "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-20-images/04_humans-are-still-the-biggest-cybersecurity-threat-/hero.jpg",
+        "alt_1": "downloads/2026-09-20-images/04_humans-are-still-the-biggest-cybersecurity-threat-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-20-images/04_humans-are-still-the-biggest-cybersecurity-threat-/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_scrolled-wants-to-turn-your-textbook-into-an-infin",
+      "slug": "scrolled-wants-to-turn-your-textbook-into-an-infin",
+      "title": "ScrollEd Wants to Turn Your Textbook Into an Infinite Scroll Feed",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-20-images/05_scrolled-wants-to-turn-your-textbook-into-an-infin/hero.jpg",
+        "alt_1": "downloads/2026-09-20-images/05_scrolled-wants-to-turn-your-textbook-into-an-infin/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-20-images/05_scrolled-wants-to-turn-your-textbook-into-an-infin/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_flock-turns-to-employee-buyouts-to-avoid-layoffs",
+      "slug": "flock-turns-to-employee-buyouts-to-avoid-layoffs",
+      "title": "Flock Turns to Employee Buyouts to Avoid Layoffs",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-20-images/06_flock-turns-to-employee-buyouts-to-avoid-layoffs/hero.jpg",
+        "alt_1": "downloads/2026-09-20-images/06_flock-turns-to-employee-buyouts-to-avoid-layoffs/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-20-images/06_flock-turns-to-employee-buyouts-to-avoid-layoffs/caption.md"
+      }
+    }
+  ]
+}
