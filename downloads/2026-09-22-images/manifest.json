@@ -1,0 +1,102 @@
+{
+  "date": "2026-09-22",
+  "edition_url": "https://www.aidaily.now/editions/2026-09-22-anthropic-openai-models-meta-muse-scandal",
+  "generated_at": "2026-09-22T19:42:39.215009+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_anthropic-s-opus-5-5-is-the-strongest-model-it-s-e",
+      "slug": "anthropic-s-opus-5-5-is-the-strongest-model-it-s-e",
+      "title": "Anthropic's Opus 5.5 Is the Strongest Model It's Ever Shipped \u2014 With a Security Twist",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-22-images/01_anthropic-s-opus-5-5-is-the-strongest-model-it-s-e/hero.jpg",
+        "alt_1": "downloads/2026-09-22-images/01_anthropic-s-opus-5-5-is-the-strongest-model-it-s-e/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-22-images/01_anthropic-s-opus-5-5-is-the-strongest-model-it-s-e/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_openai-releases-gpt-6-sol-and-luna-cheaper-smarter",
+      "slug": "openai-releases-gpt-6-sol-and-luna-cheaper-smarter",
+      "title": "OpenAI Releases GPT-6 Sol and Luna: Cheaper, Smarter, and Built Like Astra",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "source": "TechCrunch",
+      "image_credit": "Samuel Boivin/NurPhoto",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-22-images/02_openai-releases-gpt-6-sol-and-luna-cheaper-smarter/hero.jpg",
+        "alt_1": "downloads/2026-09-22-images/02_openai-releases-gpt-6-sol-and-luna-cheaper-smarter/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-22-images/02_openai-releases-gpt-6-sol-and-luna-cheaper-smarter/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_astroforge-is-handing-a-spacecraft-over-to-a-trans",
+      "slug": "astroforge-is-handing-a-spacecraft-over-to-a-trans",
+      "title": "AstroForge Is Handing a Spacecraft Over to a Transformer Model",
+      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "img-wide",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-22-images/03_astroforge-is-handing-a-spacecraft-over-to-a-trans/hero.jpg",
+        "alt_1": null,
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-22-images/03_astroforge-is-handing-a-spacecraft-over-to-a-trans/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_nscale-s-ipo-is-a-referendum-on-betting-everything",
+      "slug": "nscale-s-ipo-is-a-referendum-on-betting-everything",
+      "title": "Nscale's IPO Is a Referendum on Betting Everything on Two Customers",
+      "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-22-images/04_nscale-s-ipo-is-a-referendum-on-betting-everything/hero.jpg",
+        "alt_1": "downloads/2026-09-22-images/04_nscale-s-ipo-is-a-referendum-on-betting-everything/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-22-images/04_nscale-s-ipo-is-a-referendum-on-betting-everything/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_trump-declares-america-is-officially-renaming-ai-t",
+      "slug": "trump-declares-america-is-officially-renaming-ai-t",
+      "title": "Trump Declares America Is \"Officially Renaming\" AI to \"Super Intelligence\"",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-22-images/05_trump-declares-america-is-officially-renaming-ai-t/hero.jpg",
+        "alt_1": "downloads/2026-09-22-images/05_trump-declares-america-is-officially-renaming-ai-t/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-22-images/05_trump-declares-america-is-officially-renaming-ai-t/caption.md"
+      }
+    }
+  ]
+}
