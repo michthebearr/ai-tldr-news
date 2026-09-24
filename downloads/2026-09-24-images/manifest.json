@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-24",
+  "edition_url": "https://www.aidaily.now/editions/2026-09-24-openai-australia-hack-meta-muse-anthropic-biology",
+  "generated_at": "2026-09-24T19:57:39.145461+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_openai-hacked-australia-s-government-health-websit",
+      "slug": "openai-hacked-australia-s-government-health-websit",
+      "title": "OpenAI Hacked Australia's Government Health Website \u2014 and Now There's a Criminal Investigation",
+      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "source": "TechCrunch",
+      "image_credit": "Ludovic MARIN / AFP",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-24-images/01_openai-hacked-australia-s-government-health-websit/hero.jpg",
+        "alt_1": "downloads/2026-09-24-images/01_openai-hacked-australia-s-government-health-websit/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-24-images/01_openai-hacked-australia-s-government-health-websit/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_meta-s-muse-ai-agent-will-hand-over-its-entire-fil",
+      "slug": "meta-s-muse-ai-agent-will-hand-over-its-entire-fil",
+      "title": "Meta's Muse AI Agent Will Hand Over Its Entire Filesystem If You Ask Nicely",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-24-images/02_meta-s-muse-ai-agent-will-hand-over-its-entire-fil/hero.jpg",
+        "alt_1": "downloads/2026-09-24-images/02_meta-s-muse-ai-agent-will-hand-over-its-entire-fil/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-24-images/02_meta-s-muse-ai-agent-will-hand-over-its-entire-fil/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_anthropic-s-biology-lab-has-already-found-somethin",
+      "slug": "anthropic-s-biology-lab-has-already-found-somethin",
+      "title": "Anthropic's Biology Lab Has Already Found Something Big \u2014 But Claude Isn't Running Loose",
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-24-images/03_anthropic-s-biology-lab-has-already-found-somethin/hero.jpg",
+        "alt_1": "downloads/2026-09-24-images/03_anthropic-s-biology-lab-has-already-found-somethin/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-24-images/03_anthropic-s-biology-lab-has-already-found-somethin/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_gemini-will-now-call-businesses-so-you-never-have-",
+      "slug": "gemini-will-now-call-businesses-so-you-never-have-",
+      "title": "Gemini Will Now Call Businesses So You Never Have to Sit on Hold Again",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-24-images/04_gemini-will-now-call-businesses-so-you-never-have-/hero.jpg",
+        "alt_1": "downloads/2026-09-24-images/04_gemini-will-now-call-businesses-so-you-never-have-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-24-images/04_gemini-will-now-call-businesses-so-you-never-have-/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_vibe-coding-is-a-600m-business-lovable-crosses-the",
+      "slug": "vibe-coding-is-a-600m-business-lovable-crosses-the",
+      "title": "Vibe Coding Is a $600M Business: Lovable Crosses the Mark",
+      "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-24-images/05_vibe-coding-is-a-600m-business-lovable-crosses-the/hero.jpg",
+        "alt_1": "downloads/2026-09-24-images/05_vibe-coding-is-a-600m-business-lovable-crosses-the/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-24-images/05_vibe-coding-is-a-600m-business-lovable-crosses-the/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_elevenlabs-ceo-yeah-we-should-probably-tell-people",
+      "slug": "elevenlabs-ceo-yeah-we-should-probably-tell-people",
+      "title": "ElevenLabs CEO: Yeah, We Should Probably Tell People They're Talking to a Bot",
+      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "source": "TechCrunch",
+      "image_credit": "Jeff Spicer/Getty Images for SXSW London",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-24-images/06_elevenlabs-ceo-yeah-we-should-probably-tell-people/hero.jpg",
+        "alt_1": "downloads/2026-09-24-images/06_elevenlabs-ceo-yeah-we-should-probably-tell-people/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-24-images/06_elevenlabs-ceo-yeah-we-should-probably-tell-people/caption.md"
+      }
+    }
+  ]
+}
