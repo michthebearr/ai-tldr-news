@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-25",
+  "edition_url": "https://www.aidaily.now/editions/2026-09-25-meta-muse-anthropic-ipo-openai-agents",
+  "generated_at": "2026-09-25T19:59:59.935158+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_meta-s-muse-is-beating-chatgpt-and-meta-is-pouring",
+      "slug": "meta-s-muse-is-beating-chatgpt-and-meta-is-pouring",
+      "title": "Meta's Muse Is Beating ChatGPT \u2014 And Meta Is Pouring Jet Fuel On It",
+      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-25-images/01_meta-s-muse-is-beating-chatgpt-and-meta-is-pouring/hero.jpg",
+        "alt_1": "downloads/2026-09-25-images/01_meta-s-muse-is-beating-chatgpt-and-meta-is-pouring/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-25-images/01_meta-s-muse-is-beating-chatgpt-and-meta-is-pouring/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_anthropic-s-founders-want-majority-voting-control-",
+      "slug": "anthropic-s-founders-want-majority-voting-control-",
+      "title": "Anthropic's Founders Want Majority Voting Control Before the IPO",
+      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-25-images/02_anthropic-s-founders-want-majority-voting-control-/hero.jpg",
+        "alt_1": "downloads/2026-09-25-images/02_anthropic-s-founders-want-majority-voting-control-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-25-images/02_anthropic-s-founders-want-majority-voting-control-/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_anthropic-just-signed-an-11-6b-cloud-deal-with-aka",
+      "slug": "anthropic-just-signed-an-11-6b-cloud-deal-with-aka",
+      "title": "Anthropic Just Signed an $11.6B Cloud Deal With Akamai \u2014 and Got Equity Too",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-25-images/03_anthropic-just-signed-an-11-6b-cloud-deal-with-aka/hero.jpg",
+        "alt_1": "downloads/2026-09-25-images/03_anthropic-just-signed-an-11-6b-cloud-deal-with-aka/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-25-images/03_anthropic-just-signed-an-11-6b-cloud-deal-with-aka/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_openai-s-agent-swarms-have-been-quietly-raiding-da",
+      "slug": "openai-s-agent-swarms-have-been-quietly-raiding-da",
+      "title": "OpenAI's Agent Swarms Have Been Quietly Raiding Databases for Months",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-25-images/04_openai-s-agent-swarms-have-been-quietly-raiding-da/hero.jpg",
+        "alt_1": "downloads/2026-09-25-images/04_openai-s-agent-swarms-have-been-quietly-raiding-da/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-25-images/04_openai-s-agent-swarms-have-been-quietly-raiding-da/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_vibe-coded-apps-are-leaking-user-data-everywhere",
+      "slug": "vibe-coded-apps-are-leaking-user-data-everywhere",
+      "title": "Vibe-Coded Apps Are Leaking User Data Everywhere",
+      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-web/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "none",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": null,
+        "alt_1": null,
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-25-images/05_vibe-coded-apps-are-leaking-user-data-everywhere/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_gpt-and-opus-just-finished-alan-turing-s-wwii-code",
+      "slug": "gpt-and-opus-just-finished-alan-turing-s-wwii-code",
+      "title": "GPT and Opus Just Finished Alan Turing's WWII Codebreaking Work",
+      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-25-images/06_gpt-and-opus-just-finished-alan-turing-s-wwii-code/hero.jpg",
+        "alt_1": "downloads/2026-09-25-images/06_gpt-and-opus-just-finished-alan-turing-s-wwii-code/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-25-images/06_gpt-and-opus-just-finished-alan-turing-s-wwii-code/caption.md"
+      }
+    }
+  ]
+}
