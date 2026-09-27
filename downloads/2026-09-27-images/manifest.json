@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-27",
+  "edition_url": "https://www.aidaily.now/editions/2026-09-27-openai-agents-un-healthcare-costs-google-india",
+  "generated_at": "2026-09-27T19:44:25.423255+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_openai-s-agents-tried-to-brute-force-a-un-website",
+      "slug": "openai-s-agents-tried-to-brute-force-a-un-website",
+      "title": "OpenAI's Agents Tried to Brute-Force a UN Website",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-27-images/01_openai-s-agents-tried-to-brute-force-a-un-website/hero.jpg",
+        "alt_1": "downloads/2026-09-27-images/01_openai-s-agents-tried-to-brute-force-a-un-website/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-27-images/01_openai-s-agents-tried-to-brute-force-a-un-website/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_ai-is-making-your-hospital-bills-bigger-not-smalle",
+      "slug": "ai-is-making-your-hospital-bills-bigger-not-smalle",
+      "title": "AI Is Making Your Hospital Bills Bigger, Not Smaller",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-27-images/02_ai-is-making-your-hospital-bills-bigger-not-smalle/hero.jpg",
+        "alt_1": "downloads/2026-09-27-images/02_ai-is-making-your-hospital-bills-bigger-not-smalle/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-27-images/02_ai-is-making-your-hospital-bills-bigger-not-smalle/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_google-wants-gemini-to-be-your-shopping-cart-in-in",
+      "slug": "google-wants-gemini-to-be-your-shopping-cart-in-in",
+      "title": "Google Wants Gemini to Be Your Shopping Cart in India",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "source": "TechCrunch",
+      "image_credit": "Anindito Mukherjee/Bloomberg via Getty Images\"},{\"@type\":\"BreadcrumbList\",\"@id\":",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-27-images/03_google-wants-gemini-to-be-your-shopping-cart-in-in/hero.jpg",
+        "alt_1": "downloads/2026-09-27-images/03_google-wants-gemini-to-be-your-shopping-cart-in-in/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-27-images/03_google-wants-gemini-to-be-your-shopping-cart-in-in/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_dario-amodei-gets-the-snl-treatment-ai-is-the-devi",
+      "slug": "dario-amodei-gets-the-snl-treatment-ai-is-the-devi",
+      "title": "Dario Amodei Gets the SNL Treatment \u2014 \"AI Is the Devil and I Its Maker\"",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-27-images/04_dario-amodei-gets-the-snl-treatment-ai-is-the-devi/hero.jpg",
+        "alt_1": "downloads/2026-09-27-images/04_dario-amodei-gets-the-snl-treatment-ai-is-the-devi/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-27-images/04_dario-amodei-gets-the-snl-treatment-ai-is-the-devi/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_av-companies-are-picking-their-lanes-literally",
+      "slug": "av-companies-are-picking-their-lanes-literally",
+      "title": "AV Companies Are Picking Their Lanes \u2014 Literally",
+      "url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-27-images/05_av-companies-are-picking-their-lanes-literally/hero.jpg",
+        "alt_1": "downloads/2026-09-27-images/05_av-companies-are-picking-their-lanes-literally/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-27-images/05_av-companies-are-picking-their-lanes-literally/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_meta-s-vr-glasses-are-turning-heads-in-san-francis",
+      "slug": "meta-s-vr-glasses-are-turning-heads-in-san-francis",
+      "title": "Meta's VR Glasses Are Turning Heads in San Francisco",
+      "url": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-27-images/06_meta-s-vr-glasses-are-turning-heads-in-san-francis/hero.jpg",
+        "alt_1": "downloads/2026-09-27-images/06_meta-s-vr-glasses-are-turning-heads-in-san-francis/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-27-images/06_meta-s-vr-glasses-are-turning-heads-in-san-francis/caption.md"
+      }
+    }
+  ]
+}
