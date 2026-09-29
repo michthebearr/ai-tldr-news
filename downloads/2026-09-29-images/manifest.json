@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-29",
+  "edition_url": "https://www.aidaily.now/editions/2026-09-29-openai-devday-blitz-office-suite-agents-valuation",
+  "generated_at": "2026-09-29T20:40:51.103778+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_openai-is-building-its-own-app-store-and-office-su",
+      "slug": "openai-is-building-its-own-app-store-and-office-su",
+      "title": "OpenAI Is Building Its Own App Store \u2014 and Office Suite",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "source": "TechCrunch",
+      "image_credit": "Samuel Boivin/NurPhoto",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-29-images/01_openai-is-building-its-own-app-store-and-office-su/hero.jpg",
+        "alt_1": "downloads/2026-09-29-images/01_openai-is-building-its-own-app-store-and-office-su/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-29-images/01_openai-is-building-its-own-app-store-and-office-su/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_meet-dots-openai-s-always-on-ai-agent-that-rivals-",
+      "slug": "meet-dots-openai-s-always-on-ai-agent-that-rivals-",
+      "title": "Meet Dots: OpenAI's Always-On AI Agent That Rivals Meta's Muse",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-29-images/02_meet-dots-openai-s-always-on-ai-agent-that-rivals-/hero.jpg",
+        "alt_1": "downloads/2026-09-29-images/02_meet-dots-openai-s-always-on-ai-agent-that-rivals-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-29-images/02_meet-dots-openai-s-always-on-ai-agent-that-rivals-/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_openai-reportedly-raising-30b-at-a-1-4-trillion-va",
+      "slug": "openai-reportedly-raising-30b-at-a-1-4-trillion-va",
+      "title": "OpenAI Reportedly Raising $30B at a $1.4 Trillion Valuation",
+      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-29-images/03_openai-reportedly-raising-30b-at-a-1-4-trillion-va/hero.jpg",
+        "alt_1": "downloads/2026-09-29-images/03_openai-reportedly-raising-30b-at-a-1-4-trillion-va/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-29-images/03_openai-reportedly-raising-30b-at-a-1-4-trillion-va/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_anthropic-s-ipo-filing-warns-its-own-ai-could-end-",
+      "slug": "anthropic-s-ipo-filing-warns-its-own-ai-could-end-",
+      "title": "Anthropic's IPO Filing Warns Its Own AI Could End Humanity",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-29-images/04_anthropic-s-ipo-filing-warns-its-own-ai-could-end-/hero.jpg",
+        "alt_1": "downloads/2026-09-29-images/04_anthropic-s-ipo-filing-warns-its-own-ai-could-end-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-29-images/04_anthropic-s-ipo-filing-warns-its-own-ai-could-end-/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_openai-s-ai-agents-breached-australian-government-",
+      "slug": "openai-s-ai-agents-breached-australian-government-",
+      "title": "OpenAI's AI Agents Breached Australian Government Sites \u2014 Now It's Apologizing",
+      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "source": "TechCrunch",
+      "image_credit": "Samuel Boivin/NurPhoto",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-29-images/05_openai-s-ai-agents-breached-australian-government-/hero.jpg",
+        "alt_1": "downloads/2026-09-29-images/05_openai-s-ai-agents-breached-australian-government-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-29-images/05_openai-s-ai-agents-breached-australian-government-/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_meta-s-muse-ai-gave-a-stranger-a-youtuber-s-home-a",
+      "slug": "meta-s-muse-ai-gave-a-stranger-a-youtuber-s-home-a",
+      "title": "Meta's Muse AI Gave a Stranger a YouTuber's Home Address",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-29-images/06_meta-s-muse-ai-gave-a-stranger-a-youtuber-s-home-a/hero.jpg",
+        "alt_1": "downloads/2026-09-29-images/06_meta-s-muse-ai-gave-a-stranger-a-youtuber-s-home-a/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-29-images/06_meta-s-muse-ai-gave-a-stranger-a-youtuber-s-home-a/caption.md"
+      }
+    }
+  ]
+}
