@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-30",
+  "edition_url": "https://www.aidaily.now/editions/2026-09-30-gemini-4-elevenlabs-reddit-ai-scraping",
+  "generated_at": "2026-09-30T20:44:35.224266+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_google-built-a-model-so-powerful-it-won-t-let-you-",
+      "slug": "google-built-a-model-so-powerful-it-won-t-let-you-",
+      "title": "Google Built a Model So Powerful It Won't Let You Have It",
+      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-30-images/01_google-built-a-model-so-powerful-it-won-t-let-you-/hero.jpg",
+        "alt_1": "downloads/2026-09-30-images/01_google-built-a-model-so-powerful-it-won-t-let-you-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-30-images/01_google-built-a-model-so-powerful-it-won-t-let-you-/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_elevenlabs-just-doubled-its-valuation-to-22b-on-a-",
+      "slug": "elevenlabs-just-doubled-its-valuation-to-22b-on-a-",
+      "title": "ElevenLabs Just Doubled Its Valuation to $22B on a Single Tender Offer",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-30-images/02_elevenlabs-just-doubled-its-valuation-to-22b-on-a-/hero.jpg",
+        "alt_1": "downloads/2026-09-30-images/02_elevenlabs-just-doubled-its-valuation-to-22b-on-a-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-30-images/02_elevenlabs-just-doubled-its-valuation-to-22b-on-a-/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_reddit-is-torching-rss-and-public-api-access-to-st",
+      "slug": "reddit-is-torching-rss-and-public-api-access-to-st",
+      "title": "Reddit Is Torching RSS and Public API Access to Starve AI Bots",
+      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-30-images/03_reddit-is-torching-rss-and-public-api-access-to-st/hero.jpg",
+        "alt_1": "downloads/2026-09-30-images/03_reddit-is-torching-rss-and-public-api-access-to-st/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-30-images/03_reddit-is-torching-rss-and-public-api-access-to-st/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_openai-s-decisions-api-is-a-cheap-intelligence-lay",
+      "slug": "openai-s-decisions-api-is-a-cheap-intelligence-lay",
+      "title": "OpenAI's \"Decisions API\" Is a Cheap Intelligence Layer Built to Referee AI Agents",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-30-images/04_openai-s-decisions-api-is-a-cheap-intelligence-lay/hero.jpg",
+        "alt_1": "downloads/2026-09-30-images/04_openai-s-decisions-api-is-a-cheap-intelligence-lay/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-30-images/04_openai-s-decisions-api-is-a-cheap-intelligence-lay/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_meta-s-muse-ai-agent-has-a-privacy-problem-or-mayb",
+      "slug": "meta-s-muse-ai-agent-has-a-privacy-problem-or-mayb",
+      "title": "Meta's Muse AI Agent Has a Privacy Problem \u2014 Or Maybe It Doesn't",
+      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "source": "TechCrunch",
+      "image_credit": "Reuters",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-30-images/05_meta-s-muse-ai-agent-has-a-privacy-problem-or-mayb/hero.jpg",
+        "alt_1": "downloads/2026-09-30-images/05_meta-s-muse-ai-agent-has-a-privacy-problem-or-mayb/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-30-images/05_meta-s-muse-ai-agent-has-a-privacy-problem-or-mayb/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_consumer-ai-s-dirty-secret-the-unit-economics-are-",
+      "slug": "consumer-ai-s-dirty-secret-the-unit-economics-are-",
+      "title": "Consumer AI's Dirty Secret: The Unit Economics Are Brutal",
+      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-09-30-images/06_consumer-ai-s-dirty-secret-the-unit-economics-are-/hero.jpg",
+        "alt_1": "downloads/2026-09-30-images/06_consumer-ai-s-dirty-secret-the-unit-economics-are-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-09-30-images/06_consumer-ai-s-dirty-secret-the-unit-economics-are-/caption.md"
+      }
+    }
+  ]
+}
