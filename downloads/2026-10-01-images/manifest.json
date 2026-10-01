@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-01",
+  "edition_url": "https://www.aidaily.now/editions/2026-10-01-openai-safety-firings-dots-agent-chatgpt-shopping",
+  "generated_at": "2026-10-01T20:58:35.279565+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_openai-fires-three-safety-researchers-after-intern",
+      "slug": "openai-fires-three-safety-researchers-after-intern",
+      "title": "OpenAI Fires Three Safety Researchers After Internal Investigation",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-01-images/01_openai-fires-three-safety-researchers-after-intern/hero.jpg",
+        "alt_1": "downloads/2026-10-01-images/01_openai-fires-three-safety-researchers-after-intern/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-01-images/01_openai-fires-three-safety-researchers-after-intern/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_openai-s-dots-agent-is-a-direct-swing-at-meta-s-mu",
+      "slug": "openai-s-dots-agent-is-a-direct-swing-at-meta-s-mu",
+      "title": "OpenAI's \"Dots\" Agent Is a Direct Swing at Meta's Muse Platform",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+      "source": "The Verge",
+      "image_credit": "Heather Diehl/Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-01-images/02_openai-s-dots-agent-is-a-direct-swing-at-meta-s-mu/hero.jpg",
+        "alt_1": "downloads/2026-10-01-images/02_openai-s-dots-agent-is-a-direct-swing-at-meta-s-mu/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-01-images/02_openai-s-dots-agent-is-a-direct-swing-at-meta-s-mu/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_google-drops-gemini-4-argon-its-sharpest-model-yet",
+      "slug": "google-drops-gemini-4-argon-its-sharpest-model-yet",
+      "title": "Google Drops Gemini 4 Argon, Its Sharpest Model Yet",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-01-images/03_google-drops-gemini-4-argon-its-sharpest-model-yet/hero.jpg",
+        "alt_1": "downloads/2026-10-01-images/03_google-drops-gemini-4-argon-its-sharpest-model-yet/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-01-images/03_google-drops-gemini-4-argon-its-sharpest-model-yet/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_microsoft-is-repositioning-copilot-as-the-os-for-w",
+      "slug": "microsoft-is-repositioning-copilot-as-the-os-for-w",
+      "title": "Microsoft Is Repositioning Copilot as the \"OS for Work\"",
+      "url": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-01-images/04_microsoft-is-repositioning-copilot-as-the-os-for-w/hero.jpg",
+        "alt_1": "downloads/2026-10-01-images/04_microsoft-is-repositioning-copilot-as-the-os-for-w/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-01-images/04_microsoft-is-repositioning-copilot-as-the-os-for-w/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_chatgpt-now-lets-you-virtually-try-on-clothes-with",
+      "slug": "chatgpt-now-lets-you-virtually-try-on-clothes-with",
+      "title": "ChatGPT Now Lets You Virtually Try On Clothes With Your Own Photos",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-01-images/05_chatgpt-now-lets-you-virtually-try-on-clothes-with/hero.jpg",
+        "alt_1": "downloads/2026-10-01-images/05_chatgpt-now-lets-you-virtually-try-on-clothes-with/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-01-images/05_chatgpt-now-lets-you-virtually-try-on-clothes-with/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_shopify-s-canvas-lets-merchants-build-entire-store",
+      "slug": "shopify-s-canvas-lets-merchants-build-entire-store",
+      "title": "Shopify's Canvas Lets Merchants Build Entire Stores Through Chat",
+      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "fit-width",
+      "files": {
+        "hero": "downloads/2026-10-01-images/06_shopify-s-canvas-lets-merchants-build-entire-store/hero.jpg",
+        "alt_1": "downloads/2026-10-01-images/06_shopify-s-canvas-lets-merchants-build-entire-store/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-10-01-images/06_shopify-s-canvas-lets-merchants-build-entire-store/cover.jpg",
+        "caption": "downloads/2026-10-01-images/06_shopify-s-canvas-lets-merchants-build-entire-store/caption.md"
+      }
+    }
+  ]
+}
