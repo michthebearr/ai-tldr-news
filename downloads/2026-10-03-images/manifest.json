@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-03",
+  "edition_url": "https://www.aidaily.now/editions/2026-10-03-openai-safety-alarm-apple-ai-agents-sean-parker-music",
+  "generated_at": "2026-10-03T19:10:41.451040+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_another-openai-safety-staffer-quits-says-the-cultu",
+      "slug": "another-openai-safety-staffer-quits-says-the-cultu",
+      "title": "Another OpenAI Safety Staffer Quits, Says the Culture Is \"Broken\"",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-03-images/01_another-openai-safety-staffer-quits-says-the-cultu/hero.jpg",
+        "alt_1": "downloads/2026-10-03-images/01_another-openai-safety-staffer-quits-says-the-cultu/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-03-images/01_another-openai-safety-staffer-quits-says-the-cultu/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_apple-quietly-rewrote-the-rules-for-what-ai-agents",
+      "slug": "apple-quietly-rewrote-the-rules-for-what-ai-agents",
+      "title": "Apple Quietly Rewrote the Rules for What AI Agents Can Touch on Your Mac",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "source": "Ars Technica",
+      "image_credit": "Ars Technica",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-03-images/02_apple-quietly-rewrote-the-rules-for-what-ai-agents/hero.jpg",
+        "alt_1": "downloads/2026-10-03-images/02_apple-quietly-rewrote-the-rules-for-what-ai-agents/alt-1.jpg",
+        "alt_2": "downloads/2026-10-03-images/02_apple-quietly-rewrote-the-rules-for-what-ai-agents/alt-2.jpg",
+        "cover": null,
+        "caption": "downloads/2026-10-03-images/02_apple-quietly-rewrote-the-rules-for-what-ai-agents/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_sean-parker-is-turning-stability-ai-into-a-music-c",
+      "slug": "sean-parker-is-turning-stability-ai-into-a-music-c",
+      "title": "Sean Parker Is Turning Stability AI Into a Music Company",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "source": "TechCrunch",
+      "image_credit": "Gilbert Carrasquillo/Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-03-images/03_sean-parker-is-turning-stability-ai-into-a-music-c/hero.jpg",
+        "alt_1": "downloads/2026-10-03-images/03_sean-parker-is-turning-stability-ai-into-a-music-c/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-03-images/03_sean-parker-is-turning-stability-ai-into-a-music-c/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_meta-open-sources-muse-so-you-can-put-it-in-litera",
+      "slug": "meta-open-sources-muse-so-you-can-put-it-in-litera",
+      "title": "Meta Open Sources Muse So You Can Put It in Literally Everything",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-03-images/04_meta-open-sources-muse-so-you-can-put-it-in-litera/hero.jpg",
+        "alt_1": "downloads/2026-10-03-images/04_meta-open-sources-muse-so-you-can-put-it-in-litera/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-03-images/04_meta-open-sources-muse-so-you-can-put-it-in-litera/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_amazon-s-aws-chief-goes-on-a-pr-offensive-over-dat",
+      "slug": "amazon-s-aws-chief-goes-on-a-pr-offensive-over-dat",
+      "title": "Amazon's AWS Chief Goes on a PR Offensive Over Data Center Secrecy",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-03-images/05_amazon-s-aws-chief-goes-on-a-pr-offensive-over-dat/hero.jpg",
+        "alt_1": "downloads/2026-10-03-images/05_amazon-s-aws-chief-goes-on-a-pr-offensive-over-dat/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-03-images/05_amazon-s-aws-chief-goes-on-a-pr-offensive-over-dat/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_capcom-is-betting-ai-will-co-create-the-next-gener",
+      "slug": "capcom-is-betting-ai-will-co-create-the-next-gener",
+      "title": "Capcom Is Betting AI Will Co-Create the Next Generation of Games",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-03-images/06_capcom-is-betting-ai-will-co-create-the-next-gener/hero.jpg",
+        "alt_1": "downloads/2026-10-03-images/06_capcom-is-betting-ai-will-co-create-the-next-gener/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-03-images/06_capcom-is-betting-ai-will-co-create-the-next-gener/caption.md"
+      }
+    }
+  ]
+}
