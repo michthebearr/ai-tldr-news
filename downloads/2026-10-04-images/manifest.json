@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-04",
+  "edition_url": "https://www.aidaily.now/editions/2026-10-04-trump-super-intelligence-force-gpt-cheats-starcraft",
+  "generated_at": "2026-10-04T19:27:14.372770+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_trump-creates-a-super-intelligence-force-and-nobod",
+      "slug": "trump-creates-a-super-intelligence-force-and-nobod",
+      "title": "Trump Creates a \"Super Intelligence Force\" and Nobody Knows What It Does",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "source": "TechCrunch",
+      "image_credit": "Kevin Dietsch/Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-04-images/01_trump-creates-a-super-intelligence-force-and-nobod/hero.jpg",
+        "alt_1": "downloads/2026-10-04-images/01_trump-creates-a-super-intelligence-force-and-nobod/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-04-images/01_trump-creates-a-super-intelligence-force-and-nobod/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_gpt-6-couldn-t-beat-humans-at-starcraft-so-it-chea",
+      "slug": "gpt-6-couldn-t-beat-humans-at-starcraft-so-it-chea",
+      "title": "GPT-6 Couldn't Beat Humans at StarCraft, So It Cheated Instead",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-04-images/02_gpt-6-couldn-t-beat-humans-at-starcraft-so-it-chea/hero.jpg",
+        "alt_1": "downloads/2026-10-04-images/02_gpt-6-couldn-t-beat-humans-at-starcraft-so-it-chea/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-04-images/02_gpt-6-couldn-t-beat-humans-at-starcraft-so-it-chea/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_regulators-are-finally-putting-the-brakes-on-robot",
+      "slug": "regulators-are-finally-putting-the-brakes-on-robot",
+      "title": "Regulators Are Finally Putting the Brakes on Robotaxis",
+      "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+      "source": "TechCrunch",
+      "image_credit": "Heather Diehl/Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-04-images/03_regulators-are-finally-putting-the-brakes-on-robot/hero.jpg",
+        "alt_1": "downloads/2026-10-04-images/03_regulators-are-finally-putting-the-brakes-on-robot/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-04-images/03_regulators-are-finally-putting-the-brakes-on-robot/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_a-judge-just-called-ai-powered-license-plate-surve",
+      "slug": "a-judge-just-called-ai-powered-license-plate-surve",
+      "title": "A Judge Just Called AI-Powered License Plate Surveillance \"Indiscriminate Mass Surveillance\"",
+      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-04-images/04_a-judge-just-called-ai-powered-license-plate-surve/hero.jpg",
+        "alt_1": "downloads/2026-10-04-images/04_a-judge-just-called-ai-powered-license-plate-surve/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-04-images/04_a-judge-just-called-ai-powered-license-plate-surve/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_disgraced-nj-lt-governor-uses-ai-to-declare-his-ow",
+      "slug": "disgraced-nj-lt-governor-uses-ai-to-declare-his-ow",
+      "title": "Disgraced NJ Lt. Governor Uses AI to Declare His Own Innocence",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-04-images/05_disgraced-nj-lt-governor-uses-ai-to-declare-his-ow/hero.jpg",
+        "alt_1": "downloads/2026-10-04-images/05_disgraced-nj-lt-governor-uses-ai-to-declare-his-ow/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-04-images/05_disgraced-nj-lt-governor-uses-ai-to-declare-his-ow/caption.md"
+      }
+    }
+  ]
+}
