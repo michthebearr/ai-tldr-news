@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-06",
+  "edition_url": "https://www.aidaily.now/editions/2026-10-06-mistral-lambda-agents-content-moderation",
+  "generated_at": "2026-10-06T20:55:42.760486+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_mistral-s-1-trillion-parameter-model-is-europe-s-b",
+      "slug": "mistral-s-1-trillion-parameter-model-is-europe-s-b",
+      "title": "Mistral's 1-Trillion-Parameter Model Is Europe's Biggest Swing Yet",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "source": "TechCrunch",
+      "image_credit": "Thomas Fuller/NurPhoto via Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-06-images/01_mistral-s-1-trillion-parameter-model-is-europe-s-b/hero.jpg",
+        "alt_1": "downloads/2026-10-06-images/01_mistral-s-1-trillion-parameter-model-is-europe-s-b/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-06-images/01_mistral-s-1-trillion-parameter-model-is-europe-s-b/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_lambda-is-raising-4b-at-a-14-5b-valuation-and-eyei",
+      "slug": "lambda-is-raising-4b-at-a-14-5b-valuation-and-eyei",
+      "title": "Lambda Is Raising $4B at a $14.5B Valuation \u2014 And Eyeing a 2027 IPO",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-06-images/02_lambda-is-raising-4b-at-a-14-5b-valuation-and-eyei/hero.jpg",
+        "alt_1": "downloads/2026-10-06-images/02_lambda-is-raising-4b-at-a-14-5b-valuation-and-eyei/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-06-images/02_lambda-is-raising-4b-at-a-14-5b-valuation-and-eyei/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_ai-agents-keep-getting-bounced-at-the-door",
+      "slug": "ai-agents-keep-getting-bounced-at-the-door",
+      "title": "AI Agents Keep Getting Bounced at the Door",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-06-images/03_ai-agents-keep-getting-bounced-at-the-door/hero.jpg",
+        "alt_1": "downloads/2026-10-06-images/03_ai-agents-keep-getting-bounced-at-the-door/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-06-images/03_ai-agents-keep-getting-bounced-at-the-door/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_openai-s-agents-tried-to-hack-wikipedia-and-floode",
+      "slug": "openai-s-agents-tried-to-hack-wikipedia-and-floode",
+      "title": "OpenAI's Agents Tried to Hack Wikipedia and Flooded It With Traffic",
+      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "source": "Ars Technica",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-06-images/04_openai-s-agents-tried-to-hack-wikipedia-and-floode/hero.jpg",
+        "alt_1": "downloads/2026-10-06-images/04_openai-s-agents-tried-to-hack-wikipedia-and-floode/alt-1.jpg",
+        "alt_2": "downloads/2026-10-06-images/04_openai-s-agents-tried-to-hack-wikipedia-and-floode/alt-2.jpg",
+        "cover": null,
+        "caption": "downloads/2026-10-06-images/04_openai-s-agents-tried-to-hack-wikipedia-and-floode/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_mcp-s-agent-to-agent-protocol-has-a-serious-trust-",
+      "slug": "mcp-s-agent-to-agent-protocol-has-a-serious-trust-",
+      "title": "MCP's Agent-to-Agent Protocol Has a Serious Trust Problem",
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "source": "Ars Technica",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-06-images/05_mcp-s-agent-to-agent-protocol-has-a-serious-trust-/hero.jpg",
+        "alt_1": "downloads/2026-10-06-images/05_mcp-s-agent-to-agent-protocol-has-a-serious-trust-/alt-1.jpg",
+        "alt_2": "downloads/2026-10-06-images/05_mcp-s-agent-to-agent-protocol-has-a-serious-trust-/alt-2.jpg",
+        "cover": null,
+        "caption": "downloads/2026-10-06-images/05_mcp-s-agent-to-agent-protocol-has-a-serious-trust-/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_libreoffice-plants-its-flag-no-ai-is-a-feature-not",
+      "slug": "libreoffice-plants-its-flag-no-ai-is-a-feature-not",
+      "title": "LibreOffice Plants Its Flag: \"No AI\" Is a Feature, Not a Gap",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-06-images/06_libreoffice-plants-its-flag-no-ai-is-a-feature-not/hero.jpg",
+        "alt_1": "downloads/2026-10-06-images/06_libreoffice-plants-its-flag-no-ai-is-a-feature-not/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-06-images/06_libreoffice-plants-its-flag-no-ai-is-a-feature-not/caption.md"
+      }
+    }
+  ]
+}
