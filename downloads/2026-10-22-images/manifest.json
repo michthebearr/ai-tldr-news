@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-22",
+  "edition_url": "https://www.aidaily.now/editions/2026-10-22-ai-agents-everywhere-login-work-hacking",
+  "generated_at": "2026-10-22T19:56:16.135875+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_deepseek-raises-15b-days-after-the-us-tried-to-ban",
+      "slug": "deepseek-raises-15b-days-after-the-us-tried-to-ban",
+      "title": "DeepSeek Raises $15B Days After the US Tried to Banish It",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "source": "TechCrunch",
+      "image_credit": "GREG BAKER / AFP",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-22-images/01_deepseek-raises-15b-days-after-the-us-tried-to-ban/hero.jpg",
+        "alt_1": "downloads/2026-10-22-images/01_deepseek-raises-15b-days-after-the-us-tried-to-ban/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-22-images/01_deepseek-raises-15b-days-after-the-us-tried-to-ban/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_chinese-hackers-used-ai-agents-to-breach-thousands",
+      "slug": "chinese-hackers-used-ai-agents-to-breach-thousands",
+      "title": "Chinese Hackers Used AI Agents to Breach Thousands of Companies Through ConnectWise",
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-22-images/02_chinese-hackers-used-ai-agents-to-breach-thousands/hero.jpg",
+        "alt_1": "downloads/2026-10-22-images/02_chinese-hackers-used-ai-agents-to-breach-thousands/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-22-images/02_chinese-hackers-used-ai-agents-to-breach-thousands/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_1password-lets-ai-agents-log-into-your-accounts-wi",
+      "slug": "1password-lets-ai-agents-log-into-your-accounts-wi",
+      "title": "1Password Lets AI Agents Log Into Your Accounts Without Ever Seeing Your Password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-22-images/03_1password-lets-ai-agents-log-into-your-accounts-wi/hero.jpg",
+        "alt_1": "downloads/2026-10-22-images/03_1password-lets-ai-agents-log-into-your-accounts-wi/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-22-images/03_1password-lets-ai-agents-log-into-your-accounts-wi/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_anthropic-launches-claude-duet-its-bet-on-persiste",
+      "slug": "anthropic-launches-claude-duet-its-bet-on-persiste",
+      "title": "Anthropic Launches Claude Duet, Its Bet on Persistent AI Agents",
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-22-images/04_anthropic-launches-claude-duet-its-bet-on-persiste/hero.jpg",
+        "alt_1": "downloads/2026-10-22-images/04_anthropic-launches-claude-duet-its-bet-on-persiste/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-22-images/04_anthropic-launches-claude-duet-its-bet-on-persiste/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_microsoft-s-ai-beats-doctors-on-hard-diagnostic-ca",
+      "slug": "microsoft-s-ai-beats-doctors-on-hard-diagnostic-ca",
+      "title": "Microsoft's AI Beats Doctors on Hard Diagnostic Cases \u2014 With an Asterisk",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-22-images/05_microsoft-s-ai-beats-doctors-on-hard-diagnostic-ca/hero.jpg",
+        "alt_1": "downloads/2026-10-22-images/05_microsoft-s-ai-beats-doctors-on-hard-diagnostic-ca/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-22-images/05_microsoft-s-ai-beats-doctors-on-hard-diagnostic-ca/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_uber-rolls-chatgpt-work-out-to-all-30-000-employee",
+      "slug": "uber-rolls-chatgpt-work-out-to-all-30-000-employee",
+      "title": "Uber Rolls ChatGPT Work Out to All 30,000 Employees",
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-22-images/06_uber-rolls-chatgpt-work-out-to-all-30-000-employee/hero.jpg",
+        "alt_1": "downloads/2026-10-22-images/06_uber-rolls-chatgpt-work-out-to-all-30-000-employee/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-22-images/06_uber-rolls-chatgpt-work-out-to-all-30-000-employee/caption.md"
+      }
+    }
+  ]
+}
