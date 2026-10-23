@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-23",
+  "edition_url": "https://www.aidaily.now/editions/2026-10-23-openai-trillion-valuation-ai-agents-google-privacy",
+  "generated_at": "2026-10-23T19:55:32.398340+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_openai-is-now-worth-more-than-the-entire-gdp-of-au",
+      "slug": "openai-is-now-worth-more-than-the-entire-gdp-of-au",
+      "title": "OpenAI Is Now Worth More Than the Entire GDP of Australia (On Paper)",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch",
+      "image_credit": "Kimberly White/Getty Images for TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-23-images/01_openai-is-now-worth-more-than-the-entire-gdp-of-au/hero.jpg",
+        "alt_1": "downloads/2026-10-23-images/01_openai-is-now-worth-more-than-the-entire-gdp-of-au/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-23-images/01_openai-is-now-worth-more-than-the-entire-gdp-of-au/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_mit-stranded-13-ai-agents-on-a-virtual-island-they",
+      "slug": "mit-stranded-13-ai-agents-on-a-virtual-island-they",
+      "title": "MIT Stranded 13 AI Agents on a Virtual Island. They Started Playing Games.",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "black",
+      "cover_mode": "fit-width",
+      "files": {
+        "hero": "downloads/2026-10-23-images/02_mit-stranded-13-ai-agents-on-a-virtual-island-they/hero.jpg",
+        "alt_1": "downloads/2026-10-23-images/02_mit-stranded-13-ai-agents-on-a-virtual-island-they/alt-1.jpg",
+        "alt_2": null,
+        "cover": "downloads/2026-10-23-images/02_mit-stranded-13-ai-agents-on-a-virtual-island-they/cover.jpg",
+        "caption": "downloads/2026-10-23-images/02_mit-stranded-13-ai-agents-on-a-virtual-island-they/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_google-just-quietly-updated-its-privacy-policy-to-",
+      "slug": "google-just-quietly-updated-its-privacy-policy-to-",
+      "title": "Google Just Quietly Updated Its Privacy Policy to Mine Your Gmail for Ads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "source": "The Verge",
+      "image_credit": "AFP",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-23-images/03_google-just-quietly-updated-its-privacy-policy-to-/hero.jpg",
+        "alt_1": "downloads/2026-10-23-images/03_google-just-quietly-updated-its-privacy-policy-to-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-23-images/03_google-just-quietly-updated-its-privacy-policy-to-/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_daytona-hits-1b-giving-every-ai-agent-its-own-comp",
+      "slug": "daytona-hits-1b-giving-every-ai-agent-its-own-comp",
+      "title": "Daytona Hits $1B Giving Every AI Agent Its Own Computer",
+      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-23-images/04_daytona-hits-1b-giving-every-ai-agent-its-own-comp/hero.jpg",
+        "alt_1": "downloads/2026-10-23-images/04_daytona-hits-1b-giving-every-ai-agent-its-own-comp/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-23-images/04_daytona-hits-1b-giving-every-ai-agent-its-own-comp/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_rivian-buys-an-ai-startup-to-build-a-smarter-world",
+      "slug": "rivian-buys-an-ai-startup-to-build-a-smarter-world",
+      "title": "Rivian Buys an AI Startup to Build a Smarter World Model for Self-Driving",
+      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-23-images/05_rivian-buys-an-ai-startup-to-build-a-smarter-world/hero.jpg",
+        "alt_1": "downloads/2026-10-23-images/05_rivian-buys-an-ai-startup-to-build-a-smarter-world/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-23-images/05_rivian-buys-an-ai-startup-to-build-a-smarter-world/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_robotaxis-need-to-glow-cyan-so-you-know-no-one-s-d",
+      "slug": "robotaxis-need-to-glow-cyan-so-you-know-no-one-s-d",
+      "title": "Robotaxis Need to Glow Cyan So You Know No One's Driving",
+      "url": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-23-images/06_robotaxis-need-to-glow-cyan-so-you-know-no-one-s-d/hero.jpg",
+        "alt_1": "downloads/2026-10-23-images/06_robotaxis-need-to-glow-cyan-so-you-know-no-one-s-d/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-23-images/06_robotaxis-need-to-glow-cyan-so-you-know-no-one-s-d/caption.md"
+      }
+    }
+  ]
+}
