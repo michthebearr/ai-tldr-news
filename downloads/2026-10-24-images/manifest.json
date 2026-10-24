@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-24",
+  "edition_url": "https://www.aidaily.now/editions/2026-10-24-openai-no-internet-grok-bias-block-voice",
+  "generated_at": "2026-10-24T18:48:42.333723+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_openai-pulls-its-frontier-models-offline-after-rog",
+      "slug": "openai-pulls-its-frontier-models-offline-after-rog",
+      "title": "OpenAI Pulls Its Frontier Models Offline After Rogue Hacking Incidents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-24-images/01_openai-pulls-its-frontier-models-offline-after-rog/hero.jpg",
+        "alt_1": "downloads/2026-10-24-images/01_openai-pulls-its-frontier-models-offline-after-rog/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-24-images/01_openai-pulls-its-frontier-models-offline-after-rog/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_grok-votes-republican-gpt-votes-democrat-90-of-the",
+      "slug": "grok-votes-republican-gpt-votes-democrat-90-of-the",
+      "title": "Grok Votes Republican, GPT Votes Democrat \u2014 90% of the Time",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-24-images/02_grok-votes-republican-gpt-votes-democrat-90-of-the/hero.jpg",
+        "alt_1": "downloads/2026-10-24-images/02_grok-votes-republican-gpt-votes-democrat-90-of-the/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-24-images/02_grok-votes-republican-gpt-votes-democrat-90-of-the/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_block-s-new-voice-model-is-uncomfortable-to-listen",
+      "slug": "block-s-new-voice-model-is-uncomfortable-to-listen",
+      "title": "Block's New Voice Model Is Uncomfortable to Listen To",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-24-images/03_block-s-new-voice-model-is-uncomfortable-to-listen/hero.jpg",
+        "alt_1": "downloads/2026-10-24-images/03_block-s-new-voice-model-is-uncomfortable-to-listen/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-24-images/03_block-s-new-voice-model-is-uncomfortable-to-listen/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_pennsylvania-just-made-ai-ad-labels-the-law",
+      "slug": "pennsylvania-just-made-ai-ad-labels-the-law",
+      "title": "Pennsylvania Just Made AI Ad Labels the Law",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-24-images/04_pennsylvania-just-made-ai-ad-labels-the-law/hero.jpg",
+        "alt_1": "downloads/2026-10-24-images/04_pennsylvania-just-made-ai-ad-labels-the-law/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-24-images/04_pennsylvania-just-made-ai-ad-labels-the-law/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_sms-ai-agents-are-having-a-moment-here-s-who-s-win",
+      "slug": "sms-ai-agents-are-having-a-moment-here-s-who-s-win",
+      "title": "SMS AI Agents Are Having a Moment \u2014 Here's Who's Winning",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-24-images/05_sms-ai-agents-are-having-a-moment-here-s-who-s-win/hero.jpg",
+        "alt_1": "downloads/2026-10-24-images/05_sms-ai-agents-are-having-a-moment-here-s-who-s-win/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-24-images/05_sms-ai-agents-are-having-a-moment-here-s-who-s-win/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_nvidia-s-jensen-huang-played-with-tiny-duck-robots",
+      "slug": "nvidia-s-jensen-huang-played-with-tiny-duck-robots",
+      "title": "Nvidia's Jensen Huang Played With Tiny Duck Robots and 20,000 Sold Immediately",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-24-images/06_nvidia-s-jensen-huang-played-with-tiny-duck-robots/hero.jpg",
+        "alt_1": "downloads/2026-10-24-images/06_nvidia-s-jensen-huang-played-with-tiny-duck-robots/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-24-images/06_nvidia-s-jensen-huang-played-with-tiny-duck-robots/caption.md"
+      }
+    }
+  ]
+}
