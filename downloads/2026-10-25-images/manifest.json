@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-25",
+  "edition_url": "https://www.aidaily.now/editions/2026-10-25-ai-roi-problem-publishing-fallout-open-source-revolt",
+  "generated_at": "2026-10-25T18:53:09.290885+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_corporate-america-has-spent-billions-on-ai-and-has",
+      "slug": "corporate-america-has-spent-billions-on-ai-and-has",
+      "title": "Corporate America Has Spent Billions on AI and Has Almost Nothing to Show For It",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-25-images/01_corporate-america-has-spent-billions-on-ai-and-has/hero.jpg",
+        "alt_1": "downloads/2026-10-25-images/01_corporate-america-has-spent-billions-on-ai-and-has/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-25-images/01_corporate-america-has-spent-billions-on-ai-and-has/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_google-s-ai-search-overhaul-is-quietly-killing-onl",
+      "slug": "google-s-ai-search-overhaul-is-quietly-killing-onl",
+      "title": "Google's AI Search Overhaul Is Quietly Killing Online Publishing",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-25-images/02_google-s-ai-search-overhaul-is-quietly-killing-onl/hero.jpg",
+        "alt_1": "downloads/2026-10-25-images/02_google-s-ai-search-overhaul-is-quietly-killing-onl/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-25-images/02_google-s-ai-search-overhaul-is-quietly-killing-onl/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_reddit-s-r-opensource-just-banned-all-ai-projects-",
+      "slug": "reddit-s-r-opensource-just-banned-all-ai-projects-",
+      "title": "Reddit's r/opensource Just Banned All AI Projects \u2014 and the Internet Is Fighting About It",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-25-images/03_reddit-s-r-opensource-just-banned-all-ai-projects-/hero.jpg",
+        "alt_1": "downloads/2026-10-25-images/03_reddit-s-r-opensource-just-banned-all-ai-projects-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-25-images/03_reddit-s-r-opensource-just-banned-all-ai-projects-/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_the-ai-graveyard-is-getting-crowded-siri-openai-s-",
+      "slug": "the-ai-graveyard-is-getting-crowded-siri-openai-s-",
+      "title": "The AI Graveyard Is Getting Crowded: Siri, OpenAI's Super App, and More",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-25-images/04_the-ai-graveyard-is-getting-crowded-siri-openai-s-/hero.jpg",
+        "alt_1": "downloads/2026-10-25-images/04_the-ai-graveyard-is-getting-crowded-siri-openai-s-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-25-images/04_the-ai-graveyard-is-getting-crowded-siri-openai-s-/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_ai-is-about-to-expose-how-fragile-the-internet-s-i",
+      "slug": "ai-is-about-to-expose-how-fragile-the-internet-s-i",
+      "title": "AI Is About to Expose How Fragile the Internet's Infrastructure Actually Is",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-25-images/05_ai-is-about-to-expose-how-fragile-the-internet-s-i/hero.jpg",
+        "alt_1": "downloads/2026-10-25-images/05_ai-is-about-to-expose-how-fragile-the-internet-s-i/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-25-images/05_ai-is-about-to-expose-how-fragile-the-internet-s-i/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_blue-planet-iii-is-deliberately-keeping-the-ugly-s",
+      "slug": "blue-planet-iii-is-deliberately-keeping-the-ugly-s",
+      "title": "Blue Planet III Is Deliberately Keeping the Ugly Shots to Prove It's Real",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-25-images/06_blue-planet-iii-is-deliberately-keeping-the-ugly-s/hero.jpg",
+        "alt_1": "downloads/2026-10-25-images/06_blue-planet-iii-is-deliberately-keeping-the-ugly-s/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-25-images/06_blue-planet-iii-is-deliberately-keeping-the-ugly-s/caption.md"
+      }
+    }
+  ]
+}
