@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-29",
+  "edition_url": "https://www.aidaily.now/editions/2026-10-29-mistral-cybersecurity-spy-plot-ai-web",
+  "generated_at": "2026-10-29T21:01:04.284331+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_mistral-drops-a-trillion-parameter-cybersecurity-m",
+      "slug": "mistral-drops-a-trillion-parameter-cybersecurity-m",
+      "title": "Mistral Drops a Trillion-Parameter Cybersecurity Model \u2014 and Opens the Weights",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "source": "TechCrunch",
+      "image_credit": "TOBY MELVILLE / POOL / AFP",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-29-images/01_mistral-drops-a-trillion-parameter-cybersecurity-m/hero.jpg",
+        "alt_1": "downloads/2026-10-29-images/01_mistral-drops-a-trillion-parameter-cybersecurity-m/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-29-images/01_mistral-drops-a-trillion-parameter-cybersecurity-m/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_reddit-is-walling-off-the-open-web-because-ai-is-k",
+      "slug": "reddit-is-walling-off-the-open-web-because-ai-is-k",
+      "title": "Reddit Is Walling Off the Open Web Because AI Is Killing Search Traffic",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-29-images/02_reddit-is-walling-off-the-open-web-because-ai-is-k/hero.jpg",
+        "alt_1": "downloads/2026-10-29-images/02_reddit-is-walling-off-the-open-web-because-ai-is-k/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-29-images/02_reddit-is-walling-off-the-open-web-because-ai-is-k/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_the-us-investigated-a-chinese-spy-plot-targeting-n",
+      "slug": "the-us-investigated-a-chinese-spy-plot-targeting-n",
+      "title": "The US Investigated a Chinese Spy Plot Targeting Nvidia's Jensen Huang",
+      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-29-images/03_the-us-investigated-a-chinese-spy-plot-targeting-n/hero.jpg",
+        "alt_1": "downloads/2026-10-29-images/03_the-us-investigated-a-chinese-spy-plot-targeting-n/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-29-images/03_the-us-investigated-a-chinese-spy-plot-targeting-n/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_openai-backed-thrive-holdings-is-buying-adt-for-15",
+      "slug": "openai-backed-thrive-holdings-is-buying-adt-for-15",
+      "title": "OpenAI-Backed Thrive Holdings Is Buying ADT for $15.3 Billion",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-29-images/04_openai-backed-thrive-holdings-is-buying-adt-for-15/hero.jpg",
+        "alt_1": "downloads/2026-10-29-images/04_openai-backed-thrive-holdings-is-buying-adt-for-15/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-29-images/04_openai-backed-thrive-holdings-is-buying-adt-for-15/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_google-gemini-can-now-generate-and-edit-docs-sheet",
+      "slug": "google-gemini-can-now-generate-and-edit-docs-sheet",
+      "title": "Google Gemini Can Now Generate and Edit Docs, Sheets, and PDFs Inline",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-29-images/05_google-gemini-can-now-generate-and-edit-docs-sheet/hero.jpg",
+        "alt_1": "downloads/2026-10-29-images/05_google-gemini-can-now-generate-and-edit-docs-sheet/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-29-images/05_google-gemini-can-now-generate-and-edit-docs-sheet/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_data-centers-could-erase-15-years-of-us-emissions-",
+      "slug": "data-centers-could-erase-15-years-of-us-emissions-",
+      "title": "Data Centers Could Erase 15 Years of US Emissions Progress by 2030",
+      "url": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-29-images/06_data-centers-could-erase-15-years-of-us-emissions-/hero.jpg",
+        "alt_1": "downloads/2026-10-29-images/06_data-centers-could-erase-15-years-of-us-emissions-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-29-images/06_data-centers-could-erase-15-years-of-us-emissions-/caption.md"
+      }
+    }
+  ]
+}
