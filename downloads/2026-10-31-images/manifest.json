@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-31",
+  "edition_url": "https://www.aidaily.now/editions/2026-10-31-ai-spending-boom-cracks",
+  "generated_at": "2026-10-31T19:58:03.720106+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_the-ai-money-machine-is-sputtering",
+      "slug": "the-ai-money-machine-is-sputtering",
+      "title": "The AI Money Machine Is Sputtering",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "source": "TechCrunch",
+      "image_credit": "Mick Haupt on Unsplash",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-31-images/01_the-ai-money-machine-is-sputtering/hero.jpg",
+        "alt_1": "downloads/2026-10-31-images/01_the-ai-money-machine-is-sputtering/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-31-images/01_the-ai-money-machine-is-sputtering/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_openai-quietly-cuts-its-funding-target",
+      "slug": "openai-quietly-cuts-its-funding-target",
+      "title": "OpenAI Quietly Cuts Its Funding Target",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch",
+      "image_credit": "Samuel Boivin/NurPhoto via Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-31-images/02_openai-quietly-cuts-its-funding-target/hero.jpg",
+        "alt_1": "downloads/2026-10-31-images/02_openai-quietly-cuts-its-funding-target/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-31-images/02_openai-quietly-cuts-its-funding-target/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_anthropic-heading-into-its-ipo-with-junk-grade-cre",
+      "slug": "anthropic-heading-into-its-ipo-with-junk-grade-cre",
+      "title": "Anthropic Heading Into Its IPO With Junk-Grade Credit",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "source": "TechCrunch",
+      "image_credit": "Anna Moneymaker/Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-31-images/03_anthropic-heading-into-its-ipo-with-junk-grade-cre/hero.jpg",
+        "alt_1": "downloads/2026-10-31-images/03_anthropic-heading-into-its-ipo-with-junk-grade-cre/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-31-images/03_anthropic-heading-into-its-ipo-with-junk-grade-cre/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_nvidia-considers-co-signing-an-ai-data-center-loan",
+      "slug": "nvidia-considers-co-signing-an-ai-data-center-loan",
+      "title": "Nvidia Considers Co-Signing an AI Data Center Loan",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-31-images/04_nvidia-considers-co-signing-an-ai-data-center-loan/hero.jpg",
+        "alt_1": "downloads/2026-10-31-images/04_nvidia-considers-co-signing-an-ai-data-center-loan/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-31-images/04_nvidia-considers-co-signing-an-ai-data-center-loan/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_anthropic-s-vs-code-extension-was-backdoored-for-1",
+      "slug": "anthropic-s-vs-code-extension-was-backdoored-for-1",
+      "title": "Anthropic's VS Code Extension Was Backdoored for 12 Hours",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "source": "Ars Technica",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-31-images/05_anthropic-s-vs-code-extension-was-backdoored-for-1/hero.jpg",
+        "alt_1": "downloads/2026-10-31-images/05_anthropic-s-vs-code-extension-was-backdoored-for-1/alt-1.jpg",
+        "alt_2": "downloads/2026-10-31-images/05_anthropic-s-vs-code-extension-was-backdoored-for-1/alt-2.jpg",
+        "cover": null,
+        "caption": "downloads/2026-10-31-images/05_anthropic-s-vs-code-extension-was-backdoored-for-1/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_privacy-first-ai-assistant-ollie-is-shutting-down",
+      "slug": "privacy-first-ai-assistant-ollie-is-shutting-down",
+      "title": "Privacy-First AI Assistant Ollie Is Shutting Down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-10-31-images/06_privacy-first-ai-assistant-ollie-is-shutting-down/hero.jpg",
+        "alt_1": "downloads/2026-10-31-images/06_privacy-first-ai-assistant-ollie-is-shutting-down/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-10-31-images/06_privacy-first-ai-assistant-ollie-is-shutting-down/caption.md"
+      }
+    }
+  ]
+}
