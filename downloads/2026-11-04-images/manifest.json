@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-04",
+  "edition_url": "https://www.aidaily.now/editions/2026-11-04-openai-2028-meta-conductor-google-schools",
+  "generated_at": "2026-11-04T21:54:34.646255+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_openai-is-already-lobbying-for-the-2028-election-a",
+      "slug": "openai-is-already-lobbying-for-the-2028-election-a",
+      "title": "OpenAI Is Already Lobbying for the 2028 Election \u2014 and Its Own Bottom Line",
+      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-04-images/01_openai-is-already-lobbying-for-the-2028-election-a/hero.jpg",
+        "alt_1": "downloads/2026-11-04-images/01_openai-is-already-lobbying-for-the-2028-election-a/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-04-images/01_openai-is-already-lobbying-for-the-2028-election-a/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_meta-buys-conductor-to-field-entire-agent-teams-fo",
+      "slug": "meta-buys-conductor-to-field-entire-agent-teams-fo",
+      "title": "Meta Buys Conductor to Field Entire Agent Teams for Coding",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "source": "TechCrunch",
+      "image_credit": "TechCrunch",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-04-images/02_meta-buys-conductor-to-field-entire-agent-teams-fo/hero.jpg",
+        "alt_1": "downloads/2026-11-04-images/02_meta-buys-conductor-to-field-entire-agent-teams-fo/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-04-images/02_meta-buys-conductor-to-field-entire-agent-teams-fo/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_google-threatens-to-kill-search-for-schools-that-b",
+      "slug": "google-threatens-to-kill-search-for-schools-that-b",
+      "title": "Google Threatens to Kill Search for Schools That Block Its AI \u2014 and Everyone Hates It",
+      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-04-images/03_google-threatens-to-kill-search-for-schools-that-b/hero.jpg",
+        "alt_1": "downloads/2026-11-04-images/03_google-threatens-to-kill-search-for-schools-that-b/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-04-images/03_google-threatens-to-kill-search-for-schools-that-b/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_anthropic-wants-to-give-ai-models-a-verifiable-ide",
+      "slug": "anthropic-wants-to-give-ai-models-a-verifiable-ide",
+      "title": "Anthropic Wants to Give AI Models a Verifiable Identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "source": "TechCrunch",
+      "image_credit": "Samuel Boivin/NurPhoto via Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-04-images/04_anthropic-wants-to-give-ai-models-a-verifiable-ide/hero.jpg",
+        "alt_1": "downloads/2026-11-04-images/04_anthropic-wants-to-give-ai-models-a-verifiable-ide/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-04-images/04_anthropic-wants-to-give-ai-models-a-verifiable-ide/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_data-centers-are-strapping-jet-engines-to-the-grid",
+      "slug": "data-centers-are-strapping-jet-engines-to-the-grid",
+      "title": "Data Centers Are Strapping Jet Engines to the Grid Because They Have No Choice",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-04-images/05_data-centers-are-strapping-jet-engines-to-the-grid/hero.jpg",
+        "alt_1": "downloads/2026-11-04-images/05_data-centers-are-strapping-jet-engines-to-the-grid/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-04-images/05_data-centers-are-strapping-jet-engines-to-the-grid/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_chatgpt-can-now-generate-animated-gifs-powered-by-",
+      "slug": "chatgpt-can-now-generate-animated-gifs-powered-by-",
+      "title": "ChatGPT Can Now Generate Animated GIFs \u2014 Powered by Images 2.6",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-04-images/06_chatgpt-can-now-generate-animated-gifs-powered-by-/hero.jpg",
+        "alt_1": "downloads/2026-11-04-images/06_chatgpt-can-now-generate-animated-gifs-powered-by-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-04-images/06_chatgpt-can-now-generate-animated-gifs-powered-by-/caption.md"
+      }
+    }
+  ]
+}
