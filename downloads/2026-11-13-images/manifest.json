@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-13",
+  "edition_url": "https://www.aidaily.now/editions/2026-11-13-jensen-huang-scandal-nvidia-chatgpt-wallet-langchain",
+  "generated_at": "2026-11-13T21:59:57.480330+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_jensen-huang-is-out-and-the-nvidia-fallout-is-just",
+      "slug": "jensen-huang-is-out-and-the-nvidia-fallout-is-just",
+      "title": "Jensen Huang Is Out \u2014 and the Nvidia Fallout Is Just Beginning",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "image_credit": "Justin Sullivan/Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-13-images/01_jensen-huang-is-out-and-the-nvidia-fallout-is-just/hero.jpg",
+        "alt_1": "downloads/2026-11-13-images/01_jensen-huang-is-out-and-the-nvidia-fallout-is-just/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-13-images/01_jensen-huang-is-out-and-the-nvidia-fallout-is-just/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_china-trained-its-best-ai-models-on-chips-it-was-b",
+      "slug": "china-trained-its-best-ai-models-on-chips-it-was-b",
+      "title": "China Trained Its Best AI Models on Chips It Was Banned From Having",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "source": "TechCrunch",
+      "image_credit": "Sean Gallup/Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-13-images/02_china-trained-its-best-ai-models-on-chips-it-was-b/hero.jpg",
+        "alt_1": "downloads/2026-11-13-images/02_china-trained-its-best-ai-models-on-chips-it-was-b/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-13-images/02_china-trained-its-best-ai-models-on-chips-it-was-b/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_openai-gives-your-ai-agent-a-credit-card",
+      "slug": "openai-gives-your-ai-agent-a-credit-card",
+      "title": "OpenAI Gives Your AI Agent a Credit Card",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-13-images/03_openai-gives-your-ai-agent-a-credit-card/hero.jpg",
+        "alt_1": "downloads/2026-11-13-images/03_openai-gives-your-ai-agent-a-credit-card/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-13-images/03_openai-gives-your-ai-agent-a-credit-card/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_langchain-hits-3b-valuation-as-ai-agent-infrastruc",
+      "slug": "langchain-hits-3b-valuation-as-ai-agent-infrastruc",
+      "title": "LangChain Hits $3B Valuation as AI Agent Infrastructure Heats Up",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-13-images/04_langchain-hits-3b-valuation-as-ai-agent-infrastruc/hero.jpg",
+        "alt_1": "downloads/2026-11-13-images/04_langchain-hits-3b-valuation-as-ai-agent-infrastruc/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-13-images/04_langchain-hits-3b-valuation-as-ai-agent-infrastruc/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_elevenlabs-enters-the-enterprise-meeting-room",
+      "slug": "elevenlabs-enters-the-enterprise-meeting-room",
+      "title": "ElevenLabs Enters the Enterprise Meeting Room",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "source": "TechCrunch",
+      "image_credit": "Reuters",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-13-images/05_elevenlabs-enters-the-enterprise-meeting-room/hero.jpg",
+        "alt_1": "downloads/2026-11-13-images/05_elevenlabs-enters-the-enterprise-meeting-room/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-13-images/05_elevenlabs-enters-the-enterprise-meeting-room/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_uber-driver-data-stolen-via-an-ai-cloud-vendor",
+      "slug": "uber-driver-data-stolen-via-an-ai-cloud-vendor",
+      "title": "Uber Driver Data Stolen \u2014 Via an AI Cloud Vendor",
+      "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-13-images/06_uber-driver-data-stolen-via-an-ai-cloud-vendor/hero.jpg",
+        "alt_1": "downloads/2026-11-13-images/06_uber-driver-data-stolen-via-an-ai-cloud-vendor/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-13-images/06_uber-driver-data-stolen-via-an-ai-cloud-vendor/caption.md"
+      }
+    }
+  ]
+}
