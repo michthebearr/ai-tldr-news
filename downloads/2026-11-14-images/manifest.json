@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-14",
+  "edition_url": "https://www.aidaily.now/editions/2026-11-14-jensen-huang-exit-ai-funding-graveyard",
+  "generated_at": "2026-11-14T20:40:08.230070+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_jensen-huang-is-gone-and-the-ai-startup-ecosystem-",
+      "slug": "jensen-huang-is-gone-and-the-ai-startup-ecosystem-",
+      "title": "Jensen Huang Is Gone and the AI Startup Ecosystem Is Freaking Out",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-14-images/01_jensen-huang-is-gone-and-the-ai-startup-ecosystem-/hero.jpg",
+        "alt_1": "downloads/2026-11-14-images/01_jensen-huang-is-gone-and-the-ai-startup-ecosystem-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-14-images/01_jensen-huang-is-gone-and-the-ai-startup-ecosystem-/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_asian-governments-are-scrambling-to-secure-chip-su",
+      "slug": "asian-governments-are-scrambling-to-secure-chip-su",
+      "title": "Asian Governments Are Scrambling to Secure Chip Supply After Huang's Exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-14-images/02_asian-governments-are-scrambling-to-secure-chip-su/hero.jpg",
+        "alt_1": "downloads/2026-11-14-images/02_asian-governments-are-scrambling-to-secure-chip-su/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-14-images/02_asian-governments-are-scrambling-to-secure-chip-su/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_the-last-visionary-founder-ceo-what-jensen-huang-s",
+      "slug": "the-last-visionary-founder-ceo-what-jensen-huang-s",
+      "title": "The Last Visionary Founder-CEO: What Jensen Huang's Exit Really Means",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "source": "The Verge",
+      "image_credit": "Artur Widak/NurPhoto via Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-14-images/03_the-last-visionary-founder-ceo-what-jensen-huang-s/hero.jpg",
+        "alt_1": "downloads/2026-11-14-images/03_the-last-visionary-founder-ceo-what-jensen-huang-s/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-14-images/03_the-last-visionary-founder-ceo-what-jensen-huang-s/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_the-ai-graveyard-is-getting-crowded-siri-and-opena",
+      "slug": "the-ai-graveyard-is-getting-crowded-siri-and-opena",
+      "title": "The AI Graveyard Is Getting Crowded \u2014 Siri and OpenAI's Super App Among the Latest Casualties",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-14-images/04_the-ai-graveyard-is-getting-crowded-siri-and-opena/hero.jpg",
+        "alt_1": "downloads/2026-11-14-images/04_the-ai-graveyard-is-getting-crowded-siri-and-opena/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-14-images/04_the-ai-graveyard-is-getting-crowded-siri-and-opena/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_tesla-s-cybercab-is-available-if-you-squint-hard-e",
+      "slug": "tesla-s-cybercab-is-available-if-you-squint-hard-e",
+      "title": "Tesla's Cybercab Is \"Available\" \u2014 If You Squint Hard Enough",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "source": "TechCrunch",
+      "image_credit": "Josh Edelson / AFP",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-14-images/05_tesla-s-cybercab-is-available-if-you-squint-hard-e/hero.jpg",
+        "alt_1": "downloads/2026-11-14-images/05_tesla-s-cybercab-is-available-if-you-squint-hard-e/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-14-images/05_tesla-s-cybercab-is-available-if-you-squint-hard-e/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_the-openai-board-member-who-fired-sam-altman-says-",
+      "slug": "the-openai-board-member-who-fired-sam-altman-says-",
+      "title": "The OpenAI Board Member Who Fired Sam Altman Says We Still Can't Trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-14-images/06_the-openai-board-member-who-fired-sam-altman-says-/hero.jpg",
+        "alt_1": "downloads/2026-11-14-images/06_the-openai-board-member-who-fired-sam-altman-says-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-14-images/06_the-openai-board-member-who-fired-sam-altman-says-/caption.md"
+      }
+    }
+  ]
+}
