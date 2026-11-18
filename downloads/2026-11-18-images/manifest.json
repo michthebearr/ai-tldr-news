@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-18",
+  "edition_url": "https://www.aidaily.now/editions/2026-11-18-trump-ai-philippines-nvidia-rtx-spark",
+  "generated_at": "2026-11-18T23:04:03.307948+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_trump-wants-the-philippines-to-be-america-s-next-a",
+      "slug": "trump-wants-the-philippines-to-be-america-s-next-a",
+      "title": "Trump Wants the Philippines to Be America's Next AI Colony",
+      "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-18-images/01_trump-wants-the-philippines-to-be-america-s-next-a/hero.jpg",
+        "alt_1": "downloads/2026-11-18-images/01_trump-wants-the-philippines-to-be-america-s-next-a/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-18-images/01_trump-wants-the-philippines-to-be-america-s-next-a/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_nvidia-makes-8-300-in-pure-profit-every-single-sec",
+      "slug": "nvidia-makes-8-300-in-pure-profit-every-single-sec",
+      "title": "Nvidia Makes $8,300 in Pure Profit Every Single Second",
+      "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-18-images/02_nvidia-makes-8-300-in-pure-profit-every-single-sec/hero.jpg",
+        "alt_1": "downloads/2026-11-18-images/02_nvidia-makes-8-300-in-pure-profit-every-single-sec/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-18-images/02_nvidia-makes-8-300-in-pure-profit-every-single-sec/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_nvidia-rtx-spark-mini-pcs-are-now-shipping-from-as",
+      "slug": "nvidia-rtx-spark-mini-pcs-are-now-shipping-from-as",
+      "title": "Nvidia RTX Spark Mini PCs Are Now Shipping From Asus, Dell, and MSI",
+      "url": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-18-images/03_nvidia-rtx-spark-mini-pcs-are-now-shipping-from-as/hero.jpg",
+        "alt_1": "downloads/2026-11-18-images/03_nvidia-rtx-spark-mini-pcs-are-now-shipping-from-as/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-18-images/03_nvidia-rtx-spark-mini-pcs-are-now-shipping-from-as/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_congress-is-coming-for-deepfake-creators-and-force",
+      "slug": "congress-is-coming-for-deepfake-creators-and-force",
+      "title": "Congress Is Coming for Deepfake Creators and Forced Arbitration Clauses",
+      "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-18-images/04_congress-is-coming-for-deepfake-creators-and-force/hero.jpg",
+        "alt_1": "downloads/2026-11-18-images/04_congress-is-coming-for-deepfake-creators-and-force/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-18-images/04_congress-is-coming-for-deepfake-creators-and-force/caption.md"
+      }
+    }
+  ]
+}
