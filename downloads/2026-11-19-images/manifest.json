@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-19",
+  "edition_url": "https://www.aidaily.now/editions/2026-11-19-nvidia-crash-apple-agent-google-homepage",
+  "generated_at": "2026-11-19T23:07:42.285134+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_nvidia-stock-has-lost-40-and-the-interim-ceo-just-",
+      "slug": "nvidia-stock-has-lost-40-and-the-interim-ceo-just-",
+      "title": "Nvidia Stock Has Lost 40% \u2014 And the Interim CEO Just Said \"We've Got This\"",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-19-images/01_nvidia-stock-has-lost-40-and-the-interim-ceo-just-/hero.jpg",
+        "alt_1": "downloads/2026-11-19-images/01_nvidia-stock-has-lost-40-and-the-interim-ceo-just-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-19-images/01_nvidia-stock-has-lost-40-and-the-interim-ceo-just-/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_apple-wants-to-build-its-own-ai-agent-and-it-s-hir",
+      "slug": "apple-wants-to-build-its-own-ai-agent-and-it-s-hir",
+      "title": "Apple Wants to Build Its Own AI Agent \u2014 and It's Hiring Now",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "source": "The Verge",
+      "image_credit": "Allison Johnson / The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-19-images/02_apple-wants-to-build-its-own-ai-agent-and-it-s-hir/hero.jpg",
+        "alt_1": "downloads/2026-11-19-images/02_apple-wants-to-build-its-own-ai-agent-and-it-s-hir/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-19-images/02_apple-wants-to-build-its-own-ai-agent-and-it-s-hir/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_google-s-homepage-is-now-a-chat-interface-with-a-s",
+      "slug": "google-s-homepage-is-now-a-chat-interface-with-a-s",
+      "title": "Google's Homepage Is Now a Chat Interface With a Search Attachment",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-19-images/03_google-s-homepage-is-now-a-chat-interface-with-a-s/hero.jpg",
+        "alt_1": "downloads/2026-11-19-images/03_google-s-homepage-is-now-a-chat-interface-with-a-s/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-19-images/03_google-s-homepage-is-now-a-chat-interface-with-a-s/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_meta-s-muse-charm-ai-gadget-will-run-you-300",
+      "slug": "meta-s-muse-charm-ai-gadget-will-run-you-300",
+      "title": "Meta's Muse Charm AI Gadget Will Run You $300",
+      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "source": "The Verge",
+      "image_credit": "Sean Hollister / The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-19-images/04_meta-s-muse-charm-ai-gadget-will-run-you-300/hero.jpg",
+        "alt_1": "downloads/2026-11-19-images/04_meta-s-muse-charm-ai-gadget-will-run-you-300/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-19-images/04_meta-s-muse-charm-ai-gadget-will-run-you-300/caption.md"
+      }
+    }
+  ]
+}
