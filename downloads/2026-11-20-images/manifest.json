@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-20",
+  "edition_url": "https://www.aidaily.now/editions/2026-11-20-riemann-hypothesis-ai-supply-chain-trump-data-centers",
+  "generated_at": "2026-11-20T22:43:09.156332+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_an-anthropic-mathematician-may-have-just-solved-ma",
+      "slug": "an-anthropic-mathematician-may-have-just-solved-ma",
+      "title": "An Anthropic Mathematician May Have Just Solved Math's Hardest Problem \u2014 With Claude's Help",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-20-images/01_an-anthropic-mathematician-may-have-just-solved-ma/hero.jpg",
+        "alt_1": "downloads/2026-11-20-images/01_an-anthropic-mathematician-may-have-just-solved-ma/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-20-images/01_an-anthropic-mathematician-may-have-just-solved-ma/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_a-researcher-planted-2-million-canaries-in-the-ai-",
+      "slug": "a-researcher-planted-2-million-canaries-in-the-ai-",
+      "title": "A Researcher Planted 2 Million Canaries in the AI Supply Chain. It Was a Privacy Disaster.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "source": "Ars Technica",
+      "image_credit": "Ars Technica",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-20-images/02_a-researcher-planted-2-million-canaries-in-the-ai-/hero.jpg",
+        "alt_1": "downloads/2026-11-20-images/02_a-researcher-planted-2-million-canaries-in-the-ai-/alt-1.jpg",
+        "alt_2": "downloads/2026-11-20-images/02_a-researcher-planted-2-million-canaries-in-the-ai-/alt-2.jpg",
+        "cover": null,
+        "caption": "downloads/2026-11-20-images/02_a-researcher-planted-2-million-canaries-in-the-ai-/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_trump-threatens-a-tremendous-tax-on-companies-that",
+      "slug": "trump-threatens-a-tremendous-tax-on-companies-that",
+      "title": "Trump Threatens a \"Tremendous Tax\" on Companies That Build AI Data Centers Abroad",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-20-images/03_trump-threatens-a-tremendous-tax-on-companies-that/hero.jpg",
+        "alt_1": "downloads/2026-11-20-images/03_trump-threatens-a-tremendous-tax-on-companies-that/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-20-images/03_trump-threatens-a-tremendous-tax-on-companies-that/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_google-is-killing-google-assistant-on-smart-speake",
+      "slug": "google-is-killing-google-assistant-on-smart-speake",
+      "title": "Google Is Killing Google Assistant on Smart Speakers",
+      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
+      "source": "The Verge",
+      "image_credit": "Dan Seifert / The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-20-images/04_google-is-killing-google-assistant-on-smart-speake/hero.jpg",
+        "alt_1": "downloads/2026-11-20-images/04_google-is-killing-google-assistant-on-smart-speake/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-20-images/04_google-is-killing-google-assistant-on-smart-speake/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_youtube-is-settling-school-district-addiction-laws",
+      "slug": "youtube-is-settling-school-district-addiction-laws",
+      "title": "YouTube Is Settling School District Addiction Lawsuits for $3 Billion",
+      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-20-images/05_youtube-is-settling-school-district-addiction-laws/hero.jpg",
+        "alt_1": "downloads/2026-11-20-images/05_youtube-is-settling-school-district-addiction-laws/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-20-images/05_youtube-is-settling-school-district-addiction-laws/caption.md"
+      }
+    }
+  ]
+}
