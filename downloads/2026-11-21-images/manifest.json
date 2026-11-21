@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-21",
+  "edition_url": "https://www.aidaily.now/editions/2026-11-21-anthropic-ipo-un-killer-robots-fbi-hack",
+  "generated_at": "2026-11-21T21:41:40.439155+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_anthropic-went-public-now-comes-the-hard-part",
+      "slug": "anthropic-went-public-now-comes-the-hard-part",
+      "title": "Anthropic Went Public \u2014 Now Comes the Hard Part",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-21-images/01_anthropic-went-public-now-comes-the-hard-part/hero.jpg",
+        "alt_1": "downloads/2026-11-21-images/01_anthropic-went-public-now-comes-the-hard-part/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-21-images/01_anthropic-went-public-now-comes-the-hard-part/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_the-un-met-all-week-on-killer-robots-and-agreed-to",
+      "slug": "the-un-met-all-week-on-killer-robots-and-agreed-to",
+      "title": "The UN Met All Week on Killer Robots and Agreed to\u2026 Talk More",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge",
+      "image_credit": "John Moore/Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-21-images/02_the-un-met-all-week-on-killer-robots-and-agreed-to/hero.jpg",
+        "alt_1": "downloads/2026-11-21-images/02_the-un-met-all-week-on-killer-robots-and-agreed-to/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-21-images/02_the-un-met-all-week-on-killer-robots-and-agreed-to/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_fbi-hacked-again-and-this-time-it-s-the-crime-data",
+      "slug": "fbi-hacked-again-and-this-time-it-s-the-crime-data",
+      "title": "FBI Hacked \u2014 Again \u2014 and This Time It's the Crime Database",
+      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+      "source": "The Verge",
+      "image_credit": "Amelia Holowaty Krales / The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-21-images/03_fbi-hacked-again-and-this-time-it-s-the-crime-data/hero.jpg",
+        "alt_1": "downloads/2026-11-21-images/03_fbi-hacked-again-and-this-time-it-s-the-crime-data/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-21-images/03_fbi-hacked-again-and-this-time-it-s-the-crime-data/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_chess-com-is-quietly-building-an-ai-powered-classi",
+      "slug": "chess-com-is-quietly-building-an-ai-powered-classi",
+      "title": "Chess.com Is Quietly Building an AI-Powered Classic Games Empire",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-21-images/04_chess-com-is-quietly-building-an-ai-powered-classi/hero.jpg",
+        "alt_1": "downloads/2026-11-21-images/04_chess-com-is-quietly-building-an-ai-powered-classi/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-21-images/04_chess-com-is-quietly-building-an-ai-powered-classi/caption.md"
+      }
+    }
+  ]
+}
