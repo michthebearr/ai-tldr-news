@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-22",
+  "edition_url": "https://www.aidaily.now/editions/2026-11-22-vibe-coding-hardware-ai-music-backlash",
+  "generated_at": "2026-11-22T21:47:50.346324+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_vibe-coding-is-about-to-reprogram-your-physical-ga",
+      "slug": "vibe-coding-is-about-to-reprogram-your-physical-ga",
+      "title": "Vibe-Coding Is About to Reprogram Your Physical Gadgets",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-22-images/01_vibe-coding-is-about-to-reprogram-your-physical-ga/hero.jpg",
+        "alt_1": "downloads/2026-11-22-images/01_vibe-coding-is-about-to-reprogram-your-physical-ga/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-22-images/01_vibe-coding-is-about-to-reprogram-your-physical-ga/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_binding-of-isaac-dev-yanks-ai-music-after-steam-re",
+      "slug": "binding-of-isaac-dev-yanks-ai-music-after-steam-re",
+      "title": "Binding of Isaac Dev Yanks AI Music After Steam Review Bomb",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-22-images/02_binding-of-isaac-dev-yanks-ai-music-after-steam-re/hero.jpg",
+        "alt_1": "downloads/2026-11-22-images/02_binding-of-isaac-dev-yanks-ai-music-after-steam-re/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-22-images/02_binding-of-isaac-dev-yanks-ai-music-after-steam-re/caption.md"
+      }
+    }
+  ]
+}
