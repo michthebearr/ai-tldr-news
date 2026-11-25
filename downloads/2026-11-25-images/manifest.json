@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-25",
+  "edition_url": "https://www.aidaily.now/editions/2026-11-25-ai-agents-zero-day-jensen-huang-huawei",
+  "generated_at": "2026-11-25T00:40:25.785042+00:00",
+  "articles": [
+    {
+      "index": 1,
+      "folder": "01_ai-agents-are-now-hacking-on-their-own-with-almost",
+      "slug": "ai-agents-are-now-hacking-on-their-own-with-almost",
+      "title": "AI Agents Are Now Hacking on Their Own \u2014 With Almost No Human Help",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "source": "Ars Technica",
+      "image_credit": "Ars Technica",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-25-images/01_ai-agents-are-now-hacking-on-their-own-with-almost/hero.jpg",
+        "alt_1": "downloads/2026-11-25-images/01_ai-agents-are-now-hacking-on-their-own-with-almost/alt-1.jpg",
+        "alt_2": "downloads/2026-11-25-images/01_ai-agents-are-now-hacking-on-their-own-with-almost/alt-2.jpg",
+        "cover": null,
+        "caption": "downloads/2026-11-25-images/01_ai-agents-are-now-hacking-on-their-own-with-almost/caption.md"
+      }
+    },
+    {
+      "index": 2,
+      "folder": "02_jensen-huang-is-back-at-nvidia-and-already-playing",
+      "slug": "jensen-huang-is-back-at-nvidia-and-already-playing",
+      "title": "Jensen Huang Is Back at Nvidia and Already Playing Defense",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "source": "The Verge",
+      "image_credit": "Jens Kalaene/picture alliance via Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-25-images/02_jensen-huang-is-back-at-nvidia-and-already-playing/hero.jpg",
+        "alt_1": "downloads/2026-11-25-images/02_jensen-huang-is-back-at-nvidia-and-already-playing/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-25-images/02_jensen-huang-is-back-at-nvidia-and-already-playing/caption.md"
+      }
+    },
+    {
+      "index": 3,
+      "folder": "03_huawei-convicted-of-stealing-trade-secrets-from-t-",
+      "slug": "huawei-convicted-of-stealing-trade-secrets-from-t-",
+      "title": "Huawei Convicted of Stealing Trade Secrets from T-Mobile, Cisco, and Motorola",
+      "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+      "source": "The Verge",
+      "image_credit": "Vernon Yuen/Nexpher Images via Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-25-images/03_huawei-convicted-of-stealing-trade-secrets-from-t-/hero.jpg",
+        "alt_1": "downloads/2026-11-25-images/03_huawei-convicted-of-stealing-trade-secrets-from-t-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-25-images/03_huawei-convicted-of-stealing-trade-secrets-from-t-/caption.md"
+      }
+    },
+    {
+      "index": 4,
+      "folder": "04_firefox-161-ships-with-per-site-vpn-rules-and-a-on",
+      "slug": "firefox-161-ships-with-per-site-vpn-rules-and-a-on",
+      "title": "Firefox 161 Ships With Per-Site VPN Rules and a One-Click History Nuke",
+      "url": "https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-25-images/04_firefox-161-ships-with-per-site-vpn-rules-and-a-on/hero.jpg",
+        "alt_1": "downloads/2026-11-25-images/04_firefox-161-ships-with-per-site-vpn-rules-and-a-on/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-25-images/04_firefox-161-ships-with-per-site-vpn-rules-and-a-on/caption.md"
+      }
+    },
+    {
+      "index": 5,
+      "folder": "05_fisa-section-702-faces-last-minute-congressional-s",
+      "slug": "fisa-section-702-faces-last-minute-congressional-s",
+      "title": "FISA Section 702 Faces Last-Minute Congressional Scramble",
+      "url": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
+      "source": "The Verge",
+      "image_credit": "Getty Images",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-25-images/05_fisa-section-702-faces-last-minute-congressional-s/hero.jpg",
+        "alt_1": "downloads/2026-11-25-images/05_fisa-section-702-faces-last-minute-congressional-s/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-25-images/05_fisa-section-702-faces-last-minute-congressional-s/caption.md"
+      }
+    },
+    {
+      "index": 6,
+      "folder": "06_take-two-kills-fan-built-gta-vi-pc-port-before-it-",
+      "slug": "take-two-kills-fan-built-gta-vi-pc-port-before-it-",
+      "title": "Take-Two Kills Fan-Built GTA VI PC Port Before It Could Get Started",
+      "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
+      "source": "The Verge",
+      "image_credit": "The Verge",
+      "image_source": "og:image",
+      "logo_color": "n/a",
+      "cover_mode": "n/a",
+      "files": {
+        "hero": "downloads/2026-11-25-images/06_take-two-kills-fan-built-gta-vi-pc-port-before-it-/hero.jpg",
+        "alt_1": "downloads/2026-11-25-images/06_take-two-kills-fan-built-gta-vi-pc-port-before-it-/alt-1.jpg",
+        "alt_2": null,
+        "cover": null,
+        "caption": "downloads/2026-11-25-images/06_take-two-kills-fan-built-gta-vi-pc-port-before-it-/caption.md"
+      }
+    }
+  ]
+}
